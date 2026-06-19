@@ -1,0 +1,1505 @@
+{
+  "contentVersion": "0.1.0-dev",
+  "_placeholderNotice": "DEVELOPMENT SCAFFOLD — All meaning_long, quran_refs text, and attestation details are PLACEHOLDERS. Every field marked [PLACEHOLDER] must be reviewed and replaced by a qualified scholar before any public release. See SPEC.md §9.",
+  "names": [
+    {
+      "id": "allah",
+      "arabic": "ٱللَّه",
+      "transliteration": "Allāh",
+      "transliteration_ascii": "Allah",
+      "translation": "God — The One God",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] The proper name of God in Arabic, from which all other names flow as attributes. This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 1, "ayah": 1, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER — pending final Quran edition and translation]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "أ ل ه"
+    },
+    {
+      "id": "ar_rahman",
+      "arabic": "ٱلرَّحْمَـٰنُ",
+      "transliteration": "Ar-Raḥmān",
+      "transliteration_ascii": "Ar-Rahman",
+      "translation": "The Most Gracious",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] One of the most frequently occurring names in the Quran. This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 1, "ayah": 3, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" },
+        { "sura": 17, "ayah": 110, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ر ح م"
+    },
+    {
+      "id": "ar_rahim",
+      "arabic": "ٱلرَّحِيمُ",
+      "transliteration": "Ar-Raḥīm",
+      "transliteration_ascii": "Ar-Rahim",
+      "translation": "The Most Merciful",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 1, "ayah": 3, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ر ح م"
+    },
+    {
+      "id": "al_malik",
+      "arabic": "ٱلْمَلِكُ",
+      "transliteration": "Al-Malik",
+      "transliteration_ascii": "Al-Malik",
+      "translation": "The Sovereign",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 59, "ayah": 23, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "م ل ك"
+    },
+    {
+      "id": "al_quddus",
+      "arabic": "ٱلْقُدُّوسُ",
+      "transliteration": "Al-Quddūs",
+      "transliteration_ascii": "Al-Quddus",
+      "translation": "The Most Holy",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 59, "ayah": 23, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ق د س"
+    },
+    {
+      "id": "as_salam",
+      "arabic": "ٱلسَّلَامُ",
+      "transliteration": "As-Salām",
+      "transliteration_ascii": "As-Salam",
+      "translation": "The Source of Peace",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 59, "ayah": 23, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "س ل م"
+    },
+    {
+      "id": "al_mumin",
+      "arabic": "ٱلْمُؤْمِنُ",
+      "transliteration": "Al-Mu'min",
+      "transliteration_ascii": "Al-Mu'min",
+      "translation": "The Granter of Security",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 59, "ayah": 23, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "أ م ن"
+    },
+    {
+      "id": "al_muhaymin",
+      "arabic": "ٱلْمُهَيْمِنُ",
+      "transliteration": "Al-Muhaymin",
+      "transliteration_ascii": "Al-Muhaymin",
+      "translation": "The Guardian",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 59, "ayah": 23, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ه ي م ن"
+    },
+    {
+      "id": "al_aziz",
+      "arabic": "ٱلْعَزِيزُ",
+      "transliteration": "Al-'Azīz",
+      "transliteration_ascii": "Al-'Aziz",
+      "translation": "The Almighty",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 59, "ayah": 23, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ع ز ز"
+    },
+    {
+      "id": "al_jabbar",
+      "arabic": "ٱلْجَبَّارُ",
+      "transliteration": "Al-Jabbār",
+      "transliteration_ascii": "Al-Jabbar",
+      "translation": "The Compeller",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 59, "ayah": 23, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ج ب ر"
+    },
+    {
+      "id": "al_mutakabbir",
+      "arabic": "ٱلْمُتَكَبِّرُ",
+      "transliteration": "Al-Mutakabbir",
+      "transliteration_ascii": "Al-Mutakabbir",
+      "translation": "The Possessor of Greatness",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 59, "ayah": 23, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ك ب ر"
+    },
+    {
+      "id": "al_khaliq",
+      "arabic": "ٱلْخَالِقُ",
+      "transliteration": "Al-Khāliq",
+      "transliteration_ascii": "Al-Khaliq",
+      "translation": "The Creator",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 59, "ayah": 24, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "خ ل ق"
+    },
+    {
+      "id": "al_bari",
+      "arabic": "ٱلْبَارِئُ",
+      "transliteration": "Al-Bāri'",
+      "transliteration_ascii": "Al-Bari'",
+      "translation": "The Originator of Creation",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 59, "ayah": 24, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ب ر أ"
+    },
+    {
+      "id": "al_musawwir",
+      "arabic": "ٱلْمُصَوِّرُ",
+      "transliteration": "Al-Muṣawwir",
+      "transliteration_ascii": "Al-Musawwir",
+      "translation": "The Shaper of Beauty",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 59, "ayah": 24, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ص و ر"
+    },
+    {
+      "id": "al_ghaffar",
+      "arabic": "ٱلْغَفَّارُ",
+      "transliteration": "Al-Ghaffār",
+      "transliteration_ascii": "Al-Ghaffar",
+      "translation": "The Repeatedly Forgiving",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 20, "ayah": 82, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "غ ف ر"
+    },
+    {
+      "id": "al_qahhar",
+      "arabic": "ٱلْقَهَّارُ",
+      "transliteration": "Al-Qahhār",
+      "transliteration_ascii": "Al-Qahhar",
+      "translation": "The Subduer",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 13, "ayah": 16, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ق ه ر"
+    },
+    {
+      "id": "al_wahhab",
+      "arabic": "ٱلْوَهَّابُ",
+      "transliteration": "Al-Wahhāb",
+      "transliteration_ascii": "Al-Wahhab",
+      "translation": "The Bestower",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 3, "ayah": 8, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "و ه ب"
+    },
+    {
+      "id": "ar_razzaq",
+      "arabic": "ٱلرَّزَّاقُ",
+      "transliteration": "Ar-Razzāq",
+      "transliteration_ascii": "Ar-Razzaq",
+      "translation": "The Provider",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 51, "ayah": 58, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ر ز ق"
+    },
+    {
+      "id": "al_fattah",
+      "arabic": "ٱلْفَتَّاحُ",
+      "transliteration": "Al-Fattāḥ",
+      "transliteration_ascii": "Al-Fattah",
+      "translation": "The Opener",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 34, "ayah": 26, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ف ت ح"
+    },
+    {
+      "id": "al_alim",
+      "arabic": "ٱلْعَلِيمُ",
+      "transliteration": "Al-'Alīm",
+      "transliteration_ascii": "Al-'Alim",
+      "translation": "The All-Knowing",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 2, "ayah": 29, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ع ل م"
+    },
+    {
+      "id": "al_qabid",
+      "arabic": "ٱلْقَابِضُ",
+      "transliteration": "Al-Qābiḍ",
+      "transliteration_ascii": "Al-Qabid",
+      "translation": "The Withholder",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["sunnah"],
+      "quran_refs": [],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ق ب ض"
+    },
+    {
+      "id": "al_basit",
+      "arabic": "ٱلْبَاسِطُ",
+      "transliteration": "Al-Bāsiṭ",
+      "transliteration_ascii": "Al-Basit",
+      "translation": "The Extender",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["sunnah"],
+      "quran_refs": [],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ب س ط"
+    },
+    {
+      "id": "al_khafid",
+      "arabic": "ٱلْخَافِضُ",
+      "transliteration": "Al-Khāfiḍ",
+      "transliteration_ascii": "Al-Khafid",
+      "translation": "The Humiliator",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["sunnah"],
+      "quran_refs": [],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "خ ف ض"
+    },
+    {
+      "id": "ar_rafi",
+      "arabic": "ٱلرَّافِعُ",
+      "transliteration": "Ar-Rāfi'",
+      "transliteration_ascii": "Ar-Rafi'",
+      "translation": "The Exalter",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["sunnah"],
+      "quran_refs": [],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ر ف ع"
+    },
+    {
+      "id": "al_muizz",
+      "arabic": "ٱلْمُعِزُّ",
+      "transliteration": "Al-Mu'izz",
+      "transliteration_ascii": "Al-Mu'izz",
+      "translation": "The Honourer",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["sunnah"],
+      "quran_refs": [],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ع ز ز"
+    },
+    {
+      "id": "al_mudhill",
+      "arabic": "ٱلْمُذِلُّ",
+      "transliteration": "Al-Mudhill",
+      "transliteration_ascii": "Al-Mudhill",
+      "translation": "The Abaser",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["sunnah"],
+      "quran_refs": [],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ذ ل ل"
+    },
+    {
+      "id": "as_sami",
+      "arabic": "ٱلسَّمِيعُ",
+      "transliteration": "As-Samī'",
+      "transliteration_ascii": "As-Sami'",
+      "translation": "The All-Hearing",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 2, "ayah": 127, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "س م ع"
+    },
+    {
+      "id": "al_basir",
+      "arabic": "ٱلْبَصِيرُ",
+      "transliteration": "Al-Baṣīr",
+      "transliteration_ascii": "Al-Basir",
+      "translation": "The All-Seeing",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 4, "ayah": 58, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ب ص ر"
+    },
+    {
+      "id": "al_hakam",
+      "arabic": "ٱلْحَكَمُ",
+      "transliteration": "Al-Ḥakam",
+      "transliteration_ascii": "Al-Hakam",
+      "translation": "The Judge",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["sunnah"],
+      "quran_refs": [],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ح ك م"
+    },
+    {
+      "id": "al_adl",
+      "arabic": "ٱلْعَدْلُ",
+      "transliteration": "Al-'Adl",
+      "transliteration_ascii": "Al-'Adl",
+      "translation": "The Just",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["sunnah"],
+      "quran_refs": [],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ع د ل"
+    },
+    {
+      "id": "al_latif",
+      "arabic": "ٱللَّطِيفُ",
+      "transliteration": "Al-Laṭīf",
+      "transliteration_ascii": "Al-Latif",
+      "translation": "The Subtle One",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 6, "ayah": 103, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ل ط ف"
+    },
+    {
+      "id": "al_khabir",
+      "arabic": "ٱلْخَبِيرُ",
+      "transliteration": "Al-Khabīr",
+      "transliteration_ascii": "Al-Khabir",
+      "translation": "The All-Aware",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 6, "ayah": 18, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "خ ب ر"
+    },
+    {
+      "id": "al_halim",
+      "arabic": "ٱلْحَلِيمُ",
+      "transliteration": "Al-Ḥalīm",
+      "transliteration_ascii": "Al-Halim",
+      "translation": "The Forbearing",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 2, "ayah": 225, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ح ل م"
+    },
+    {
+      "id": "al_azim",
+      "arabic": "ٱلْعَظِيمُ",
+      "transliteration": "Al-'Aẓīm",
+      "transliteration_ascii": "Al-'Azim",
+      "translation": "The Magnificent",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 2, "ayah": 255, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ع ظ م"
+    },
+    {
+      "id": "al_ghafur",
+      "arabic": "ٱلْغَفُورُ",
+      "transliteration": "Al-Ghafūr",
+      "transliteration_ascii": "Al-Ghafur",
+      "translation": "The Forgiving",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 2, "ayah": 173, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "غ ف ر"
+    },
+    {
+      "id": "ash_shakur",
+      "arabic": "ٱلشَّكُورُ",
+      "transliteration": "Ash-Shakūr",
+      "transliteration_ascii": "Ash-Shakur",
+      "translation": "The Appreciative",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 35, "ayah": 30, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ش ك ر"
+    },
+    {
+      "id": "al_ali",
+      "arabic": "ٱلْعَلِيُّ",
+      "transliteration": "Al-'Alī",
+      "transliteration_ascii": "Al-'Ali",
+      "translation": "The Most High",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 2, "ayah": 255, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ع ل و"
+    },
+    {
+      "id": "al_kabir",
+      "arabic": "ٱلْكَبِيرُ",
+      "transliteration": "Al-Kabīr",
+      "transliteration_ascii": "Al-Kabir",
+      "translation": "The Most Great",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 13, "ayah": 9, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ك ب ر"
+    },
+    {
+      "id": "al_hafiz",
+      "arabic": "ٱلْحَفِيظُ",
+      "transliteration": "Al-Ḥafīẓ",
+      "transliteration_ascii": "Al-Hafiz",
+      "translation": "The Preserver",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 11, "ayah": 57, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ح ف ظ"
+    },
+    {
+      "id": "al_muqit",
+      "arabic": "ٱلْمُقِيتُ",
+      "transliteration": "Al-Muqīt",
+      "transliteration_ascii": "Al-Muqit",
+      "translation": "The Nourisher",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 4, "ayah": 85, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ق و ت"
+    },
+    {
+      "id": "al_hasib",
+      "arabic": "ٱلْحَسِيبُ",
+      "transliteration": "Al-Ḥasīb",
+      "transliteration_ascii": "Al-Hasib",
+      "translation": "The Reckoner",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 4, "ayah": 6, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ح س ب"
+    },
+    {
+      "id": "al_jalil",
+      "arabic": "ٱلْجَلِيلُ",
+      "transliteration": "Al-Jalīl",
+      "transliteration_ascii": "Al-Jalil",
+      "translation": "The Majestic",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["sunnah"],
+      "quran_refs": [],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ج ل ل"
+    },
+    {
+      "id": "al_karim",
+      "arabic": "ٱلْكَرِيمُ",
+      "transliteration": "Al-Karīm",
+      "transliteration_ascii": "Al-Karim",
+      "translation": "The Generous",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 82, "ayah": 6, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ك ر م"
+    },
+    {
+      "id": "ar_raqib",
+      "arabic": "ٱلرَّقِيبُ",
+      "transliteration": "Ar-Raqīb",
+      "transliteration_ascii": "Ar-Raqib",
+      "translation": "The Watchful",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 4, "ayah": 1, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ر ق ب"
+    },
+    {
+      "id": "al_mujib",
+      "arabic": "ٱلْمُجِيبُ",
+      "transliteration": "Al-Mujīb",
+      "transliteration_ascii": "Al-Mujib",
+      "translation": "The Responsive",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 11, "ayah": 61, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ج و ب"
+    },
+    {
+      "id": "al_wasi",
+      "arabic": "ٱلْوَاسِعُ",
+      "transliteration": "Al-Wāsi'",
+      "transliteration_ascii": "Al-Wasi'",
+      "translation": "The All-Encompassing",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 2, "ayah": 115, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "و س ع"
+    },
+    {
+      "id": "al_hakim",
+      "arabic": "ٱلْحَكِيمُ",
+      "transliteration": "Al-Ḥakīm",
+      "transliteration_ascii": "Al-Hakim",
+      "translation": "The Perfectly Wise",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 2, "ayah": 32, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ح ك م"
+    },
+    {
+      "id": "al_wadud",
+      "arabic": "ٱلْوَدُودُ",
+      "transliteration": "Al-Wadūd",
+      "transliteration_ascii": "Al-Wadud",
+      "translation": "The Loving",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 11, "ayah": 90, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" },
+        { "sura": 85, "ayah": 14, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "و د د"
+    },
+    {
+      "id": "al_majid",
+      "arabic": "ٱلْمَجِيدُ",
+      "transliteration": "Al-Majīd",
+      "transliteration_ascii": "Al-Majid",
+      "translation": "The Most Glorious",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 11, "ayah": 73, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" },
+        { "sura": 85, "ayah": 15, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "م ج د"
+    },
+    {
+      "id": "al_baith",
+      "arabic": "ٱلْبَاعِثُ",
+      "transliteration": "Al-Bā'ith",
+      "transliteration_ascii": "Al-Ba'ith",
+      "translation": "The Resurrector",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["sunnah"],
+      "quran_refs": [],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ب ع ث"
+    },
+    {
+      "id": "ash_shahid",
+      "arabic": "ٱلشَّهِيدُ",
+      "transliteration": "Ash-Shahīd",
+      "transliteration_ascii": "Ash-Shahid",
+      "translation": "The Witness",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 4, "ayah": 79, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ش ه د"
+    },
+    {
+      "id": "al_haqq",
+      "arabic": "ٱلْحَقُّ",
+      "transliteration": "Al-Ḥaqq",
+      "transliteration_ascii": "Al-Haqq",
+      "translation": "The Truth",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 22, "ayah": 6, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ح ق ق"
+    },
+    {
+      "id": "al_wakil",
+      "arabic": "ٱلْوَكِيلُ",
+      "transliteration": "Al-Wakīl",
+      "transliteration_ascii": "Al-Wakil",
+      "translation": "The Trustee",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 3, "ayah": 173, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "و ك ل"
+    },
+    {
+      "id": "al_qawi",
+      "arabic": "ٱلْقَوِيُّ",
+      "transliteration": "Al-Qawī",
+      "transliteration_ascii": "Al-Qawi",
+      "translation": "The All-Powerful",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 11, "ayah": 66, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ق و ي"
+    },
+    {
+      "id": "al_matin",
+      "arabic": "ٱلْمَتِينُ",
+      "transliteration": "Al-Matīn",
+      "transliteration_ascii": "Al-Matin",
+      "translation": "The Firm",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 51, "ayah": 58, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "م ت ن"
+    },
+    {
+      "id": "al_wali",
+      "arabic": "ٱلْوَلِيُّ",
+      "transliteration": "Al-Walī",
+      "transliteration_ascii": "Al-Wali",
+      "translation": "The Protecting Friend",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 42, "ayah": 28, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "و ل ي"
+    },
+    {
+      "id": "al_hamid",
+      "arabic": "ٱلْحَمِيدُ",
+      "transliteration": "Al-Ḥamīd",
+      "transliteration_ascii": "Al-Hamid",
+      "translation": "The Praiseworthy",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 2, "ayah": 267, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ح م د"
+    },
+    {
+      "id": "al_muhsi",
+      "arabic": "ٱلْمُحْصِي",
+      "transliteration": "Al-Muḥṣī",
+      "transliteration_ascii": "Al-Muhsi",
+      "translation": "The Counter",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["sunnah"],
+      "quran_refs": [],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ح ص ي"
+    },
+    {
+      "id": "al_mubdi",
+      "arabic": "ٱلْمُبْدِئُ",
+      "transliteration": "Al-Mubdi'",
+      "transliteration_ascii": "Al-Mubdi'",
+      "translation": "The Initiator",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["sunnah"],
+      "quran_refs": [],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ب د أ"
+    },
+    {
+      "id": "al_muid",
+      "arabic": "ٱلْمُعِيدُ",
+      "transliteration": "Al-Mu'īd",
+      "transliteration_ascii": "Al-Mu'id",
+      "translation": "The Restorer",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["sunnah"],
+      "quran_refs": [],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ع و د"
+    },
+    {
+      "id": "al_muhyi",
+      "arabic": "ٱلْمُحْيِي",
+      "transliteration": "Al-Muḥyī",
+      "transliteration_ascii": "Al-Muhyi",
+      "translation": "The Giver of Life",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 30, "ayah": 50, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ح ي ي"
+    },
+    {
+      "id": "al_mumit",
+      "arabic": "ٱلْمُمِيتُ",
+      "transliteration": "Al-Mumīt",
+      "transliteration_ascii": "Al-Mumit",
+      "translation": "The Taker of Life",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 3, "ayah": 156, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "م و ت"
+    },
+    {
+      "id": "al_hayy",
+      "arabic": "ٱلْحَيُّ",
+      "transliteration": "Al-Ḥayy",
+      "transliteration_ascii": "Al-Hayy",
+      "translation": "The Ever-Living",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 2, "ayah": 255, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ح ي ي"
+    },
+    {
+      "id": "al_qayyum",
+      "arabic": "ٱلْقَيُّومُ",
+      "transliteration": "Al-Qayyūm",
+      "transliteration_ascii": "Al-Qayyum",
+      "translation": "The Self-Subsisting",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 2, "ayah": 255, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" },
+        { "sura": 3, "ayah": 2, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ق و م"
+    },
+    {
+      "id": "al_wajid",
+      "arabic": "ٱلْوَاجِدُ",
+      "transliteration": "Al-Wājid",
+      "transliteration_ascii": "Al-Wajid",
+      "translation": "The Perceiver",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["sunnah"],
+      "quran_refs": [],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "و ج د"
+    },
+    {
+      "id": "al_majd",
+      "arabic": "ٱلْمَاجِدُ",
+      "transliteration": "Al-Mājid",
+      "transliteration_ascii": "Al-Majid",
+      "translation": "The Illustrious",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["sunnah"],
+      "quran_refs": [],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "م ج د"
+    },
+    {
+      "id": "al_wahid",
+      "arabic": "ٱلْوَاحِدُ",
+      "transliteration": "Al-Wāḥid",
+      "transliteration_ascii": "Al-Wahid",
+      "translation": "The One",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 13, "ayah": 16, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "و ح د"
+    },
+    {
+      "id": "as_samad",
+      "arabic": "ٱلصَّمَدُ",
+      "transliteration": "Aṣ-Ṣamad",
+      "transliteration_ascii": "As-Samad",
+      "translation": "The Eternal",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 112, "ayah": 2, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ص م د"
+    },
+    {
+      "id": "al_qadir",
+      "arabic": "ٱلْقَادِرُ",
+      "transliteration": "Al-Qādir",
+      "transliteration_ascii": "Al-Qadir",
+      "translation": "The Omnipotent",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 6, "ayah": 65, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ق د ر"
+    },
+    {
+      "id": "al_muqtadir",
+      "arabic": "ٱلْمُقْتَدِرُ",
+      "transliteration": "Al-Muqtadir",
+      "transliteration_ascii": "Al-Muqtadir",
+      "translation": "The All-Powerful",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 18, "ayah": 45, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ق د ر"
+    },
+    {
+      "id": "al_muqaddim",
+      "arabic": "ٱلْمُقَدِّمُ",
+      "transliteration": "Al-Muqaddim",
+      "transliteration_ascii": "Al-Muqaddim",
+      "translation": "The Expediter",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["sunnah"],
+      "quran_refs": [],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ق د م"
+    },
+    {
+      "id": "al_muakhkhir",
+      "arabic": "ٱلْمُؤَخِّرُ",
+      "transliteration": "Al-Mu'akhkhir",
+      "transliteration_ascii": "Al-Mu'akhkhir",
+      "translation": "The Delayer",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["sunnah"],
+      "quran_refs": [],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "أ خ ر"
+    },
+    {
+      "id": "al_awwal",
+      "arabic": "ٱلْأَوَّلُ",
+      "transliteration": "Al-Awwal",
+      "transliteration_ascii": "Al-Awwal",
+      "translation": "The First",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 57, "ayah": 3, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "أ و ل"
+    },
+    {
+      "id": "al_akhir",
+      "arabic": "ٱلْآخِرُ",
+      "transliteration": "Al-Ākhir",
+      "transliteration_ascii": "Al-Akhir",
+      "translation": "The Last",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 57, "ayah": 3, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "أ خ ر"
+    },
+    {
+      "id": "az_zahir",
+      "arabic": "ٱلظَّاهِرُ",
+      "transliteration": "Aẓ-Ẓāhir",
+      "transliteration_ascii": "Az-Zahir",
+      "translation": "The Manifest",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 57, "ayah": 3, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ظ ه ر"
+    },
+    {
+      "id": "al_batin",
+      "arabic": "ٱلْبَاطِنُ",
+      "transliteration": "Al-Bāṭin",
+      "transliteration_ascii": "Al-Batin",
+      "translation": "The Hidden",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 57, "ayah": 3, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ب ط ن"
+    },
+    {
+      "id": "al_wali_gov",
+      "arabic": "ٱلْوَالِي",
+      "transliteration": "Al-Wālī",
+      "transliteration_ascii": "Al-Wali",
+      "translation": "The Governor",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 13, "ayah": 11, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "و ل ي"
+    },
+    {
+      "id": "al_mutaali",
+      "arabic": "ٱلْمُتَعَالِي",
+      "transliteration": "Al-Muta'ālī",
+      "transliteration_ascii": "Al-Muta'ali",
+      "translation": "The Most Exalted",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 13, "ayah": 9, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ع ل و"
+    },
+    {
+      "id": "al_barr",
+      "arabic": "ٱلْبَرُّ",
+      "transliteration": "Al-Barr",
+      "transliteration_ascii": "Al-Barr",
+      "translation": "The Most Kind",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 52, "ayah": 28, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ب ر ر"
+    },
+    {
+      "id": "at_tawwab",
+      "arabic": "ٱلتَّوَّابُ",
+      "transliteration": "At-Tawwāb",
+      "transliteration_ascii": "At-Tawwab",
+      "translation": "The Accepter of Repentance",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 2, "ayah": 37, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ت و ب"
+    },
+    {
+      "id": "al_muntaqim",
+      "arabic": "ٱلْمُنْتَقِمُ",
+      "transliteration": "Al-Muntaqim",
+      "transliteration_ascii": "Al-Muntaqim",
+      "translation": "The Avenger",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 32, "ayah": 22, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ن ق م"
+    },
+    {
+      "id": "al_afuw",
+      "arabic": "ٱلْعَفُوُّ",
+      "transliteration": "Al-'Afūw",
+      "transliteration_ascii": "Al-'Afuw",
+      "translation": "The Pardoner",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 4, "ayah": 99, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ع ف و"
+    },
+    {
+      "id": "ar_rauf",
+      "arabic": "ٱلرَّءُوفُ",
+      "transliteration": "Ar-Ra'ūf",
+      "transliteration_ascii": "Ar-Ra'uf",
+      "translation": "The Most Compassionate",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 2, "ayah": 207, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ر أ ف"
+    },
+    {
+      "id": "malik_al_mulk",
+      "arabic": "مَٰلِكُ ٱلْمُلْكِ",
+      "transliteration": "Mālik al-Mulk",
+      "transliteration_ascii": "Malik al-Mulk",
+      "translation": "The Owner of Sovereignty",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 3, "ayah": 26, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "م ل ك"
+    },
+    {
+      "id": "dhul_jalal",
+      "arabic": "ذُو ٱلْجَلَٰلِ وَٱلْإِكْرَامِ",
+      "transliteration": "Dhū al-Jalāl wal-Ikrām",
+      "transliteration_ascii": "Dhul-Jalali wal-Ikram",
+      "translation": "Lord of Majesty and Bounty",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 55, "ayah": 27, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" },
+        { "sura": 55, "ayah": 78, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ج ل ل"
+    },
+    {
+      "id": "al_muqsit",
+      "arabic": "ٱلْمُقْسِطُ",
+      "transliteration": "Al-Muqsiṭ",
+      "transliteration_ascii": "Al-Muqsit",
+      "translation": "The Equitable",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["sunnah"],
+      "quran_refs": [],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ق س ط"
+    },
+    {
+      "id": "al_jami",
+      "arabic": "ٱلْجَامِعُ",
+      "transliteration": "Al-Jāmi'",
+      "transliteration_ascii": "Al-Jami'",
+      "translation": "The Gatherer",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["sunnah"],
+      "quran_refs": [],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ج م ع"
+    },
+    {
+      "id": "al_ghani",
+      "arabic": "ٱلْغَنِيُّ",
+      "transliteration": "Al-Ghanī",
+      "transliteration_ascii": "Al-Ghani",
+      "translation": "The Self-Sufficient",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 3, "ayah": 97, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "غ ن ي"
+    },
+    {
+      "id": "al_mughni",
+      "arabic": "ٱلْمُغْنِي",
+      "transliteration": "Al-Mughnī",
+      "transliteration_ascii": "Al-Mughni",
+      "translation": "The Enricher",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["sunnah"],
+      "quran_refs": [],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "غ ن ي"
+    },
+    {
+      "id": "al_mani",
+      "arabic": "ٱلْمَانِعُ",
+      "transliteration": "Al-Māni'",
+      "transliteration_ascii": "Al-Mani'",
+      "translation": "The Withholder",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["sunnah"],
+      "quran_refs": [],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "م ن ع"
+    },
+    {
+      "id": "ad_darr",
+      "arabic": "ٱلضَّارُّ",
+      "transliteration": "Aḍ-Ḍārr",
+      "transliteration_ascii": "Ad-Darr",
+      "translation": "The Creator of Adversity",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["sunnah"],
+      "quran_refs": [],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ض ر ر"
+    },
+    {
+      "id": "an_nafi",
+      "arabic": "ٱلنَّافِعُ",
+      "transliteration": "An-Nāfi'",
+      "transliteration_ascii": "An-Nafi'",
+      "translation": "The Creator of Good",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["sunnah"],
+      "quran_refs": [],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ن ف ع"
+    },
+    {
+      "id": "an_nur",
+      "arabic": "ٱلنُّورُ",
+      "transliteration": "An-Nūr",
+      "transliteration_ascii": "An-Nur",
+      "translation": "The Light",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 24, "ayah": 35, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ن و ر"
+    },
+    {
+      "id": "al_hadi",
+      "arabic": "ٱلْهَادِي",
+      "transliteration": "Al-Hādī",
+      "transliteration_ascii": "Al-Hadi",
+      "translation": "The Guide",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 22, "ayah": 54, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ه د ي"
+    },
+    {
+      "id": "al_badi",
+      "arabic": "ٱلْبَدِيعُ",
+      "transliteration": "Al-Badī'",
+      "transliteration_ascii": "Al-Badi'",
+      "translation": "The Incomparable Originator",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 2, "ayah": 117, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ب د ع"
+    },
+    {
+      "id": "al_baqi",
+      "arabic": "ٱلْبَاقِي",
+      "transliteration": "Al-Bāqī",
+      "transliteration_ascii": "Al-Baqi",
+      "translation": "The Everlasting",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["sunnah"],
+      "quran_refs": [],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ب ق ي"
+    },
+    {
+      "id": "al_warith",
+      "arabic": "ٱلْوَارِثُ",
+      "transliteration": "Al-Wārith",
+      "transliteration_ascii": "Al-Warith",
+      "translation": "The Inheritor",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran", "sunnah"],
+      "quran_refs": [
+        { "sura": 15, "ayah": 23, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "و ر ث"
+    },
+    {
+      "id": "ar_rashid",
+      "arabic": "ٱلرَّشِيدُ",
+      "transliteration": "Ar-Rashīd",
+      "transliteration_ascii": "Ar-Rashid",
+      "translation": "The Guide to the Right Path",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["sunnah"],
+      "quran_refs": [],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ر ش د"
+    },
+    {
+      "id": "as_sabur",
+      "arabic": "ٱلصَّبُورُ",
+      "transliteration": "Aṣ-Ṣabūr",
+      "transliteration_ascii": "As-Sabur",
+      "translation": "The Patient",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["sunnah"],
+      "quran_refs": [],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ص ب ر"
+    },
+    {
+      "id": "al_ahad",
+      "arabic": "ٱلْأَحَدُ",
+      "transliteration": "Al-Aḥad",
+      "transliteration_ascii": "Al-Ahad",
+      "translation": "The Unique",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran"],
+      "quran_refs": [
+        { "sura": 112, "ayah": 1, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "أ ح د"
+    },
+    {
+      "id": "al_qarib",
+      "arabic": "ٱلْقَرِيبُ",
+      "transliteration": "Al-Qarīb",
+      "transliteration_ascii": "Al-Qarib",
+      "translation": "The Near",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran"],
+      "quran_refs": [
+        { "sura": 2, "ayah": 186, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" },
+        { "sura": 11, "ayah": 61, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ق ر ب"
+    },
+    {
+      "id": "ar_rabb",
+      "arabic": "ٱلرَّبُّ",
+      "transliteration": "Ar-Rabb",
+      "transliteration_ascii": "Ar-Rabb",
+      "translation": "The Lord",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] One of the most frequently recurring names of God in the Quran. Its inclusion in the standard 99-name enumerations is a matter of scholarly discussion noted here — all content is PLACEHOLDER and must be reviewed by a qualified scholar before public release.",
+      "attestation": ["quran"],
+      "quran_refs": [
+        { "sura": 1, "ayah": 2, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ر ب ب"
+    },
+    {
+      "id": "al_fatir",
+      "arabic": "ٱلْفَاطِرُ",
+      "transliteration": "Al-Fāṭir",
+      "transliteration_ascii": "Al-Fatir",
+      "translation": "The Originator of the Heavens and Earth",
+      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "attestation": ["quran"],
+      "quran_refs": [
+        { "sura": 35, "ayah": 1, "text_ar": "[PLACEHOLDER]", "text_en": "[PLACEHOLDER]" }
+      ],
+      "audio": "placeholder.wav",
+      "tafsir_links": [],
+      "root": "ف ط ر"
+    }
+  ]
+}
