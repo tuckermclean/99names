@@ -1,0 +1,317 @@
+[
+  {
+    "id": "al_qadir",
+    "arabic": "ٱلْقَادِرُ",
+    "transliteration": "Al-Qādir",
+    "translation": "The Omnipotent",
+    "draft_meaning_long": "Al-Qādir names the reality whose capacity to act meets no resistance, no fatigue, and no need for instrument or intermediary. Where a person's power is borrowed, partial, and dependent on tools, health, and circumstance, this power is entire in itself: to will a thing and for it to be, or to withhold it, without labor and without another's help.\n\nHeld alongside knowledge and will — the two capacities power always presupposes — Al-Qādir points to a capability that could bring anything possible into being or let it remain unmanifest, with no gap between decision and effect. For the one who reflects on it, the name is less an abstract claim about divine attributes than an invitation to notice how thin human power actually is, and to spend the small measure of power one does have — over one's own limbs, tongue, and choices — in service rather than in illusions of self-sufficiency.",
+    "ghazali_basis": "Al-Ghazālī treats power (qudra) as one of the essential divine attributes bound tightly to knowledge and will, and repeatedly contrasts its unconditioned completeness with the fragmentary, instrument-dependent power of creatures; moderate-to-high confidence this reflects his emphasis, drawn from the general structure of his discussion of the essential attributes.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_muqtadir",
+    "arabic": "ٱلْمُقْتَدِرُ",
+    "transliteration": "Al-Muqtadir",
+    "translation": "The All-Powerful",
+    "draft_meaning_long": "Al-Muqtadir carries the same root as Al-Qādir but in an intensified form, and classical commentary on the Names often reads such intensified forms as pointing to a degree of a quality so complete that nothing could conceivably overmatch or resist it. If Al-Qādir affirms power as such, Al-Muqtadir affirms that this power faces no rival, no obstacle, and no ceiling — the mightiest of creation stand before it as nothing.\n\nThis is not power multiplied for its own display, but power described from the vantage of everything that might seem, to human eyes, unconquerable: death, empires, the vastness of the heavens. All of it is equally within reach of a single will. The believer's proper response is not fear alone but a settled trust — that whatever seems overwhelming in one's own life is not overwhelming to the One this name describes.",
+    "ghazali_basis": "Al-Ghazālī's method of reading intensified (mubālagha) forms as expressing completeness or totality of an attribute is well attested in his treatment of paired names; applying that pattern here is a reasonable, moderate-confidence reconstruction rather than a direct quotation of his chapter.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_muqaddim",
+    "arabic": "ٱلْمُقَدِّمُ",
+    "transliteration": "Al-Muqaddim",
+    "translation": "The Expediter",
+    "draft_meaning_long": "Al-Muqaddim and its companion Al-Mu'akhkhir describe a single reality that orders precedence and delay throughout creation: which causes act before their effects, which souls are drawn nearer before others, which nations rise before others fall, which servant is granted an opening in this life or the next before someone else. Nothing moves forward by accident; what is advanced is advanced by decree, not chance.\n\nTaken to heart, the name steadies the restlessness of comparison — the sense that another person's advancement, in wealth, recognition, or spiritual state, has come at one's own expense. Al-Ghazālī's broader habit of pairing opposite-sounding names as two faces of one governing wisdom suggests that here too, precedence and deferral together describe a single, unerring ordering, not two competing forces.",
+    "ghazali_basis": "This name is characteristically treated together with its pair Al-Mu'akhkhir in commentary on the ninety-nine names; moderate confidence in the substance here (ordering of ranks, causes, and outcomes by divine decree), lower confidence in reproducing al-Ghazālī's specific wording or illustrative examples, which are not attempted.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_muakhkhir",
+    "arabic": "ٱلْمُؤَخِّرُ",
+    "transliteration": "Al-Mu'akhkhir",
+    "translation": "The Delayer",
+    "draft_meaning_long": "Where Al-Muqaddim brings forward, Al-Mu'akhkhir sets back — delaying a person's provision, a nation's reckoning, or an answer to prayer, not from negligence but from a wisdom that knows when a thing is timely and when it is not. What looks, from within a single lifetime, like a door closed or a request refused may in the larger ordering be something rightly deferred.\n\nThe two names are inseparable in meaning: one who did not delay could not properly be said to expedite, and vice versa. Read together, they ask for patience with timing one cannot see the whole of, and they quietly correct the temptation to treat delay as denial.",
+    "ghazali_basis": "As with Al-Muqaddim, this name is traditionally read as a matched pair; the account here is a reasonable, original paraphrase of that shared theme rather than a report of al-Ghazālī's exact phrasing, which I have not attempted to reproduce.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_awwal",
+    "arabic": "ٱلْأَوَّلُ",
+    "transliteration": "Al-Awwal",
+    "translation": "The First",
+    "draft_meaning_long": "Al-Awwal affirms a beginning that has no beginning before it — not first in a sequence of things that came before, since nothing came before, but first in the sense of being wholly unpreceded, the ground rather than the start of a series. Everything originated has, by definition, a moment or cause prior to it; this name describes the one reality for which no such \"before\" exists at all.\n\nAl-Ghazālī's treatment of this name is closely bound to its counterpart, Al-Ākhir, and to the hadith pairing it with Aẓ-Ẓāhir and Al-Bāṭin — First and Last, Manifest and Hidden, named together in one saying as a single statement about transcending both time and the categories by which creatures are known. The four names read as one teaching: nothing encloses this reality, neither in duration nor in perceptibility.",
+    "ghazali_basis": "Al-Ghazālī discusses Al-Awwal together with Al-Ākhir, Aẓ-Ẓāhir, and Al-Bāṭin, following the well-known hadith that names all four together; moderate-to-high confidence in this pairing and its general sense, paraphrased rather than quoted.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_akhir",
+    "arabic": "ٱلْآخِرُ",
+    "transliteration": "Al-Ākhir",
+    "translation": "The Last",
+    "draft_meaning_long": "Al-Ākhir affirms an end that has no end after it — not last in a countdown toward extinction, but last in the sense of remaining when everything else has ceased, without itself being subject to cessation. Every created thing, however durable, moves toward some horizon of ending; this name describes what stands entirely outside that horizon.\n\nTaken with Al-Awwal, the pairing dissolves the ordinary picture of a timeline with God somewhere within it. There is no \"within.\" The believer who sits with this name is left less with a concept to master than with a felt sense of how small the span of any single life is against a reality unbounded on both ends.",
+    "ghazali_basis": "Treated by al-Ghazālī alongside Al-Awwal as one of the paired hadith names (with Aẓ-Ẓāhir/Al-Bāṭin); moderate confidence in the general theme, low confidence in any specific line of argument beyond what is common to this pairing across commentaries.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "az_zahir",
+    "arabic": "ٱلظَّاهِرُ",
+    "transliteration": "Aẓ-Ẓāhir",
+    "translation": "The Manifest",
+    "draft_meaning_long": "Aẓ-Ẓāhir names a reality made evident by everything that exists: every ordered movement of the heavens, every intricacy of a living body, every turn of cause and effect is, on this reading, a kind of testimony — so pervasive and so constant that nothing could be more manifest. In this sense nothing is hidden from view the way this name's meaning is hidden from view; it is written across the whole of what is.\n\nYet the name is paired, almost paradoxically, with Al-Bāṭin, the Hidden — because the essence behind all this evidence remains inaccessible to sense and imagination, however plainly its traces are strewn everywhere. Al-Ghazālī's characteristic move is to hold both truths together rather than resolve the tension: everywhere apparent through effect, nowhere graspable in itself.",
+    "ghazali_basis": "Al-Ghazālī reads Aẓ-Ẓāhir and Al-Bāṭin as a deliberate pairing that resists a simple either/or — manifest through evidence, hidden in essence; moderate confidence in this general reading, which is common to serious commentary on the pair, presented here in original language.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_batin",
+    "arabic": "ٱلْبَاطِنُ",
+    "transliteration": "Al-Bāṭin",
+    "translation": "The Hidden",
+    "draft_meaning_long": "Al-Bāṭin names what lies beyond the reach of sense, imagination, and even careful reasoning — not hidden as a secret waiting to be uncovered by better instruments, but hidden as something categorically beyond what created faculties were built to perceive. No eye will see it in this life; no thought will fully encompass it in the next.\n\nAnd yet this very hiddenness is presented alongside utter manifestness (Aẓ-Ẓāhir): the two are not in tension so much as describing two aspects of one reality from two different vantage points — as effect and as essence. Held together, they ask for humility about what the intellect can and cannot close its hand around, without lapsing into the claim that nothing can be known at all.",
+    "ghazali_basis": "As with Aẓ-Ẓāhir, treated by al-Ghazālī as one half of a hadith-attested pair; moderate confidence in the substance, expressed in original wording rather than any translator's phrasing.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_wali_gov",
+    "arabic": "ٱلْوَالِي",
+    "transliteration": "Al-Wālī",
+    "translation": "The Governor",
+    "draft_meaning_long": "Al-Wālī, here distinguished from the earlier name Al-Walī (\"The Protecting Friend,\" وَلِيّ), denotes the one who directly administers and governs the affairs of all creation — not a friend drawing near, but a ruler running the affairs of the cosmos without minister, deputy, or need of counsel. Every motion of the stars, every turn of a life, unfolds under a single, unmediated governance.\n\nClassical treatment of the ninety-nine names often notes this near-homograph pair as an example of how subtle differences in vowel pattern carry real differences in meaning — the loving nearness of a protector (Al-Walī) and the administrative oversight of a ruler (Al-Wālī) are related but distinct facets of the same root. This entry concerns the latter: God as the one who governs, without any need for an intermediary between decree and effect.",
+    "ghazali_basis": "Al-Ghazālī is understood by commentators to treat Al-Walī and Al-Wālī as related but distinguishable — friend/protector versus governing administrator; moderate confidence in this distinction, which is a recognized point in discussion of the ninety-nine names, though I have not verified his exact wording line by line.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_mutaali",
+    "arabic": "ٱلْمُتَعَالِي",
+    "transliteration": "Al-Muta'ālī",
+    "translation": "The Most Exalted",
+    "draft_meaning_long": "Al-Muta'ālī names an exaltation carried to its furthest point — not simply high, but altogether above every category by which creatures are compared, located, or measured. It is elevation above resemblance, above containment in space or direction, above every imperfection that a limited mind might, out of habit, try to attach to the divine.\n\nAl-Ghazālī's broader project in expounding the Names repeatedly returns to this kind of transcendence (tanzīh): stripping away every association drawn unconsciously from created experience. Al-Muta'ālī intensifies an already-exalted register (compare the earlier name Al-'Alī) into something like a final word on the matter — there is no vantage from which this reality could be diminished, compared, or brought down to size.",
+    "ghazali_basis": "Al-Ghazālī's consistent emphasis on transcendence (tanzīh) throughout the work makes it reasonably safe to describe Al-Muta'ālī along these lines; moderate confidence, since the specific chapter's argument has not been reproduced from memory with precision.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_barr",
+    "arabic": "ٱلْبَرُّ",
+    "transliteration": "Al-Barr",
+    "translation": "The Most Kind",
+    "draft_meaning_long": "Al-Barr describes a kindness that overflows what is owed — goodness given not as payment for merit but as sheer generosity, reaching the deserving and undeserving alike, the strong and especially the weak. It shares territory with Ar-Raḥmān but leans toward the picture of a benefactor whose gifts arrive quietly, often unnoticed, in provision, ease, and protection from harm one never even had to ask to avoid.\n\nTo dwell on this name is to notice how much of daily life is carried by a kindness never billed, never repaid, and rarely thanked — and to let that noticing become gratitude rather than mere comfort.",
+    "ghazali_basis": "Al-Ghazālī treats Al-Barr as an expression of abundant, unearned goodness, closely related to but distinguishable from Ar-Raḥmān; moderate confidence in this general register, expressed here in original phrasing.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "at_tawwab",
+    "arabic": "ٱلتَّوَّابُ",
+    "transliteration": "At-Tawwāb",
+    "translation": "The Accepter of Repentance",
+    "draft_meaning_long": "At-Tawwāb names a reality that turns toward the returning sinner again and again — not once, grudgingly, but repeatedly, without exhausting patience or keeping count against the one who comes back. Al-Ghazālī's treatment emphasizes something easy to miss: the very desire to repent, the prompting that turns a heart back from wrongdoing, is itself understood as a gift preceding the repentance it makes possible. God turns toward the servant before the servant turns toward God.\n\nThis reframes repentance from a transaction the servant initiates and God merely ratifies, into something closer to a conversation God opens first. The proper response is not simply to repent once decisively, but to let turning back become an ordinary, repeated posture of life — and to extend the same patient welcome toward others who stumble.",
+    "ghazali_basis": "Al-Ghazālī's discussion of At-Tawwāb is understood to stress the priority of divine initiative in repentance — that God's turning toward the servant precedes and enables the servant's turning toward God; moderate-to-high confidence in this theme as central to his treatment.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_muntaqim",
+    "arabic": "ٱلْمُنْتَقِمُ",
+    "transliteration": "Al-Muntaqim",
+    "translation": "The Avenger",
+    "draft_meaning_long": "Al-Muntaqim describes a just requital against persistent, unrepented wrongdoing — not a reactive anger, since nothing provokes or unsettles the one this name describes, but a settled justice that eventually meets oppression and defiance with consequence. It is invoked far less often than the names of mercy, and deliberately so: classical treatment reads it as the exception that proves how overwhelmingly mercy predominates, surfacing only where mercy has been repeatedly, knowingly refused.\n\nRead alongside Al-'Afūw and Ar-Raḥmān, this name is not meant to frighten the sincere but to reassure the wronged: tyranny does not simply vanish into the historical record unanswered.",
+    "ghazali_basis": "Al-Ghazālī and the broader tradition are understood to read Al-Muntaqim as justice rather than passion, and as subordinate in frequency and emphasis to the names of mercy; moderate confidence in this framing, offered in original language.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_afuw",
+    "arabic": "ٱلْعَفُوُّ",
+    "transliteration": "Al-'Afūw",
+    "translation": "The Pardoner",
+    "draft_meaning_long": "Al-'Afūw is often distinguished from the earlier name Al-Ghafūr: where maghfira (forgiveness) suggests a covering-over, a concealment of the sin, 'afw suggests something stronger — an effacing, as though the wrong had never been recorded at all. Al-Ghazālī's characteristic attention to fine distinctions between near-synonymous names suggests he reads this as forgiveness's fullest form: not merely withheld punishment, but erasure.\n\nFor the one who has wronged themselves repeatedly and fears the weight of an accumulating record, this name offers something more complete than a suspended sentence — the possibility that sincere return truly wipes the page clean.",
+    "ghazali_basis": "Al-Ghazālī is understood to distinguish 'afw from maghfira along the lines of effacing versus covering; moderate confidence in this distinction as a recognized feature of his method, though the exact argument has not been reproduced from memory.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "ar_rauf",
+    "arabic": "ٱلرَّءُوفُ",
+    "transliteration": "Ar-Ra'ūf",
+    "translation": "The Most Compassionate",
+    "draft_meaning_long": "Ar-Ra'ūf sits close to Ar-Raḥīm in meaning but is often read as naming a particularly tender, almost pre-emptive compassion — a gentleness that shields from hardship before it strikes rather than only consoling after. It is the kind of care that anticipates need.\n\nHeld together with the earlier mercy-names in this corpus, Ar-Ra'ūf rounds out a vocabulary of compassion that the tradition takes pains not to flatten into a single word: mercy that gives (Ar-Raḥmān), mercy that responds (Ar-Raḥīm), and here, mercy that gently protects.",
+    "ghazali_basis": "Al-Ghazālī's practice of distinguishing near-synonyms among the mercy-related names is well established; the specific nuance offered here (protective, anticipatory tenderness) is a reasonable but moderate-confidence characterization rather than a verified quotation of his argument.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "malik_al_mulk",
+    "arabic": "مَٰلِكُ ٱلْمُلْكِ",
+    "transliteration": "Mālik al-Mulk",
+    "translation": "The Owner of Sovereignty",
+    "draft_meaning_long": "Mālik al-Mulk names an ownership of dominion so complete that every throne, every office, every measure of worldly power is held only on loan — granted to whom this reality wills and stripped from whom it wills, answerable to no one. Al-Ghazālī frequently returns to the Qur'anic verse invoking this name directly (\"Say: O Allah, Owner of Sovereignty, You give sovereignty to whom You will and You take sovereignty from whom You will\") as a corrective to the illusion that human power is self-sustained.\n\nSitting with this name tends to relativize ambition and fear alike: the rise and fall of rulers, empires, and one's own small measure of standing all trace back to a sovereignty that was never really anyone else's to keep.",
+    "ghazali_basis": "Al-Ghazālī's discussion is closely tied to Qur'an 3:26, which he is understood to invoke directly when treating this name; moderate-to-high confidence given how central that verse is to any classical discussion of Mālik al-Mulk.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "dhul_jalal",
+    "arabic": "ذُو ٱلْجَلَٰلِ وَٱلْإِكْرَامِ",
+    "transliteration": "Dhū al-Jalāl wal-Ikrām",
+    "translation": "Lord of Majesty and Bounty",
+    "draft_meaning_long": "This name joins two qualities that might seem to pull in different directions: jalāl, a majesty and greatness that inspires awe and a certain trembling before what so exceeds us, and ikrām, a generosity and honoring that draws the servant near rather than away. Al-Ghazālī's treatment of paired compound names often reads them as deliberately holding together what the heart needs held together — reverence and intimacy, fear and hope, as two aspects of a single sound relationship with God rather than competing moods.\n\nTo dwell on Dhū al-Jalāl wal-Ikrām is to resist collapsing faith into either pure awe (which can curdle into dread) or pure familiarity (which can curdle into presumption), and instead to let majesty and generosity correct each other.",
+    "ghazali_basis": "Al-Ghazālī's broader method of pairing awe-inducing and mercy-inducing attributes as complementary rather than contradictory is a reasonable frame for this compound name; moderate confidence, since the exact chapter argument is not reproduced from specific recall.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_muqsit",
+    "arabic": "ٱلْمُقْسِطُ",
+    "transliteration": "Al-Muqsiṭ",
+    "translation": "The Equitable",
+    "draft_meaning_long": "Al-Muqsiṭ is close in territory to the earlier name Al-'Adl but is often read with a particular emphasis on restoring and redressing rights — giving every wronged party their due from whoever wronged them, especially in the ultimate reckoning where no earthly court remains to settle accounts. Where 'adl names justice as a governing quality, qisṭ leans toward justice enacted, rights returned, and balance actively restored rather than merely maintained.\n\nFor anyone who has watched a wrong go unanswered in this life, the name carries a quiet promise: nothing of that imbalance is forgotten or lost.",
+    "ghazali_basis": "Classical treatment distinguishes qisṭ (equity, restorative justice) from the more general 'adl; moderate confidence this reflects al-Ghazālī's approach, offered as a reasonable paraphrase rather than a verified quotation.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_jami",
+    "arabic": "ٱلْجَامِعُ",
+    "transliteration": "Al-Jāmi'",
+    "translation": "The Gatherer",
+    "draft_meaning_long": "Al-Jāmi' names the one who gathers what has scattered — bodies dispersed across the earth and across time, reassembled whole on the Day of Judgment despite every apparent impossibility of the task. Al-Ghazālī's discussion of this name is understood to extend the sense of \"gathering\" beyond resurrection alone, to the deeper ordering by which fitting things are brought together throughout creation: causes matched to effects, souls matched to what suits them.\n\nThe name offers a particular comfort against the anxiety of loss and separation — nothing genuinely dispersed, whether a scattered body or a scattered life, is beyond being gathered again.",
+    "ghazali_basis": "Al-Ghazālī treats Al-Jāmi' primarily in connection with the resurrection and gathering of creation on the Last Day; moderate confidence in this core sense, with the broader extension to causal ordering offered more tentatively.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_ghani",
+    "arabic": "ٱلْغَنِيُّ",
+    "transliteration": "Al-Ghanī",
+    "translation": "The Self-Sufficient",
+    "draft_meaning_long": "Al-Ghanī names a completeness that requires nothing outside itself — not richness in the sense of abundant possessions, which could always in principle run out, but the absolute absence of need of any kind. Al-Ghazālī is understood to distinguish this unqualified self-sufficiency sharply from any creaturely wealth, however vast, since even the wealthiest person remains dependent on food, health, and time not their own.\n\nEverything else, by contrast, needs this reality entirely — a dependence so total that even a creature's next breath is not self-sustained. The honest response to this asymmetry is not despair but a kind of relief: the aim of a spiritual life is not to achieve self-sufficiency but to rightly locate one's dependence.",
+    "ghazali_basis": "Al-Ghazālī's treatment of Al-Ghanī is understood to emphasize the qualitative difference between unconditioned divine self-sufficiency and any degree of creaturely wealth or independence; moderate-to-high confidence in this general contrast.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_mughni",
+    "arabic": "ٱلْمُغْنِي",
+    "transliteration": "Al-Mughnī",
+    "translation": "The Enricher",
+    "draft_meaning_long": "Al-Mughnī names the one who grants sufficiency and lifts want — the source to whom Al-Ghanī's self-sufficiency corresponds when directed outward toward creation. Whatever independence a person attains from need of others ultimately traces back to this enriching, since no one enriches themselves from nothing.\n\nRead together with Al-Ghanī, the pair moves from a statement about God's own nature to a statement about how that nature acts toward creatures — the source of all sufficiency is also the one who supplies it.",
+    "ghazali_basis": "Al-Mughnī is typically read as the active counterpart to Al-Ghanī — the one who bestows sufficiency rather than merely possessing it; moderate confidence in this pairing as consistent with al-Ghazālī's general approach to paired names.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_mani",
+    "arabic": "ٱلْمَانِعُ",
+    "transliteration": "Al-Māni'",
+    "translation": "The Withholder",
+    "draft_meaning_long": "Al-Māni' names a withholding that belongs to wisdom and mercy rather than to stinginess — restraining harm before it reaches someone, or withholding a request whose granting would not, in the larger scheme, have served the one asking. Classical discussion of this name is careful to set it apart from any suggestion of a grudging or diminished generosity; what is withheld is withheld precisely because giving it would not have been kindness.\n\nThis reframes unanswered prayers and closed doors not necessarily as refusal, but sometimes as a form of protection whose reasoning is not always visible from where the request was made.",
+    "ghazali_basis": "Al-Ghazālī's treatment is understood to frame withholding as compatible with, rather than opposed to, mercy and wisdom; moderate confidence in this general reading, common across serious commentary on the name.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "ad_darr",
+    "arabic": "ٱلضَّارُّ",
+    "transliteration": "Aḍ-Ḍārr",
+    "translation": "The Creator of Adversity",
+    "draft_meaning_long": "Aḍ-Ḍārr and its companion An-Nāfi' together affirm that both hardship and benefit trace, in the end, to a single governing wisdom rather than to independent forces of good and ill fortune. Al-Ghazālī's broader theological commitments hold that nothing in creation causes harm or benefit by its own independent power; illness, loss, and adversity occur only by leave of the reality this name describes, and even apparent harm may carry a hidden benefit — purification, reminder, or elevation — not visible from inside the difficulty itself.\n\nThis is a name approached with particular care: it is never invoked to excuse cruelty or to explain away suffering glibly, but to locate all adversity, however painful, within a governance that is never arbitrary.",
+    "ghazali_basis": "Al-Ghazālī's broader occasionalist-leaning account of causation — that secondary causes have no independent power apart from God's permission — is well documented in his wider theological work and plausibly informs his reading of this paired name; moderate confidence, treated with particular caution given the sensitivity of the topic.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "an_nafi",
+    "arabic": "ٱلنَّافِعُ",
+    "transliteration": "An-Nāfi'",
+    "translation": "The Creator of Good",
+    "draft_meaning_long": "An-Nāfi' names the source of all benefit — every advantage gained through medicine, effort, or circumstance ultimately traces to a benefit-granting reality rather than to the independent efficacy of the apparent cause. Paired with Aḍ-Ḍārr, this name completes a single teaching: neither harm nor benefit belongs to secondary causes in their own right.\n\nThe practical fruit of this name is a redirection of gratitude — toward the true source of every good outcome, rather than only toward the visible means by which it arrived.",
+    "ghazali_basis": "As the counterpart to Aḍ-Ḍārr, this name is read within the same framework locating causal efficacy ultimately in God rather than in secondary causes; moderate confidence, following the same reasoning as the previous entry.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "an_nur",
+    "arabic": "ٱلنُّورُ",
+    "transliteration": "An-Nūr",
+    "translation": "The Light",
+    "draft_meaning_long": "An-Nūr is one of the richest chapters in al-Ghazālī's engagement with the Names, and he is understood to treat it not as physical light but as that by which things become manifest and knowable at all — light as the very condition of visibility and understanding, rather than an object seen. On this reading, God is \"Light\" in the sense of being the ultimate source of all illumination: the light that lets the physical eye see, and, more importantly, the light that lets the inner eye of the heart perceive truth, guidance, and reality itself.\n\nThis metaphorical, non-physical reading of light recurs across his other writings on the subject, and it reframes guidance and insight — a sudden clarity in the heart, an unlooked-for understanding — as instances of this one Light reaching a particular soul, rather than as achievements of unaided human reasoning.",
+    "ghazali_basis": "Al-Ghazālī develops An-Nūr at length, including in his separate treatise Mishkāt al-Anwār, reading light chiefly as a metaphor for that which makes things manifest and knowable rather than as physical illumination; higher confidence than most entries in this set, given how well documented this theme is in his corpus.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_hadi",
+    "arabic": "ٱلْهَادِي",
+    "transliteration": "Al-Hādī",
+    "translation": "The Guide",
+    "draft_meaning_long": "Al-Hādī names a guidance that operates on two levels at once: an outward guidance given to every creature toward what suits its nature (the instinct that leads a creature to its sustenance, its habitat, its manner of life) and an inward guidance given specifically to the human heart toward true faith and the straight path. Al-Ghazālī's treatment is understood to place special weight on this second, inward sense — the guidance that reaches past hearing a message to actually accepting and living by it, which no messenger or book can supply on its own.\n\nThis distinguishes Al-Hādī from the mere provision of external means of guidance (revelation, reminders, good counsel): the name points to whatever it is that turns hearing into believing, a movement the tradition holds is God's alone to grant.",
+    "ghazali_basis": "Al-Ghazālī is understood to distinguish external guidance (revelation, signs) from the inward guidance (tawfīq) that actually moves a heart to accept truth, attributing the latter to God's specific grace; moderate-to-high confidence in this general distinction as characteristic of his approach.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_badi",
+    "arabic": "ٱلْبَدِيعُ",
+    "transliteration": "Al-Badī'",
+    "translation": "The Incomparable Originator",
+    "draft_meaning_long": "Al-Badī' names an origination without precedent and without model — bringing things into being with no prior exemplar to imitate and no pre-existing matter to shape, unlike any human maker, who always works from given materials according to a pattern already known or imagined. Al-Ghazālī's discussion of this name is understood to emphasize precisely this contrast: human \"originality\" is always derivative in a way that ibdā' (true origination) is not.\n\nThe name invites wonder rather than mere assent — every genuinely new thing in creation, considered carefully, points back to a making that owes nothing to any prior template.",
+    "ghazali_basis": "Al-Ghazālī reads Al-Badī' as origination without a preceding exemplar or pre-existing matter, contrasted with derivative human craftsmanship; moderate confidence in this general contrast as consistent with his treatment of creation-related names.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_baqi",
+    "arabic": "ٱلْبَاقِي",
+    "transliteration": "Al-Bāqī",
+    "translation": "The Everlasting",
+    "draft_meaning_long": "Al-Bāqī names a continuance of existence entirely free of the possibility of ending — not mere longevity, however great, but a duration unconditioned by decay, since everything else that endures does so only contingently and could, in principle, cease. Al-Ghazālī's treatment is understood to draw this contrast sharply: the heavens, however ancient they may seem, remain the kind of thing that could not-be; only this reality's continuance is not that kind of thing at all.\n\nSet against the fleeting character of every worldly attachment, the name offers not resignation but a reordering of where lasting value is properly placed.",
+    "ghazali_basis": "Moderate confidence that al-Ghazālī frames Al-Bāqī as unconditioned continuance contrasted with the merely contingent duration of created things, consistent with his broader treatment of names describing God's necessary existence.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_warith",
+    "arabic": "ٱلْوَارِثُ",
+    "transliteration": "Al-Wārith",
+    "translation": "The Inheritor",
+    "draft_meaning_long": "Al-Wārith names the truth that when all creation perishes, every possession and every sovereignty reverts wholly to the one to whom it always, in reality, belonged. Human \"ownership\" — of land, of wealth, of even one's own body — is on this reading a temporary loan rather than a permanent grant, returned in full when its term ends.\n\nAl-Ghazālī's discussion of this name is understood to draw a sober, practical conclusion from it: since nothing held now is truly kept, the wise course is to hold worldly things loosely and to invest instead in what is not subject to this final inheritance.",
+    "ghazali_basis": "Moderate confidence that al-Ghazālī reads Al-Wārith as underscoring the temporary, loaned character of all creaturely possession, consistent with his broader ascetic emphasis on detachment from worldly goods.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "ar_rashid",
+    "arabic": "ٱلرَّشِيدُ",
+    "transliteration": "Ar-Rashīd",
+    "translation": "The Guide to the Right Path",
+    "draft_meaning_long": "Ar-Rashīd is often distinguished from the earlier name Al-Hādī: where Al-Hādī describes guidance given to others, Ar-Rashīd describes a governance of affairs — including God's own decree and design — that unfolds unerringly toward its rightly-ordered end, requiring no counsel, correction, or trial and error along the way. Every plan reaches precisely where perfect wisdom intends, the first time.\n\nHeld together with the surrounding names concerning guidance and governance, Ar-Rashīd closes a small cluster of meaning: not only is the servant guided, but the guidance itself, and all that unfolds from it, is never in need of revision.",
+    "ghazali_basis": "This name appears in the standard ninety-nine enumerations al-Ghazālī comments on; I hold moderate-to-lower confidence in the specific distinction drawn here from Al-Hādī, since I cannot verify his exact chapter wording from memory, and note that possibility candidly.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "as_sabur",
+    "arabic": "ٱلصَّبُورُ",
+    "transliteration": "Aṣ-Ṣabūr",
+    "translation": "The Patient",
+    "draft_meaning_long": "Aṣ-Ṣabūr names a patience that delays consequence for the disobedient, granting time and space for return, despite having full capacity to act at once. Al-Ghazālī is understood to distinguish this from the earlier name Al-Ḥalīm (Most Forbearing) by a fine but real difference: forbearance withholds out of generosity even where provocation is minimal, while this name's patience persists steadily even under what would, for a creature, be repeated and mounting provocation — yet without the strain or discomfort that the word \"patience\" implies for a human being.\n\nAs traditionally the final name in the sequence al-Ghazālī comments on, it lands with a certain fittingness: after every name of power, justice, and mercy, the last word is one that makes room, patiently, for the reader's own unfinished turning back.",
+    "ghazali_basis": "Aṣ-Ṣabūr is understood to be the final name in al-Ghazālī's traditional commentary sequence, distinguished from Al-Ḥalīm by degree and persistence of forbearance; moderate confidence in this ordering and distinction, offered as a reasonable reconstruction rather than a verified quotation.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_ahad",
+    "arabic": "ٱلْأَحَدُ",
+    "transliteration": "Al-Aḥad",
+    "translation": "The Unique",
+    "draft_meaning_long": "Al-Aḥad affirms a oneness stronger than mere numerical singularity — not first in a series that could in principle have had others, but unique in a sense that admits no partner, no likeness, and no second even in conception. Classical discussion often distinguishes this from the nearby name Al-Wāḥid: where Al-Wāḥid denies composition and division (God is not made of parts), Al-Aḥad denies comparison altogether — there is nothing else of which \"oneness\" could be predicated in the same sense.\n\nSurah al-Ikhlāṣ, the sole Qur'anic reference for this name here, is widely regarded as the most concentrated statement of God's absolute uniqueness in the whole of scripture, and the name draws its full weight from that context.",
+    "ghazali_basis": "Al-Ghazālī is broadly understood to distinguish Al-Wāḥid (negation of composition/parts) from Al-Aḥad (negation of any comparison or likeness whatsoever); this name is part of the Ibn Mājah enumeration though absent from the Tirmidhī list also present in this corpus, and I hold moderate confidence in the substance while flagging that I have not verified al-Ghazālī's exact chapter wording.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_qarib",
+    "arabic": "ٱلْقَرِيبُ",
+    "transliteration": "Al-Qarīb",
+    "translation": "The Near",
+    "draft_meaning_long": "Al-Qarīb names a nearness that has nothing to do with physical distance — since the reality this name describes is not located in space to begin with — but with responsiveness and attentiveness to whoever calls out sincerely. The Qur'anic verse most closely tied to this name (2:186) makes the connection explicit: nearness expressed precisely as answering the one who prays, without intermediary or delay.\n\nRead alongside names like Al-Mujīb (the Responsive) and As-Samī' (the Hearing), Al-Qarīb rounds out a picture in which no distance — geographic, social, or moral — actually separates a sincere supplicant from being heard; the perceived distance in difficult moments is not the reality this name describes.",
+    "ghazali_basis": "This name draws directly on Qur'an 2:186 and 11:61 as cited in the corpus, and its pairing with responsiveness to prayer is a well-established theme in commentary on the ninety-nine names; moderate confidence, as I have not verified the precise contours of al-Ghazālī's own chapter, and this name — present in the Ibn Mājah enumeration but not the Tirmidhī list also carried in this corpus — sits at the edge of the list he is traditionally understood to have commented on.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "ar_rabb",
+    "arabic": "ٱلرَّبُّ",
+    "transliteration": "Ar-Rabb",
+    "translation": "The Lord",
+    "draft_meaning_long": "Ar-Rabb is one of the most frequent names for God in the Qur'an, opening its very first sūrah (\"praise belongs to Allah, Lord of the worlds\"), and it carries a dense cluster of meaning — sustaining, nurturing, owning, and governing all at once, closer in feel to \"the One who brings each thing to its intended completion\" than to \"lord\" in the sense of mere rank. Its constant Qur'anic presence makes it, in ordinary devotional life, one of the most load-bearing names of all.\n\nHonesty requires a note here that the corpus itself already flags: Ar-Rabb does not appear among the specific ninety-nine names enumerated in either the Tirmidhī or Ibn Mājah lists carried in this app, and it falls outside the traditional list of ninety-nine names that al-Ghazālī's Al-Maqṣad al-Asnā takes as its structure. This entry is therefore offered as a general reflection on a name of unquestioned Qur'anic weight, not as a report of anything specific al-Ghazālī says about it in that particular work — because, to this drafter's knowledge, he does not treat it there as a discrete chapter.",
+    "ghazali_basis": "Low confidence regarding any direct al-Ghazālī treatment in Al-Maqṣad al-Asnā specifically, since Ar-Rabb falls outside the ninety-nine-name structure that work comments on; this is stated candidly rather than invented, and the reflection offered instead draws on the name's broad Qur'anic centrality.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_fatir",
+    "arabic": "ٱلْفَاطِرُ",
+    "transliteration": "Al-Fāṭir",
+    "translation": "The Originator of the Heavens and Earth",
+    "draft_meaning_long": "Al-Fāṭir names an originating that splits being from non-being — the root faṭara carries a sense of \"cleaving open\" or bringing forth where there was nothing before, close in territory to the earlier names Al-Khāliq (the Creator) and Al-Bāri' (the Maker) and to Al-Badī' (the Incomparable Originator) treated earlier in this set. The Qur'anic verse attached to it here (35:1) opens a sūrah devoted entirely to the wonder of this originating, praised through the imagery of angels' wings and the ordering of the world.\n\nAs with Ar-Rabb, honesty is owed here: Al-Fāṭir does not appear among the specific ninety-nine names in either enumeration carried by this corpus, and falls outside the traditional list al-Ghazālī comments on in Al-Maqṣad al-Asnā. Rather than invent a chapter that, to this drafter's knowledge, does not exist there, this entry draws the connection to the closely related names of origination al-Ghazālī does treat, while flagging plainly that this specific name receives no discrete treatment from him in that work.",
+    "ghazali_basis": "Low confidence regarding any direct al-Ghazālī chapter on Al-Fāṭir specifically in Al-Maqṣad al-Asnā, since it falls outside the ninety-nine-name structure that work follows; flagged candidly, with the reflection instead drawing on his adjacent treatment of Al-Khāliq, Al-Bāri', and Al-Badī'.",
+    "status": "UNREVIEWED_DRAFT"
+  }
+]

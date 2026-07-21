@@ -1,0 +1,308 @@
+[
+  {
+    "id": "allah",
+    "arabic": "ٱللَّه",
+    "transliteration": "Allāh",
+    "translation": "God — The One God",
+    "draft_meaning_long": "Allāh is not one name among the ninety-nine so much as the ground on which all the others stand. It is treated as God's proper name — the one that gathers every attribute of perfection into a single reference, rather than pointing to any single quality the way \"the Merciful\" or \"the Just\" does. Where the other names each name a facet of divinity, this name names the One who possesses every facet at once, without partner or peer.\n\nTo hold this name in mind is to be recalled, again and again, from any partial idea of God back to the whole: every mercy, every power, every act of care in the world is, in the end, an act of *this* One, not of many. The proper response is neither analysis nor comparison but simple, wondering acknowledgment — that there is a reality answering to this name, and that everything else in existence depends on it.",
+    "ghazali_basis": "Al-Ghazālī opens the Maqṣad by treating Allāh as the supreme, all-comprehending proper name from which the other names derive their sense as attributes; he engages the grammarians' dispute over its linguistic root mainly to set it aside. Confidence: moderate-high on the general framing; the fine points of that etymological discussion are not reproduced here and deserve a scholar's direct citation.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "ar_rahman",
+    "arabic": "ٱلرَّحْمَـٰنُ",
+    "transliteration": "Ar-Raḥmān",
+    "translation": "The Most Gracious",
+    "draft_meaning_long": "Ar-Raḥmān points to a mercy so wide that it reaches every creature before there is any asking — sun and rain, breath and growth, the ordinary furniture of existence that sustains believer and unbeliever, the grateful and the heedless, alike. It is mercy as an all-encompassing provision built into the very structure of the world, not a mercy that waits to be earned.\n\nA human being can never possess this quality in its fullness, since none of us gives existence itself. But there is a modest echo available: to attend to the needs of others before they voice them, and to let one's kindness extend past those who have earned it, toward the stranger and even the ungrateful, in imitation — however small — of a mercy that does not first calculate desert.",
+    "ghazali_basis": "Al-Ghazālī distinguishes Ar-Raḥmān from Ar-Raḥīm chiefly by scope: Raḥmān as the more general, all-embracing mercy shown to every creature in this life, prior to any request. Confidence: high — this general/particular distinction between the two mercy-names is one of the better-known moves in the Maqṣad.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "ar_rahim",
+    "arabic": "ٱلرَّحِيمُ",
+    "transliteration": "Ar-Raḥīm",
+    "translation": "The Most Merciful",
+    "draft_meaning_long": "Where Ar-Raḥmān names mercy in its broadest, most general sweep, Ar-Raḥīm points to a more particular mercy — one bestowed specifically, and often kept for those who turn toward God in faith. It is the mercy of final outcomes: forgiveness given, distress relieved, a good end secured for those who seek it, rather than mercy simply diffused across all existing things.\n\nThe human share in this name is the deliberate, particular kindness a person directs toward someone in need — not the passive backdrop of general goodwill, but a mercy chosen and acted on for this person, in this moment, because their situation calls for it.",
+    "ghazali_basis": "Al-Ghazālī reads Raḥīm as the more specific companion to Raḥmān — mercy bestowed with particular attention, often associated with the ultimate good granted to the faithful. Confidence: moderate-high; the precise boundary he draws between the two names is a recognized point of nuance worth checking against the primary text.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_malik",
+    "arabic": "ٱلْمَلِكُ",
+    "transliteration": "Al-Malik",
+    "translation": "The Sovereign",
+    "draft_meaning_long": "Al-Malik names a sovereignty that needs nothing from what it rules. A king in the ordinary sense still depends on subjects, treasuries, allies; true kingship, in this name's sense, belongs only to the One who is wholly independent of all things while all things remain wholly dependent on Him — the reverse relation holding in every direction at once.\n\nThe corresponding discipline for a person is to loosen the grip of dependence on what one owns or controls — to want less from creation, not because possessions are evil, but because peace of heart grows in proportion to how little one actually needs from anyone besides God.",
+    "ghazali_basis": "Al-Ghazālī grounds Al-Malik in the idea of total self-sufficiency paired with total dependence of everything else — true ownership without need. Confidence: moderate-high on this general framing, drawn from the well-known independence/need pairing he uses across several of the majestic names.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_quddus",
+    "arabic": "ٱلْقُدُّوسُ",
+    "transliteration": "Al-Quddūs",
+    "translation": "The Most Holy",
+    "draft_meaning_long": "Al-Quddūs names a purity that outstrips not only the defects we can see, but every defect the mind can even imagine attaching to greatness — limitation, composition, resemblance to created things, change over time. It is holiness in the sense of being categorically set apart from anything a human concept of perfection could fully capture.\n\nFor a person, the resonance of this name is an invitation to inward purification: clearing the heart of envy, malice, and attachment to what is base, not because holiness can be manufactured, but because a heart cluttered with lesser things has no room left to recognize the Holy.",
+    "ghazali_basis": "Al-Ghazālī treats Quddūs as transcendence pressed further than mere freedom from bodily defect — freedom even from the limitations implicit in whatever perfection human imagination can construct. Confidence: moderate; this is a recognizable Ghazālian move but the precise phrasing he uses deserves direct verification.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "as_salam",
+    "arabic": "ٱلسَّلَامُ",
+    "transliteration": "As-Salām",
+    "translation": "The Source of Peace",
+    "draft_meaning_long": "As-Salām carries two related senses: an essence entirely free of flaw, harm, or decay, and a giver of peace and safety to creation — the One from whom soundness flows and to whom the saved return in the abode named for this very quality.\n\nA human share of this name shows up less in grand gestures than in small refusals: refusing to let one's hand or tongue become a source of harm to others, and cultivating a heart clear enough of grudges that those nearby can feel safe in one's presence.",
+    "ghazali_basis": "Al-Ghazālī reads As-Salām both as intrinsic soundness (freedom from every defect) and as the One who grants safety and peace to His servants. Confidence: moderate-high on the dual sense; worth confirming the exact balance he strikes between the two.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_mumin",
+    "arabic": "ٱلْمُؤْمِنُ",
+    "transliteration": "Al-Mu'min",
+    "translation": "The Granter of Security",
+    "draft_meaning_long": "Al-Mu'min is the One who grants security — confirming truth in the hearts of those who believe, guaranteeing protection to those who trust in Him, and promising safety from ultimate injustice on the day all accounts are settled. It is security given, not merely felt: a guarantee backed by power to make good on it.\n\nThe corresponding human trait is trustworthiness — being someone whose word, once given, can be relied upon without hedge, and someone in whose presence others feel their rights and secrets are safe rather than at risk.",
+    "ghazali_basis": "Al-Ghazālī links Al-Mu'min to God's confirming of truth and His granting of safety/security to servants, including assurance against wrong on the Last Day. Confidence: moderate-high, though the precise scope he gives this name (security in belief vs. security from harm) merits a closer look at the source text.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_muhaymin",
+    "arabic": "ٱلْمُهَيْمِنُ",
+    "transliteration": "Al-Muhaymin",
+    "translation": "The Guardian",
+    "draft_meaning_long": "Al-Muhaymin names a watchfulness that misses nothing — an oversight of every creature's state, need, and deed, sustaining and safeguarding all of it at once, the way a witness who never looks away also never fails to act on what is seen.\n\nNo human vigilance can approach this scope, but there is a narrower, honest analogue: the discipline of watching one's own state — one's intentions, words, and habits — with the same unbroken attention one would wish God's guardianship to model, rather than drifting through the day unexamined.",
+    "ghazali_basis": "Al-Ghazālī treats Al-Muhaymin as comprehensive oversight and safekeeping of creation, close in sense to witnessing and preserving. Confidence: moderate — this is one of the shorter, denser sections in the Maqṣad and deserves direct citation rather than reliance on general recollection.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_aziz",
+    "arabic": "ٱلْعَزِيزُ",
+    "transliteration": "Al-'Azīz",
+    "translation": "The Almighty",
+    "draft_meaning_long": "True 'izzah — the mightiness named here — requires three things together: being rare enough that not everyone attains it, being so needed that others cannot do without it, and being difficult enough to reach that it cannot simply be taken. Only God fulfills all three at once and without qualification; every worldly claim to might falls short on at least one count.\n\nFor a person, this name reframes where dignity is actually found — not in accumulating what others want, but in needing less from creation and answering only to God, which is a kind of mightiness available even to the materially poor.",
+    "ghazali_basis": "Al-Ghazālī analyzes Al-'Azīz through the three conditions of rarity, need, and inaccessibility, arguing only God meets all three perfectly. Confidence: high — this threefold analysis is one of the most distinctive and frequently cited passages in the Maqṣad.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_jabbar",
+    "arabic": "ٱلْجَبَّارُ",
+    "transliteration": "Al-Jabbār",
+    "translation": "The Compeller",
+    "draft_meaning_long": "Al-Jabbār carries two related meanings held together: the One whose will nothing can resist or overturn, and the One who mends what is broken — the same root that gives the word for setting a fractured bone. God compels the proud into submission and, in the same breath, restores what has been shattered in the lives of the afflicted.\n\nA person's share is modest but real: mending the brokenhearted rather than adding to their fracture, and — turned inward — compelling one's own reluctant soul toward what is good when weakness or laziness resists it.",
+    "ghazali_basis": "Al-Ghazālī draws out both senses of jabr — overpowering compulsion and the restorative sense of mending a break — reading Al-Jabbār as holding both together. Confidence: moderate-high; the dual sense is a well-known feature of his treatment of this name.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_mutakabbir",
+    "arabic": "ٱلْمُتَكَبِّرُ",
+    "transliteration": "Al-Mutakabbir",
+    "translation": "The Possessor of Greatness",
+    "draft_meaning_long": "Al-Mutakabbir names a greatness so total that everything besides God appears small by comparison — a claim to supremacy that would be arrogance and falsehood in any created being, since no creature actually possesses the greatness it might claim, but is simple truth in God, who alone possesses it in full.\n\nThere is no human share of this name to cultivate — pride in a person is a defect precisely because it claims a station not truly held. The honest response is the opposite motion: to recognize one's own smallness clearly enough that the ego's claims to greatness quiet down.",
+    "ghazali_basis": "Al-Ghazālī contrasts God's rightful supremacy with human takabbur (arrogance), which is blameworthy precisely because it asserts a greatness the creature does not truly have. Confidence: moderate-high on this contrast; worth confirming the exact examples he gives.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_khaliq",
+    "arabic": "ٱلْخَالِقُ",
+    "transliteration": "Al-Khāliq",
+    "translation": "The Creator",
+    "draft_meaning_long": "Al-Khāliq points to the One who brings things into being according to a due measure — first estimating and ordaining what a thing will be, in wisdom and precise proportion, before it is ever given existence. It is often read alongside Al-Bāri' and Al-Muṣawwir as three phases of one act: measured planning, distinct origination, and particular shaping.\n\nHuman making is never creation from nothing, and the distance here should be held honestly; still, the craftsman's or parent's care in shaping something well — attentive to proportion, order, and purpose — is a faint, creaturely echo of a measure the Creator alone truly holds.",
+    "ghazali_basis": "Al-Ghazālī reads Al-Khāliq as the aspect of estimating/ordaining (taqdīr) that precedes existence, distinct from but paired with Al-Bāri' (bringing into being) and Al-Muṣawwir (shaping). Confidence: high — this three-part sequence is a well-known structural feature of the Maqṣad.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_bari",
+    "arabic": "ٱلْبَارِئُ",
+    "transliteration": "Al-Bāri'",
+    "translation": "The Originator of Creation",
+    "draft_meaning_long": "Al-Bāri' names the One who brings each thing into existence free of any prior model to copy, and who gives every created thing its own distinct being, set apart from every other — the same root suggesting a kind of clearing or setting-free of one thing from another so that each has its own separate reality.\n\nThe takeaway for a person is less a practice to imitate than a matter of wonder: that no two things in creation, however similar, are without their own particular reality, each owing its distinctness to an Originator who needed no template at all.",
+    "ghazali_basis": "Al-Ghazālī treats Al-Bāri' as origination without a preceding model, and connects the root to the differentiation of each created thing from others. Confidence: moderate; this is one of the names where my recollection is thinner and the treatment deserves direct verification against the text.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_musawwir",
+    "arabic": "ٱلْمُصَوِّرُ",
+    "transliteration": "Al-Muṣawwir",
+    "translation": "The Shaper of Beauty",
+    "draft_meaning_long": "Al-Muṣawwir names the One who gives each created being its particular form — the shape, features, and arrangement that make it recognizably itself, and that make members of the same kind endlessly various rather than identical copies of one another.\n\nA person's echo of this name lies in the care given to shaping one's own actions, work, and character well — attending to form and order, not only outcome — while remembering that the deepest shaping, of body and soul alike, belongs to God alone.",
+    "ghazali_basis": "Al-Ghazālī reads Al-Muṣawwir as the giving of particular form and feature to each created thing, following khalq (ordaining) and bar' (originating) in his three-part reading of the creation names. Confidence: moderate-high, consistent with the well-known triad discussed under Al-Khāliq.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_ghaffar",
+    "arabic": "ٱلْغَفَّارُ",
+    "transliteration": "Al-Ghaffār",
+    "translation": "The Repeatedly Forgiving",
+    "draft_meaning_long": "Al-Ghaffār names a forgiveness that repeats without wearing thin — covering sin after sin, in this life and the next, as they recur, rather than a single pardon spent once and gone. The root sense of covering is important: the fault is hidden and its consequence withheld, not merely excused in passing.\n\nThe corresponding human quality is the willingness to overlook others' failings and to keep their secrets rather than expose them — a discipline of covering rather than broadcasting the faults one happens to know.",
+    "ghazali_basis": "Al-Ghazālī emphasizes the intensive, repeated form of the root ghafara (to cover/forgive) in Ghaffār, applied to recurring sin rather than a single act of pardon. Confidence: high — the covering/repetition sense is a standard and well-attested reading.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_qahhar",
+    "arabic": "ٱلْقَهَّارُ",
+    "transliteration": "Al-Qahhār",
+    "translation": "The Subduer",
+    "draft_meaning_long": "Al-Qahhār names an irresistible dominance — a power before which no tyrant's strength, no proud claim, and no rebellious will can ultimately stand. It is might that subdues not by contest but simply by being what it is; nothing in existence is positioned to resist it.\n\nThe nearest human parallel is turned inward rather than outward: subduing one's own unruly desires and the ego's demands, refusing to let appetite or pride dictate one's actions — a small, self-directed discipline rather than any dominance exercised over others.",
+    "ghazali_basis": "Al-Ghazālī reads Al-Qahhār as total, irresistible subjugation of all things, including the humbling of the proud and powerful. Confidence: moderate-high; the emphasis on subduing one's own ego as the human parallel follows the general pattern of his ethical applications but should be checked against his specific wording.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_wahhab",
+    "arabic": "ٱلْوَهَّابُ",
+    "transliteration": "Al-Wahhāb",
+    "translation": "The Bestower",
+    "draft_meaning_long": "Al-Wahhāb names giving in its purest form — a hiba, a gift given with no expectation of return and no underlying transaction, offered again and again out of sheer generosity rather than obligation or exchange. It is distinguished from giving that seeks benefit, praise, or reciprocity of any kind.\n\nA person shares in this name by giving without calculating a return — even giving quietly, where no one will know to repay or praise it — since the moment a gift is given to secure something back, it has already left the territory this name describes.",
+    "ghazali_basis": "Al-Ghazālī contrasts Al-Wahhāb's pure gift-giving (hiba) with exchange-based giving that expects some return, emphasizing repetition and freedom from self-interest. Confidence: high — this distinction is one of the clearer ethical teachings in the Maqṣad.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "ar_razzaq",
+    "arabic": "ٱلرَّزَّاقُ",
+    "transliteration": "Ar-Razzāq",
+    "translation": "The Provider",
+    "draft_meaning_long": "Ar-Razzāq names the One who both creates provision and delivers it to those who benefit from it — every form of sustenance, bodily and otherwise, including the nourishment of knowledge and guidance that feeds the heart the way food feeds the body.\n\nThe human share is to become a channel of provision for others rather than only a receiver of it — offering material help where one can, and offering useful knowledge or guidance where material means are limited, since both count as forms of rizq passed from one creature to another.",
+    "ghazali_basis": "Al-Ghazālī reads Ar-Razzāq broadly, covering both the creation of sustenance and its delivery, and extends rizq to include the heart's nourishment through knowledge. Confidence: moderate-high on the broad scope; the specific examples he gives deserve direct citation.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_fattah",
+    "arabic": "ٱلْفَتَّاحُ",
+    "transliteration": "Al-Fattāḥ",
+    "translation": "The Opener",
+    "draft_meaning_long": "Al-Fattāḥ names the One who opens what is closed — doors of provision, mercy, understanding, and guidance that no created effort alone can force open. The root also carries a sense of judging or deciding between truth and falsehood, opening a matter to its rightful resolution.\n\nA person's echo of this name is practical: working to open what is stuck for others — resolving a disagreement, explaining what confuses someone, helping a stalled situation move — while recognizing that the deepest openings, of the heart especially, are ultimately God's to grant.",
+    "ghazali_basis": "Al-Ghazālī reads Al-Fattāḥ as the One who opens closed doors of good and also decides/judges between truth and falsehood. Confidence: moderate; the judging sense alongside the opening sense is recalled but should be verified against his exact wording.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_alim",
+    "arabic": "ٱلْعَلِيمُ",
+    "transliteration": "Al-'Alīm",
+    "translation": "The All-Knowing",
+    "draft_meaning_long": "Al-'Alīm names a knowledge that encompasses everything — hidden and manifest, past, present, and future — without ever being acquired, increased, or forgotten, unlike human knowledge, which is always gathered piecemeal, imperfect, and liable to lapse.\n\nThe corresponding human calling is the sincere pursuit of knowledge, especially knowledge of God, as among the noblest uses of the intellect — held always with the humility that whatever a person comes to know remains a small borrowing against a knowledge that is, in its true form, God's alone.",
+    "ghazali_basis": "Al-Ghazālī contrasts God's eternal, unacquired, all-encompassing knowledge with the partial, acquired knowledge available to creatures, and treats the pursuit of knowledge as the closest human approach to sharing in this name. Confidence: high — this is a central and well-attested theme of the Maqṣad.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_qabid",
+    "arabic": "ٱلْقَابِضُ",
+    "transliteration": "Al-Qābiḍ",
+    "translation": "The Withholder",
+    "draft_meaning_long": "Al-Qābiḍ names the One who constricts — withholding provision from some as wisdom requires, and, in a related sense, drawing back the soul at the moment of death. It names a divine prerogative to tighten what might otherwise flow freely, always for reasons a limited human view cannot fully judge.\n\nNo person controls provision the way this name describes, so there is little to imitate directly; the honest response to one's own seasons of constriction — need, loss, hardship — is patient acceptance rather than resentment, trusting the same wisdom that also expands.",
+    "ghazali_basis": "Al-Ghazālī pairs Al-Qābiḍ with Al-Bāsiṭ as complementary names describing God's constricting and expanding of provision and of hearts. Confidence: moderate; the additional association with the soul's seizure at death is recalled but should be checked against the primary text.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_basit",
+    "arabic": "ٱلْبَاسِطُ",
+    "transliteration": "Al-Bāsiṭ",
+    "translation": "The Extender",
+    "draft_meaning_long": "Al-Bāsiṭ names the One who expands — opening up provision, widening hearts with faith and ease, granting more than strict calculation would predict. It is the counterpart to Al-Qābiḍ, showing that constriction and expansion both flow from the same wise hand.\n\nA person can genuinely share something of this name by working to expand others rather than diminish them — widening someone's hope through encouragement, easing a tight situation through generosity, or simply making room in a hard moment rather than adding pressure to it.",
+    "ghazali_basis": "Al-Ghazālī treats Al-Bāsiṭ as the expansive counterpart to Al-Qābiḍ — widening provision and hearts by divine wisdom. Confidence: moderate-high on the pairing; the specific examples given deserve verification.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_khafid",
+    "arabic": "ٱلْخَافِضُ",
+    "transliteration": "Al-Khāfiḍ",
+    "translation": "The Humiliator",
+    "draft_meaning_long": "Al-Khāfiḍ names the One who brings low — humbling the arrogant, the unjust, and those who exalt themselves without right, regardless of how secure their position seemed. It is the sobering half of a pair completed by Ar-Rāfi', showing that rank in this world is entirely in God's disposal, not a fixed possession of the proud.\n\nFor a person, the lesson is cautionary rather than imitative: since abasement of the unjust belongs to God alone, the wiser posture is humility offered freely, rather than waiting to be humbled, and a corresponding care never to look down on others from a height one does not truly hold.",
+    "ghazali_basis": "Al-Ghazālī discusses Al-Khāfiḍ together with Ar-Rāfi' as a pair describing God's sole authority over exaltation and abasement in rank and dignity. Confidence: moderate — this is a shorter, paired treatment in the Maqṣad and the specific supporting detail should be verified directly.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "ar_rafi",
+    "arabic": "ٱلرَّافِعُ",
+    "transliteration": "Ar-Rāfi'",
+    "translation": "The Exalter",
+    "draft_meaning_long": "Ar-Rāfi' names the One who raises up — elevating the ranks of the faithful and the righteous, in knowledge, in reputation among the sincere, and ultimately in the degrees of the life to come, regardless of how the world happened to rank them.\n\nThe human parallel is to become someone who lifts others rather than one who competes to be lifted — supporting another's dignity, recognizing their worth, and helping them rise, especially when the world has not been generous to them.",
+    "ghazali_basis": "Al-Ghazālī treats Ar-Rāfi' as the raising of rank and dignity for the pious and faithful, paired against Al-Khāfiḍ. Confidence: moderate-high on the general pairing; the finer detail deserves direct citation.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_muizz",
+    "arabic": "ٱلْمُعِزُّ",
+    "transliteration": "Al-Mu'izz",
+    "translation": "The Honourer",
+    "draft_meaning_long": "Al-Mu'izz names the One who grants honor to whom He wills, on terms that owe nothing to worldly wealth, lineage, or status — honor rooted instead in faith, righteousness, and nearness to God, which can be given to the humblest person and withheld from the most powerful.\n\nA person shares in this name by honoring others according to that same measure — valuing sincerity and goodness in someone regardless of their social standing, rather than reserving respect for those the world already deems important.",
+    "ghazali_basis": "Al-Ghazālī pairs Al-Mu'izz with Al-Mudhill to show that honor and disgrace are God's alone to grant, not determined by worldly criteria. Confidence: moderate-high on the pairing and its ethical lesson; exact wording should be verified.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_mudhill",
+    "arabic": "ٱلْمُذِلُّ",
+    "transliteration": "Al-Mudhill",
+    "translation": "The Abaser",
+    "draft_meaning_long": "Al-Mudhill names the One who disgraces or humbles whom He wills — often those who reject truth, transgress against others, or exalt themselves wrongly — showing that no worldly power is secure against a lowering that only God can impose or remove.\n\nThis is a name to reflect on rather than imitate: recognizing that seeking honor from creation alone is unstable ground, and that the only sound response to another's disgrace is neither triumph nor scorn, but sober awareness that the same disposal of honor and shame governs everyone equally.",
+    "ghazali_basis": "Al-Ghazālī treats Al-Mudhill as the counterpart to Al-Mu'izz, both showing that honor and abasement rest entirely with God rather than with worldly status. Confidence: moderate-high on the general theme; specific supporting detail should be checked directly.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "as_sami",
+    "arabic": "ٱلسَّمِيعُ",
+    "transliteration": "As-Samī'",
+    "translation": "The All-Hearing",
+    "draft_meaning_long": "As-Samī' names a hearing that takes in every sound — spoken and unspoken, loud and silent — without need of ears or any physical means, reaching even the quiet plea of a heart that never says a word aloud.\n\nThe human echo of this name is attentiveness: truly listening when someone speaks, especially the weak or distressed whose voices are easiest to miss, rather than only waiting for one's turn to respond.",
+    "ghazali_basis": "Al-Ghazālī reads As-Samī' as hearing without organs or limitation, extending to every sound including the silent supplications of hearts. Confidence: moderate-high; often discussed together with Al-Baṣīr as a pair of perceptual attributes.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_basir",
+    "arabic": "ٱلْبَصِيرُ",
+    "transliteration": "Al-Baṣīr",
+    "translation": "The All-Seeing",
+    "draft_meaning_long": "Al-Baṣīr names a seeing that takes in everything visible and hidden alike, without light or organ, reaching into the smallest and most concealed particulars of creation as fully as into what lies in plain view.\n\nFor a person, the corresponding discipline is a kind of moral insight — training oneself to notice what is easy to overlook: another's quiet suffering, an injustice done out of sight, the unseen consequences of one's own actions — a seeing that goes beyond the merely visible.",
+    "ghazali_basis": "Al-Ghazālī pairs Al-Baṣīr with As-Samī' as complementary perceptual attributes, God's sight encompassing hidden and manifest alike without any physical means. Confidence: moderate-high on the pairing; detail should be verified against the source.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_hakam",
+    "arabic": "ٱلْحَكَمُ",
+    "transliteration": "Al-Ḥakam",
+    "translation": "The Judge",
+    "draft_meaning_long": "Al-Ḥakam names the One whose judgment is final and cannot be appealed or overturned — deciding rightly between truth and falsehood in every matter, unlike human judges, whose rulings, however careful, remain fallible and open to revision.\n\nThe human parallel is to judge fairly wherever one is called to arbitrate — setting bias and self-interest aside, and pursuing the truth of a matter as one's honest, if imperfect, aim.",
+    "ghazali_basis": "Al-Ghazālī treats Al-Ḥakam as the One whose judgment is absolute and unappealable, distinguishing it from the fallible judgment of created judges. Confidence: moderate; this name is close in sense to Al-'Adl and the precise distinction Ghazālī draws between them deserves direct citation.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_adl",
+    "arabic": "ٱلْعَدْلُ",
+    "transliteration": "Al-'Adl",
+    "translation": "The Just",
+    "draft_meaning_long": "Al-'Adl names a justice that does more than restore a balance already assumed to exist — it originates the very order in which everything is placed exactly where it belongs. Every decree and every act of God's justice is thus perfectly fitting, even where limited human understanding cannot yet see why.\n\nA person's share of this name is the ordinary, demanding work of fairness — giving each person and each situation its rightful due, resisting favoritism, and refusing to let convenience or self-interest tilt a judgment one is entrusted to make.",
+    "ghazali_basis": "Al-Ghazālī frames Al-'Adl as justice that places everything in its rightful place as part of the original order, not merely justice that corrects an existing imbalance. Confidence: moderate; the exact contrast with human justice deserves direct verification.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_latif",
+    "arabic": "ٱللَّطِيفُ",
+    "transliteration": "Al-Laṭīf",
+    "translation": "The Subtle One",
+    "draft_meaning_long": "Al-Laṭīf names a gentleness and subtlety that reaches into the finest, most hidden particulars of creation — arranging good for creatures through means so delicate or concealed that the benefit often arrives without the recipient ever perceiving how it was brought about.\n\nThe human echo of this name is a considerate, unobtrusive kindness — attending to another's hidden needs before they are spoken, and offering help in ways gentle enough that it does not burden or embarrass the one receiving it.",
+    "ghazali_basis": "Al-Ghazālī develops Al-Laṭīf through examples of hidden wisdom and gentle provision reaching creatures through imperceptible means, often paired with Al-Khabīr. Confidence: moderate-high on the general theme; specific illustrative examples should be checked against the text.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_khabir",
+    "arabic": "ٱلْخَبِيرُ",
+    "transliteration": "Al-Khabīr",
+    "translation": "The All-Aware",
+    "draft_meaning_long": "Al-Khabīr names a knowledge that reaches the inmost reality of things — not only what appears on the surface, but the hidden how and why beneath it, an experiential depth of awareness that surface observation alone could never supply.\n\nFor a person, this name invites a habit of looking past first impressions — trying to understand the real motives and circumstances behind what others do, rather than settling for the easiest, most surface-level reading of a situation.",
+    "ghazali_basis": "Al-Ghazālī pairs Al-Khabīr with Al-Laṭīf, reading it as knowledge of the inner reality and hidden detail of things beyond mere outward appearance. Confidence: moderate-high on the pairing and general theme.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_halim",
+    "arabic": "ٱلْحَلِيمُ",
+    "transliteration": "Al-Ḥalīm",
+    "translation": "The Forbearing",
+    "draft_meaning_long": "Al-Ḥalīm names a forbearance that withholds punishment despite full awareness of wrongdoing and full power to punish at once — giving the wrongdoer time and opportunity to turn back, rather than a forbearance born of indifference or ignorance, as human patience so often is.\n\nThe corresponding discipline for a person is restraint in anger — holding back from retaliation one has the means to carry out, and giving others the same room to reconsider and repair that one would hope for oneself.",
+    "ghazali_basis": "Al-Ghazālī contrasts God's forbearance — full knowledge and power held back deliberately — with human patience, which often stems from inability or unawareness rather than deliberate restraint. Confidence: high; this contrast is a clear and frequently noted teaching in the Maqṣad.",
+    "status": "UNREVIEWED_DRAFT"
+  },
+  {
+    "id": "al_azim",
+    "arabic": "ٱلْعَظِيمُ",
+    "transliteration": "Al-'Aẓīm",
+    "translation": "The Magnificent",
+    "draft_meaning_long": "Al-'Aẓīm names a greatness of rank and reality that exceeds anything intellects can fully grasp — not greatness of size or extent, which belongs to bodies, but a magnitude of station that leaves human comprehension short no matter how far it reaches.\n\nFor a person, this name is less something to imitate than something to be humbled by — cultivating a sense of awe that keeps worldly grandeur, wealth, and power in proportion, remembering that none of it approaches true greatness, which belongs to God alone.",
+    "ghazali_basis": "Al-Ghazālī is careful to distinguish Al-'Aẓīm's greatness of rank from any spatial or quantitative greatness, since the latter would imply a body. Confidence: moderate-high on this distinction, which is a recognizable concern of his throughout the Maqṣad given his consistent rejection of anthropomorphic readings.",
+    "status": "UNREVIEWED_DRAFT"
+  }
+]
