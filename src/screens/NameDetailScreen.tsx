@@ -20,6 +20,7 @@ import {
   getPrevName,
   getNextName,
 } from '../data/access';
+import * as player from '../audio/player';
 
 import NameHeader from '../components/NameHeader';
 import AudioButton from '../components/AudioButton';
@@ -39,10 +40,30 @@ export default function NameDetailScreen({ route, navigation }: Props) {
 
   const name = getNameById(nameId);
 
+  // Bookmark toggle — presentational only; state + persistence already live
+  // in SettingsContext (settings.bookmarks / TOGGLE_BOOKMARK). SPEC §8: never
+  // a color-only signal, so we pair a filled/outline glyph with an
+  // accessibilityLabel + accessibilityState that both state bookmarked/not.
+  const isBookmarked = settings.bookmarks.includes(nameId);
+  const handleToggleBookmark = useCallback(() => {
+    dispatch(actions.toggleBookmark(nameId));
+  }, [dispatch, nameId]);
+
   // Update last-read whenever the name changes (including via param swap)
   React.useEffect(() => {
     if (nameId) dispatch(actions.setLastRead(nameId));
   }, [nameId, dispatch]);
+
+  // Autoplay this name's recitation when the preference is on (SPEC §5).
+  // Depends on `nameId` so Prev/Next param-swap re-triggers autoplay for the
+  // newly-shown name; audio keeps playing across Detail <-> Reading and only
+  // stops when the user returns to the List (NamesListScreen's focus effect).
+  const autoplayEnabled = settings.audioPrefs.autoplay;
+  React.useEffect(() => {
+    if (nameId && autoplayEnabled) {
+      player.play(nameId);
+    }
+  }, [nameId, autoplayEnabled]);
 
   const index = name
     ? getIndexInEnumeration(name.id, activeEnumeration) ?? undefined
@@ -73,6 +94,30 @@ export default function NameDetailScreen({ route, navigation }: Props) {
       >
         {/* The focal Arabic block */}
         <NameHeader name={name} index={index} />
+
+        {/* Bookmark toggle — kept separate from the audio row below so it
+            doesn't crowd Play/Pause. Filled star = bookmarked, outline = not. */}
+        <View style={styles.bookmarkRow}>
+          <Pressable
+            onPress={handleToggleBookmark}
+            style={({ pressed }) => [
+              styles.bookmarkBtn,
+              pressed && { opacity: 0.6 },
+            ]}
+            accessibilityRole="button"
+            accessibilityLabel={
+              isBookmarked
+                ? `Remove ${name.transliteration_ascii} from bookmarks`
+                : `Add ${name.transliteration_ascii} to bookmarks`
+            }
+            accessibilityState={{ selected: isBookmarked }}
+            hitSlop={{ top: 8, bottom: 8, left: 8, right: 8 }}
+          >
+            <BodyText style={{ color: colors.accent, fontSize: 22, lineHeight: 26 }}>
+              {isBookmarked ? '★' : '☆'}
+            </BodyText>
+          </Pressable>
+        </View>
 
         {/* Play / pause */}
         <View style={styles.audioRow}>
@@ -117,6 +162,17 @@ export default function NameDetailScreen({ route, navigation }: Props) {
 const styles = StyleSheet.create({
   container: { flex: 1 },
   scrollContent: { paddingBottom: 8 },
+  bookmarkRow: {
+    flexDirection: 'row',
+    justifyContent: 'flex-end',
+    paddingHorizontal: 20,
+  },
+  bookmarkBtn: {
+    minWidth: 44,
+    minHeight: 44,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
   audioRow: {
     paddingHorizontal: 20,
     paddingVertical: 12,

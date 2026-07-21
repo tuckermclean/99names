@@ -6,10 +6,6 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
-    "fonts": [
-      "./src/assets/fonts/Amiri-Regular.ttf",
-      "./src/assets/fonts/Amiri-Bold.ttf"
-    ],
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.tuckermclean.99names"
@@ -34,7 +30,9 @@
           "backgroundColor": "#F5F0E8"
         }
       ],
-      "expo-audio"
+      "expo-audio",
+      "expo-font",
+      "expo-asset"
     ]
   }
 }

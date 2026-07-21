@@ -47,8 +47,10 @@ export default function ReadingScreen({ route }: Props) {
 
       <View style={[styles.divider, { backgroundColor: colors.border }]} />
 
-      {/* Long-form meaning — comfortable reading layout */}
-      <MeaningBlock text={name.meaning_long} />
+      {/* Long-form meaning, rendered as markdown for comfortable reading.
+          variant="reading": the divider above already separates this from
+          the header, so MeaningBlock skips its own top border here. */}
+      <MeaningBlock text={name.meaning_long} variant="reading" />
 
       {/* External links — clearly marked, gracefully offline */}
       <TafsirLinkList links={name.tafsir_links} />
