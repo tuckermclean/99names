@@ -53,22 +53,6 @@ All other files mapped 1:1 by matching corpus id / transliteration.
 be covered — see table above). See `src/audio/audioManifest.ts` for the
 exact per-id mapping.
 
-## Getting the clips locally
-
-This repository is public, so these 99 unlicensed MP3 files are **not
-committed** — `.gitignore` excludes `src/assets/audio/*.mp3` (with an
-exception keeping `placeholder.wav` tracked, since that one's an
-intentionally-blank in-repo asset). After cloning, run:
-
-```
-npm run fetch-audio
-```
-
-This re-downloads the clips from the source repo into `src/assets/audio/`
-using the id-to-source-filename mapping in `scripts/fetch-audio.mjs` (the
-same mapping documented in the table above). The script skips any file
-that's already present, so it's safe to re-run.
-
 ## Before release
 
 - Replace every `require('../assets/audio/<id>.mp3')` entry in

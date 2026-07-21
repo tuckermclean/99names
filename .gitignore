@@ -40,7 +40,3 @@ yarn-error.*
 /ios
 /android
 
-# dev-placeholder recitation audio (unlicensed; fetched via `npm run fetch-audio`)
-# see src/assets/audio/AUDIO_PLACEHOLDERS_NOTICE.md
-src/assets/audio/*.mp3
-!src/assets/audio/placeholder.wav
