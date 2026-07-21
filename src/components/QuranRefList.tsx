@@ -40,11 +40,9 @@ export default function QuranRefList({ refs }: Props) {
             {ref.sura}:{ref.ayah}
           </BodyText>
 
-          {ref.text_ar !== '[PLACEHOLDER]' ? (
-            <ArabicText size="small" style={styles.arabicVerse}>
-              {ref.text_ar}
-            </ArabicText>
-          ) : null}
+          <ArabicText size="small" style={styles.arabicVerse}>
+            {ref.text_ar}
+          </ArabicText>
 
           <BodyText size="caption" muted style={styles.translation}>
             {ref.text_en}

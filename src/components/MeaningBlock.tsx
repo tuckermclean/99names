@@ -4,15 +4,12 @@
  * Always shows immediately (bundled, no spinner). SPEC §3.2.
  * `meaning_long` / `note` are markdown (SPEC §2.2, §2.3) — headings, emphasis,
  * and lists are rendered via react-native-markdown-display, themed and
- * font-scaled to match the rest of the app. Marks placeholder text with a
- * visible warning for the dev scaffold; placeholder strings contain no
- * markdown syntax so they simply render as a plain paragraph.
+ * font-scaled to match the rest of the app.
  */
 
 import React, { useMemo } from 'react';
 import { View, StyleSheet, Platform } from 'react-native';
 import Markdown from 'react-native-markdown-display';
-import BodyText from './BodyText';
 import { useTheme } from '../theme/ThemeProvider';
 import { bodyTextStyle } from '../theme/typography';
 import type { ColorTokens, TypeScale } from '../theme/tokens';
@@ -27,8 +24,6 @@ interface Props {
    */
   variant?: 'detail' | 'reading';
 }
-
-const PLACEHOLDER_PREFIX = '[PLACEHOLDER';
 
 const monospace = Platform.select({ ios: 'Courier', android: 'monospace' });
 
@@ -177,7 +172,6 @@ function buildMarkdownStyles(colors: ColorTokens, typeScale: TypeScale) {
 
 export default function MeaningBlock({ text, variant = 'detail' }: Props) {
   const { colors, typeScale } = useTheme();
-  const isPlaceholder = text.trimStart().startsWith(PLACEHOLDER_PREFIX);
 
   const markdownStyles = useMemo(
     () => buildMarkdownStyles(colors, typeScale),
@@ -191,13 +185,6 @@ export default function MeaningBlock({ text, variant = 'detail' }: Props) {
         variant === 'detail' && [styles.detailBorder, { borderTopColor: colors.border }],
       ]}
     >
-      {isPlaceholder && (
-        <View style={[styles.warning, { backgroundColor: colors.tagBackground, borderColor: colors.warning }]}>
-          <BodyText size="caption" style={{ color: colors.warning }}>
-            ⚠ Dev scaffold — content pending scholarly review (SPEC §9)
-          </BodyText>
-        </View>
-      )}
       {/* Bundled markdown content — no network, presentational only. Guard
           against an accidental link inside the meaning text ever opening the
           network implicitly; tafsir links are the only sanctioned network
@@ -216,12 +203,5 @@ const styles = StyleSheet.create({
   },
   detailBorder: {
     borderTopWidth: StyleSheet.hairlineWidth,
-  },
-  warning: {
-    borderRadius: 6,
-    borderWidth: 1,
-    paddingHorizontal: 10,
-    paddingVertical: 6,
-    marginBottom: 12,
   },
 });

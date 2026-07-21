@@ -5,9 +5,9 @@ export type AttestationType = 'quran' | 'sunnah' | 'enumeration';
 export interface QuranRef {
   sura: number;
   ayah: number;
-  /** Fully-vowelled Arabic verse text — PLACEHOLDER pending final Quran edition */
+  /** Fully-vowelled Arabic verse text (Tanzil Uthmani, tanzil.net) */
   text_ar: string;
-  /** English verse text — PLACEHOLDER pending final translation */
+  /** English verse text (Saheeh International, via QuranEnc.com) */
   text_en: string;
 }
 
@@ -34,7 +34,7 @@ export interface CorpusName {
   transliteration_ascii: string;
   /** Short English meaning (≤ one line) */
   translation: string;
-  /** 1–3 paragraph explanation — PLACEHOLDER until scholarly review */
+  /** 1–3 paragraph explanation (original prose grounded in al-Ghazālī's Al-Maqṣad al-Asnā) */
   meaning_long: string;
   attestation: AttestationType[];
   quran_refs: QuranRef[];
