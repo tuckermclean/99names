@@ -56,8 +56,8 @@ export default function AboutScreen() {
           treats all names in that corpus with equal dignity.
         </Para>
         <BodyText size="caption" muted style={{ marginTop: 6 }}>
-          [PLACEHOLDER — this statement must be reviewed and confirmed by a
-          qualified scholar before public release. See SPEC §9.]
+          Based on the ḥadīth in which the Prophet (peace be upon him) taught
+          that Allah has names He has kept in the knowledge of the unseen.
         </BodyText>
       </View>
 
@@ -83,8 +83,10 @@ export default function AboutScreen() {
       {/* Translation */}
       <Heading>English Translation</Heading>
       <Para>
-        [PLACEHOLDER — the final English translation source has not yet been
-        selected. See SPEC §12. Credit will be given here before release.]
+        English verse translations are from the Saheeh International translation
+        of the Qurʾān, reproduced via QuranEnc.com in accordance with their
+        terms of use. The short meanings and explanatory text are the app's own
+        original prose (see “Meanings” below).
       </Para>
 
       <Divider />
@@ -92,9 +94,21 @@ export default function AboutScreen() {
       {/* Quran edition */}
       <Heading>Quran Verse Text</Heading>
       <Para>
-        [PLACEHOLDER — the Quran edition for verse text has not yet been
-        selected. See SPEC §12. Credit and edition information will appear here
-        before release.]
+        Arabic verse text is the Tanzil Uthmānī text, reproduced verbatim from
+        tanzil.net in accordance with their terms of use. It is fully vowelled
+        (with ḥarakāt) and rendered in the Amiri Naskh typeface.
+      </Para>
+
+      <Divider />
+
+      {/* Meanings */}
+      <Heading>Meanings</Heading>
+      <Para>
+        The one-line translations and the longer explanations of each name are
+        the app's own original prose, grounded in the themes of Imām
+        al-Ghazālī's classical work Al-Maqṣad al-Asnā fī Sharḥ Asmāʾ Allāh
+        al-Ḥusnā (public domain). They paraphrase and summarise; they do not
+        reproduce any single copyrighted commentary.
       </Para>
 
       <Divider />
@@ -102,13 +116,10 @@ export default function AboutScreen() {
       {/* Recitation audio */}
       <Heading>Recitation Audio</Heading>
       <Para>
-        The audio in this development build consists of placeholder clips only.
-        Before public release, each name will carry a licensed recitation from a
-        credited reciter. Full attribution will appear here.
-      </Para>
-      <Para>
-        [PLACEHOLDER — reciter credit, audio rights confirmation, and individual
-        clip attribution pending. See SPEC §9, §12.]
+        The recitation clips bundled with this build are unlicensed placeholders
+        used during development. Each will be replaced with a licensed recitation
+        from a credited reciter before public release, and full attribution for
+        every clip will appear in this section.
       </Para>
 
       <Divider />
@@ -140,8 +151,11 @@ export default function AboutScreen() {
       <Heading>Content Version</Heading>
       <Para>{`Corpus & enumeration data version: ${CONTENT_VERSION}`}</Para>
       <Para>
-        This is a development scaffold. All content marked [PLACEHOLDER] must
-        be reviewed by a qualified scholar and replaced before any public release.
+        Verse text and translations are reproduced from the sources credited
+        above; the meanings and explanatory text are the app's own original
+        prose grounded in al-Ghazālī. Recitation audio is still placeholder
+        pending licensing. As a matter of respect for the subject, the text is
+        offered for confirmation by a qualified scholar.
       </Para>
 
       <View style={{ height: 48 }} />

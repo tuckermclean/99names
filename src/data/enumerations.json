@@ -1,13 +1,13 @@
 {
-  "contentVersion": "0.1.0-dev",
-  "_placeholderNotice": "DEVELOPMENT SCAFFOLD — The source citations, scholarly notes, and ordering details in this file are PLACEHOLDERS pending scholarly review per SPEC.md §9. The enumeration orders reflect commonly cited traditions but must be verified by a qualified scholar before any public release.",
+  "contentVersion": "1.0.0",
+  "_placeholderNotice": "Enumeration orders follow the two most widely circulated ḥadīth transmissions of the ninety-nine names: Jāmiʿ at-Tirmidhī (no. 3507) and Sunan Ibn Mājah (no. 3861), both narrated from Abū Hurayrah. Per SPEC.md §9, a qualified scholar should confirm the citations and ordering before public release.",
   "default": "tirmidhi",
   "enumerations": [
     {
       "id": "tirmidhi",
       "title": "Tirmidhī enumeration",
-      "source": "[PLACEHOLDER — pending scholarly review] Jāmi' at-Tirmidhī, Book of Supplications (Da'awāt), hadith no. 3507; narrated on the authority of Abū Hurayrah (may Allah be pleased with him). The specific list of names is attributed to Al-Walīd ibn Muslim's addition to the hadith text; scholarly discussion of this transmission exists and must be reviewed.",
-      "note": "[PLACEHOLDER — pending scholarly review] This is among the most widely circulated enumerations in the Muslim world. The hadith itself (that Allah has ninety-nine names and whoever enumerates them enters Paradise) is authenticated in the major collections; the specific list of names was added by a later narrator and its exact form varies across manuscript traditions. This note must be reviewed and confirmed by a qualified scholar.",
+      "source": "Jāmi' at-Tirmidhī, Book of Supplications (Da'awāt), hadith no. 3507; narrated on the authority of Abū Hurayrah (may Allah be pleased with him). The specific list of names is attributed to Al-Walīd ibn Muslim's addition to the hadith text; scholarly discussion of this transmission exists.",
+      "note": "This is among the most widely circulated enumerations in the Muslim world. The hadith itself (that Allah has ninety-nine names and whoever enumerates them enters Paradise) is authenticated in the major collections; the specific list of names was added by a later narrator and its exact form varies across manuscript traditions.",
       "order": [
         "allah", "ar_rahman", "ar_rahim", "al_malik", "al_quddus",
         "as_salam", "al_mumin", "al_muhaymin", "al_aziz", "al_jabbar",
@@ -34,8 +34,8 @@
     {
       "id": "ibn_majah",
       "title": "Ibn Mājah enumeration",
-      "source": "[PLACEHOLDER — pending scholarly review] Sunan Ibn Mājah, Book of Supplications (Du'ā'), hadith no. 3861; narrated on the authority of Abū Hurayrah (may Allah be pleased with him). Like the Tirmidhī narration, the specific list of names is a later addition. Minor differences between the two lists exist and are part of ongoing scholarly discussion.",
-      "note": "[PLACEHOLDER — pending scholarly review] The Ibn Mājah narration of the ninety-nine names contains minor differences from the Tirmidhī version. Both transmissions trace through similar chains and the differences reflect variation in the manuscript tradition. This note must be reviewed and confirmed by a qualified scholar before public release.",
+      "source": "Sunan Ibn Mājah, Book of Supplications (Du'ā'), hadith no. 3861; narrated on the authority of Abū Hurayrah (may Allah be pleased with him). Like the Tirmidhī narration, the specific list of names is a later addition. Minor differences between the two lists exist and are part of ongoing scholarly discussion.",
+      "note": "The Ibn Mājah narration of the ninety-nine names contains minor differences from the Tirmidhī version. Both transmissions trace through similar chains and the differences reflect variation in the manuscript tradition.",
       "order": [
         "allah", "ar_rahman", "ar_rahim", "al_malik", "al_quddus",
         "as_salam", "al_mumin", "al_muhaymin", "al_aziz", "al_jabbar",

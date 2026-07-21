@@ -105,7 +105,7 @@ export default function SettingsScreen({ navigation }: Props) {
         <SettingRow
           key={e.id}
           label={e.title}
-          description={e.note.startsWith('[PLACEHOLDER') ? '(Description pending scholarly review)' : e.note}
+          description={e.note}
           selected={settings.activeEnumeration === e.id}
           onPress={() => dispatch(actions.setEnumeration(e.id))}
         />

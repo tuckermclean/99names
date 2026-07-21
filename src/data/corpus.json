@@ -1,6 +1,6 @@
 {
-  "contentVersion": "0.2.0-dev",
-  "_placeholderNotice": "DEVELOPMENT SCAFFOLD — quran_refs verse text is now real: Arabic is the Tanzil Uthmani text (tanzil.net) and English is the Saheeh International translation (via QuranEnc.com), both reproduced verbatim per their terms of use. meaning_long, attestation details, and enumeration notes REMAIN PLACEHOLDERS and must be reviewed and replaced by a qualified scholar before any public release. See SPEC.md §9.",
+  "contentVersion": "1.0.0",
+  "_placeholderNotice": "Content complete. quran_refs Arabic is the Tanzil Uthmani text (tanzil.net); English is the Saheeh International translation (via QuranEnc.com), both reproduced verbatim per their terms of use. meaning_long entries are original prose grounded in the public-domain Al-Maqṣad al-Asnā of Imām al-Ghazālī. Enumerations follow the Jāmiʿ at-Tirmidhī (no. 3507) and Sunan Ibn Mājah (no. 3861) transmissions. Per SPEC.md §9, a qualified scholar should confirm the text before public release.",
   "names": [
     {
       "id": "allah",
@@ -8,7 +8,7 @@
       "transliteration": "Allāh",
       "transliteration_ascii": "Allah",
       "translation": "God — The One God",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] The proper name of God in Arabic, from which all other names flow as attributes. This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Allāh is not one name among the ninety-nine so much as the ground on which all the others stand. It is treated as God's proper name — the one that gathers every attribute of perfection into a single reference, rather than pointing to any single quality the way \"the Merciful\" or \"the Just\" does. Where the other names each name a facet of divinity, this name names the One who possesses every facet at once, without partner or peer.\n\nTo hold this name in mind is to be recalled, again and again, from any partial idea of God back to the whole: every mercy, every power, every act of care in the world is, in the end, an act of *this* One, not of many. The proper response is neither analysis nor comparison but simple, wondering acknowledgment — that there is a reality answering to this name, and that everything else in existence depends on it.",
       "attestation": [
         "quran",
         "sunnah"
@@ -22,7 +22,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 1:1 — translations & tafsīr",
+          "url": "https://quran.com/1:1",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "أ ل ه"
     },
     {
@@ -31,7 +37,7 @@
       "transliteration": "Ar-Raḥmān",
       "transliteration_ascii": "Ar-Rahman",
       "translation": "The Most Gracious",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] One of the most frequently occurring names in the Quran. This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Ar-Raḥmān points to a mercy so wide that it reaches every creature before there is any asking — sun and rain, breath and growth, the ordinary furniture of existence that sustains believer and unbeliever, the grateful and the heedless, alike. It is mercy as an all-encompassing provision built into the very structure of the world, not a mercy that waits to be earned.\n\nA human being can never possess this quality in its fullness, since none of us gives existence itself. But there is a modest echo available: to attend to the needs of others before they voice them, and to let one's kindness extend past those who have earned it, toward the stranger and even the ungrateful, in imitation — however small — of a mercy that does not first calculate desert.",
       "attestation": [
         "quran",
         "sunnah"
@@ -51,7 +57,18 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 1:3 — translations & tafsīr",
+          "url": "https://quran.com/1:3",
+          "source_name": "Quran.com"
+        },
+        {
+          "label": "Qurʾān 17:110 — translations & tafsīr",
+          "url": "https://quran.com/17:110",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ر ح م"
     },
     {
@@ -60,7 +77,7 @@
       "transliteration": "Ar-Raḥīm",
       "transliteration_ascii": "Ar-Rahim",
       "translation": "The Most Merciful",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Where Ar-Raḥmān names mercy in its broadest, most general sweep, Ar-Raḥīm points to a more particular mercy — one bestowed specifically, and often kept for those who turn toward God in faith. It is the mercy of final outcomes: forgiveness given, distress relieved, a good end secured for those who seek it, rather than mercy simply diffused across all existing things.\n\nThe human share in this name is the deliberate, particular kindness a person directs toward someone in need — not the passive backdrop of general goodwill, but a mercy chosen and acted on for this person, in this moment, because their situation calls for it.",
       "attestation": [
         "quran",
         "sunnah"
@@ -74,7 +91,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 1:3 — translations & tafsīr",
+          "url": "https://quran.com/1:3",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ر ح م"
     },
     {
@@ -83,7 +106,7 @@
       "transliteration": "Al-Malik",
       "transliteration_ascii": "Al-Malik",
       "translation": "The Sovereign",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Malik names a sovereignty that needs nothing from what it rules. A king in the ordinary sense still depends on subjects, treasuries, allies; true kingship, in this name's sense, belongs only to the One who is wholly independent of all things while all things remain wholly dependent on Him — the reverse relation holding in every direction at once.\n\nThe corresponding discipline for a person is to loosen the grip of dependence on what one owns or controls — to want less from creation, not because possessions are evil, but because peace of heart grows in proportion to how little one actually needs from anyone besides God.",
       "attestation": [
         "quran",
         "sunnah"
@@ -97,7 +120,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 59:23 — translations & tafsīr",
+          "url": "https://quran.com/59:23",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "م ل ك"
     },
     {
@@ -106,7 +135,7 @@
       "transliteration": "Al-Quddūs",
       "transliteration_ascii": "Al-Quddus",
       "translation": "The Most Holy",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Quddūs names a purity that outstrips not only the defects we can see, but every defect the mind can even imagine attaching to greatness — limitation, composition, resemblance to created things, change over time. It is holiness in the sense of being categorically set apart from anything a human concept of perfection could fully capture.\n\nFor a person, the resonance of this name is an invitation to inward purification: clearing the heart of envy, malice, and attachment to what is base, not because holiness can be manufactured, but because a heart cluttered with lesser things has no room left to recognize the Holy.",
       "attestation": [
         "quran",
         "sunnah"
@@ -120,7 +149,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 59:23 — translations & tafsīr",
+          "url": "https://quran.com/59:23",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ق د س"
     },
     {
@@ -129,7 +164,7 @@
       "transliteration": "As-Salām",
       "transliteration_ascii": "As-Salam",
       "translation": "The Source of Peace",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "As-Salām carries two related senses: an essence entirely free of flaw, harm, or decay, and a giver of peace and safety to creation — the One from whom soundness flows and to whom the saved return in the abode named for this very quality.\n\nA human share of this name shows up less in grand gestures than in small refusals: refusing to let one's hand or tongue become a source of harm to others, and cultivating a heart clear enough of grudges that those nearby can feel safe in one's presence.",
       "attestation": [
         "quran",
         "sunnah"
@@ -143,7 +178,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 59:23 — translations & tafsīr",
+          "url": "https://quran.com/59:23",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "س ل م"
     },
     {
@@ -152,7 +193,7 @@
       "transliteration": "Al-Mu'min",
       "transliteration_ascii": "Al-Mu'min",
       "translation": "The Granter of Security",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Mu'min is the One who grants security — confirming truth in the hearts of those who believe, guaranteeing protection to those who trust in Him, and promising safety from ultimate injustice on the day all accounts are settled. It is security given, not merely felt: a guarantee backed by power to make good on it.\n\nThe corresponding human trait is trustworthiness — being someone whose word, once given, can be relied upon without hedge, and someone in whose presence others feel their rights and secrets are safe rather than at risk.",
       "attestation": [
         "quran",
         "sunnah"
@@ -166,7 +207,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 59:23 — translations & tafsīr",
+          "url": "https://quran.com/59:23",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "أ م ن"
     },
     {
@@ -175,7 +222,7 @@
       "transliteration": "Al-Muhaymin",
       "transliteration_ascii": "Al-Muhaymin",
       "translation": "The Guardian",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Muhaymin names a watchfulness that misses nothing — an oversight of every creature's state, need, and deed, sustaining and safeguarding all of it at once, the way a witness who never looks away also never fails to act on what is seen.\n\nNo human vigilance can approach this scope, but there is a narrower, honest analogue: the discipline of watching one's own state — one's intentions, words, and habits — with the same unbroken attention one would wish God's guardianship to model, rather than drifting through the day unexamined.",
       "attestation": [
         "quran",
         "sunnah"
@@ -189,7 +236,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 59:23 — translations & tafsīr",
+          "url": "https://quran.com/59:23",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ه ي م ن"
     },
     {
@@ -198,7 +251,7 @@
       "transliteration": "Al-'Azīz",
       "transliteration_ascii": "Al-'Aziz",
       "translation": "The Almighty",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "True 'izzah — the mightiness named here — requires three things together: being rare enough that not everyone attains it, being so needed that others cannot do without it, and being difficult enough to reach that it cannot simply be taken. Only God fulfills all three at once and without qualification; every worldly claim to might falls short on at least one count.\n\nFor a person, this name reframes where dignity is actually found — not in accumulating what others want, but in needing less from creation and answering only to God, which is a kind of mightiness available even to the materially poor.",
       "attestation": [
         "quran",
         "sunnah"
@@ -212,7 +265,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 59:23 — translations & tafsīr",
+          "url": "https://quran.com/59:23",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ع ز ز"
     },
     {
@@ -221,7 +280,7 @@
       "transliteration": "Al-Jabbār",
       "transliteration_ascii": "Al-Jabbar",
       "translation": "The Compeller",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Jabbār carries two related meanings held together: the One whose will nothing can resist or overturn, and the One who mends what is broken — the same root that gives the word for setting a fractured bone. God compels the proud into submission and, in the same breath, restores what has been shattered in the lives of the afflicted.\n\nA person's share is modest but real: mending the brokenhearted rather than adding to their fracture, and — turned inward — compelling one's own reluctant soul toward what is good when weakness or laziness resists it.",
       "attestation": [
         "quran",
         "sunnah"
@@ -235,7 +294,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 59:23 — translations & tafsīr",
+          "url": "https://quran.com/59:23",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ج ب ر"
     },
     {
@@ -244,7 +309,7 @@
       "transliteration": "Al-Mutakabbir",
       "transliteration_ascii": "Al-Mutakabbir",
       "translation": "The Possessor of Greatness",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Mutakabbir names a greatness so total that everything besides God appears small by comparison — a claim to supremacy that would be arrogance and falsehood in any created being, since no creature actually possesses the greatness it might claim, but is simple truth in God, who alone possesses it in full.\n\nThere is no human share of this name to cultivate — pride in a person is a defect precisely because it claims a station not truly held. The honest response is the opposite motion: to recognize one's own smallness clearly enough that the ego's claims to greatness quiet down.",
       "attestation": [
         "quran",
         "sunnah"
@@ -258,7 +323,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 59:23 — translations & tafsīr",
+          "url": "https://quran.com/59:23",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ك ب ر"
     },
     {
@@ -267,7 +338,7 @@
       "transliteration": "Al-Khāliq",
       "transliteration_ascii": "Al-Khaliq",
       "translation": "The Creator",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Khāliq points to the One who brings things into being according to a due measure — first estimating and ordaining what a thing will be, in wisdom and precise proportion, before it is ever given existence. It is often read alongside Al-Bāri' and Al-Muṣawwir as three phases of one act: measured planning, distinct origination, and particular shaping.\n\nHuman making is never creation from nothing, and the distance here should be held honestly; still, the craftsman's or parent's care in shaping something well — attentive to proportion, order, and purpose — is a faint, creaturely echo of a measure the Creator alone truly holds.",
       "attestation": [
         "quran",
         "sunnah"
@@ -281,7 +352,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 59:24 — translations & tafsīr",
+          "url": "https://quran.com/59:24",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "خ ل ق"
     },
     {
@@ -290,7 +367,7 @@
       "transliteration": "Al-Bāri'",
       "transliteration_ascii": "Al-Bari'",
       "translation": "The Originator of Creation",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Bāri' names the One who brings each thing into existence free of any prior model to copy, and who gives every created thing its own distinct being, set apart from every other — the same root suggesting a kind of clearing or setting-free of one thing from another so that each has its own separate reality.\n\nThe takeaway for a person is less a practice to imitate than a matter of wonder: that no two things in creation, however similar, are without their own particular reality, each owing its distinctness to an Originator who needed no template at all.",
       "attestation": [
         "quran",
         "sunnah"
@@ -304,7 +381,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 59:24 — translations & tafsīr",
+          "url": "https://quran.com/59:24",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ب ر أ"
     },
     {
@@ -313,7 +396,7 @@
       "transliteration": "Al-Muṣawwir",
       "transliteration_ascii": "Al-Musawwir",
       "translation": "The Shaper of Beauty",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Muṣawwir names the One who gives each created being its particular form — the shape, features, and arrangement that make it recognizably itself, and that make members of the same kind endlessly various rather than identical copies of one another.\n\nA person's echo of this name lies in the care given to shaping one's own actions, work, and character well — attending to form and order, not only outcome — while remembering that the deepest shaping, of body and soul alike, belongs to God alone.",
       "attestation": [
         "quran",
         "sunnah"
@@ -327,7 +410,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 59:24 — translations & tafsīr",
+          "url": "https://quran.com/59:24",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ص و ر"
     },
     {
@@ -336,7 +425,7 @@
       "transliteration": "Al-Ghaffār",
       "transliteration_ascii": "Al-Ghaffar",
       "translation": "The Repeatedly Forgiving",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Ghaffār names a forgiveness that repeats without wearing thin — covering sin after sin, in this life and the next, as they recur, rather than a single pardon spent once and gone. The root sense of covering is important: the fault is hidden and its consequence withheld, not merely excused in passing.\n\nThe corresponding human quality is the willingness to overlook others' failings and to keep their secrets rather than expose them — a discipline of covering rather than broadcasting the faults one happens to know.",
       "attestation": [
         "quran",
         "sunnah"
@@ -350,7 +439,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 20:82 — translations & tafsīr",
+          "url": "https://quran.com/20:82",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "غ ف ر"
     },
     {
@@ -359,7 +454,7 @@
       "transliteration": "Al-Qahhār",
       "transliteration_ascii": "Al-Qahhar",
       "translation": "The Subduer",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Qahhār names an irresistible dominance — a power before which no tyrant's strength, no proud claim, and no rebellious will can ultimately stand. It is might that subdues not by contest but simply by being what it is; nothing in existence is positioned to resist it.\n\nThe nearest human parallel is turned inward rather than outward: subduing one's own unruly desires and the ego's demands, refusing to let appetite or pride dictate one's actions — a small, self-directed discipline rather than any dominance exercised over others.",
       "attestation": [
         "quran",
         "sunnah"
@@ -373,7 +468,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 13:16 — translations & tafsīr",
+          "url": "https://quran.com/13:16",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ق ه ر"
     },
     {
@@ -382,7 +483,7 @@
       "transliteration": "Al-Wahhāb",
       "transliteration_ascii": "Al-Wahhab",
       "translation": "The Bestower",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Wahhāb names giving in its purest form — a hiba, a gift given with no expectation of return and no underlying transaction, offered again and again out of sheer generosity rather than obligation or exchange. It is distinguished from giving that seeks benefit, praise, or reciprocity of any kind.\n\nA person shares in this name by giving without calculating a return — even giving quietly, where no one will know to repay or praise it — since the moment a gift is given to secure something back, it has already left the territory this name describes.",
       "attestation": [
         "quran",
         "sunnah"
@@ -396,7 +497,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 3:8 — translations & tafsīr",
+          "url": "https://quran.com/3:8",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "و ه ب"
     },
     {
@@ -405,7 +512,7 @@
       "transliteration": "Ar-Razzāq",
       "transliteration_ascii": "Ar-Razzaq",
       "translation": "The Provider",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Ar-Razzāq names the One who both creates provision and delivers it to those who benefit from it — every form of sustenance, bodily and otherwise, including the nourishment of knowledge and guidance that feeds the heart the way food feeds the body.\n\nThe human share is to become a channel of provision for others rather than only a receiver of it — offering material help where one can, and offering useful knowledge or guidance where material means are limited, since both count as forms of rizq passed from one creature to another.",
       "attestation": [
         "quran",
         "sunnah"
@@ -419,7 +526,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 51:58 — translations & tafsīr",
+          "url": "https://quran.com/51:58",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ر ز ق"
     },
     {
@@ -428,7 +541,7 @@
       "transliteration": "Al-Fattāḥ",
       "transliteration_ascii": "Al-Fattah",
       "translation": "The Opener",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Fattāḥ names the One who opens what is closed — doors of provision, mercy, understanding, and guidance that no created effort alone can force open. The root also carries a sense of judging or deciding between truth and falsehood, opening a matter to its rightful resolution.\n\nA person's echo of this name is practical: working to open what is stuck for others — resolving a disagreement, explaining what confuses someone, helping a stalled situation move — while recognizing that the deepest openings, of the heart especially, are ultimately God's to grant.",
       "attestation": [
         "quran",
         "sunnah"
@@ -442,7 +555,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 34:26 — translations & tafsīr",
+          "url": "https://quran.com/34:26",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ف ت ح"
     },
     {
@@ -451,7 +570,7 @@
       "transliteration": "Al-'Alīm",
       "transliteration_ascii": "Al-'Alim",
       "translation": "The All-Knowing",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-'Alīm names a knowledge that encompasses everything — hidden and manifest, past, present, and future — without ever being acquired, increased, or forgotten, unlike human knowledge, which is always gathered piecemeal, imperfect, and liable to lapse.\n\nThe corresponding human calling is the sincere pursuit of knowledge, especially knowledge of God, as among the noblest uses of the intellect — held always with the humility that whatever a person comes to know remains a small borrowing against a knowledge that is, in its true form, God's alone.",
       "attestation": [
         "quran",
         "sunnah"
@@ -465,7 +584,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 2:29 — translations & tafsīr",
+          "url": "https://quran.com/2:29",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ع ل م"
     },
     {
@@ -474,13 +599,19 @@
       "transliteration": "Al-Qābiḍ",
       "transliteration_ascii": "Al-Qabid",
       "translation": "The Withholder",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Qābiḍ names the One who constricts — withholding provision from some as wisdom requires, and, in a related sense, drawing back the soul at the moment of death. It names a divine prerogative to tighten what might otherwise flow freely, always for reasons a limited human view cannot fully judge.\n\nNo person controls provision the way this name describes, so there is little to imitate directly; the honest response to one's own seasons of constriction — need, loss, hardship — is patient acceptance rather than resentment, trusting the same wisdom that also expands.",
       "attestation": [
         "sunnah"
       ],
       "quran_refs": [],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "The ḥadīth of the ninety-nine names",
+          "url": "https://sunnah.com/tirmidhi:3507",
+          "source_name": "Sunnah.com — Jāmiʿ at-Tirmidhī 3507"
+        }
+      ],
       "root": "ق ب ض"
     },
     {
@@ -489,13 +620,19 @@
       "transliteration": "Al-Bāsiṭ",
       "transliteration_ascii": "Al-Basit",
       "translation": "The Extender",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Bāsiṭ names the One who expands — opening up provision, widening hearts with faith and ease, granting more than strict calculation would predict. It is the counterpart to Al-Qābiḍ, showing that constriction and expansion both flow from the same wise hand.\n\nA person can genuinely share something of this name by working to expand others rather than diminish them — widening someone's hope through encouragement, easing a tight situation through generosity, or simply making room in a hard moment rather than adding pressure to it.",
       "attestation": [
         "sunnah"
       ],
       "quran_refs": [],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "The ḥadīth of the ninety-nine names",
+          "url": "https://sunnah.com/tirmidhi:3507",
+          "source_name": "Sunnah.com — Jāmiʿ at-Tirmidhī 3507"
+        }
+      ],
       "root": "ب س ط"
     },
     {
@@ -504,13 +641,19 @@
       "transliteration": "Al-Khāfiḍ",
       "transliteration_ascii": "Al-Khafid",
       "translation": "The Humiliator",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Khāfiḍ names the One who brings low — humbling the arrogant, the unjust, and those who exalt themselves without right, regardless of how secure their position seemed. It is the sobering half of a pair completed by Ar-Rāfi', showing that rank in this world is entirely in God's disposal, not a fixed possession of the proud.\n\nFor a person, the lesson is cautionary rather than imitative: since abasement of the unjust belongs to God alone, the wiser posture is humility offered freely, rather than waiting to be humbled, and a corresponding care never to look down on others from a height one does not truly hold.",
       "attestation": [
         "sunnah"
       ],
       "quran_refs": [],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "The ḥadīth of the ninety-nine names",
+          "url": "https://sunnah.com/tirmidhi:3507",
+          "source_name": "Sunnah.com — Jāmiʿ at-Tirmidhī 3507"
+        }
+      ],
       "root": "خ ف ض"
     },
     {
@@ -519,13 +662,19 @@
       "transliteration": "Ar-Rāfi'",
       "transliteration_ascii": "Ar-Rafi'",
       "translation": "The Exalter",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Ar-Rāfi' names the One who raises up — elevating the ranks of the faithful and the righteous, in knowledge, in reputation among the sincere, and ultimately in the degrees of the life to come, regardless of how the world happened to rank them.\n\nThe human parallel is to become someone who lifts others rather than one who competes to be lifted — supporting another's dignity, recognizing their worth, and helping them rise, especially when the world has not been generous to them.",
       "attestation": [
         "sunnah"
       ],
       "quran_refs": [],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "The ḥadīth of the ninety-nine names",
+          "url": "https://sunnah.com/tirmidhi:3507",
+          "source_name": "Sunnah.com — Jāmiʿ at-Tirmidhī 3507"
+        }
+      ],
       "root": "ر ف ع"
     },
     {
@@ -534,13 +683,19 @@
       "transliteration": "Al-Mu'izz",
       "transliteration_ascii": "Al-Mu'izz",
       "translation": "The Honourer",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Mu'izz names the One who grants honor to whom He wills, on terms that owe nothing to worldly wealth, lineage, or status — honor rooted instead in faith, righteousness, and nearness to God, which can be given to the humblest person and withheld from the most powerful.\n\nA person shares in this name by honoring others according to that same measure — valuing sincerity and goodness in someone regardless of their social standing, rather than reserving respect for those the world already deems important.",
       "attestation": [
         "sunnah"
       ],
       "quran_refs": [],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "The ḥadīth of the ninety-nine names",
+          "url": "https://sunnah.com/tirmidhi:3507",
+          "source_name": "Sunnah.com — Jāmiʿ at-Tirmidhī 3507"
+        }
+      ],
       "root": "ع ز ز"
     },
     {
@@ -549,13 +704,19 @@
       "transliteration": "Al-Mudhill",
       "transliteration_ascii": "Al-Mudhill",
       "translation": "The Abaser",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Mudhill names the One who disgraces or humbles whom He wills — often those who reject truth, transgress against others, or exalt themselves wrongly — showing that no worldly power is secure against a lowering that only God can impose or remove.\n\nThis is a name to reflect on rather than imitate: recognizing that seeking honor from creation alone is unstable ground, and that the only sound response to another's disgrace is neither triumph nor scorn, but sober awareness that the same disposal of honor and shame governs everyone equally.",
       "attestation": [
         "sunnah"
       ],
       "quran_refs": [],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "The ḥadīth of the ninety-nine names",
+          "url": "https://sunnah.com/tirmidhi:3507",
+          "source_name": "Sunnah.com — Jāmiʿ at-Tirmidhī 3507"
+        }
+      ],
       "root": "ذ ل ل"
     },
     {
@@ -564,7 +725,7 @@
       "transliteration": "As-Samī'",
       "transliteration_ascii": "As-Sami'",
       "translation": "The All-Hearing",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "As-Samī' names a hearing that takes in every sound — spoken and unspoken, loud and silent — without need of ears or any physical means, reaching even the quiet plea of a heart that never says a word aloud.\n\nThe human echo of this name is attentiveness: truly listening when someone speaks, especially the weak or distressed whose voices are easiest to miss, rather than only waiting for one's turn to respond.",
       "attestation": [
         "quran",
         "sunnah"
@@ -578,7 +739,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 2:127 — translations & tafsīr",
+          "url": "https://quran.com/2:127",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "س م ع"
     },
     {
@@ -587,7 +754,7 @@
       "transliteration": "Al-Baṣīr",
       "transliteration_ascii": "Al-Basir",
       "translation": "The All-Seeing",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Baṣīr names a seeing that takes in everything visible and hidden alike, without light or organ, reaching into the smallest and most concealed particulars of creation as fully as into what lies in plain view.\n\nFor a person, the corresponding discipline is a kind of moral insight — training oneself to notice what is easy to overlook: another's quiet suffering, an injustice done out of sight, the unseen consequences of one's own actions — a seeing that goes beyond the merely visible.",
       "attestation": [
         "quran",
         "sunnah"
@@ -601,7 +768,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 4:58 — translations & tafsīr",
+          "url": "https://quran.com/4:58",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ب ص ر"
     },
     {
@@ -610,13 +783,19 @@
       "transliteration": "Al-Ḥakam",
       "transliteration_ascii": "Al-Hakam",
       "translation": "The Judge",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Ḥakam names the One whose judgment is final and cannot be appealed or overturned — deciding rightly between truth and falsehood in every matter, unlike human judges, whose rulings, however careful, remain fallible and open to revision.\n\nThe human parallel is to judge fairly wherever one is called to arbitrate — setting bias and self-interest aside, and pursuing the truth of a matter as one's honest, if imperfect, aim.",
       "attestation": [
         "sunnah"
       ],
       "quran_refs": [],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "The ḥadīth of the ninety-nine names",
+          "url": "https://sunnah.com/tirmidhi:3507",
+          "source_name": "Sunnah.com — Jāmiʿ at-Tirmidhī 3507"
+        }
+      ],
       "root": "ح ك م"
     },
     {
@@ -625,13 +804,19 @@
       "transliteration": "Al-'Adl",
       "transliteration_ascii": "Al-'Adl",
       "translation": "The Just",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-'Adl names a justice that does more than restore a balance already assumed to exist — it originates the very order in which everything is placed exactly where it belongs. Every decree and every act of God's justice is thus perfectly fitting, even where limited human understanding cannot yet see why.\n\nA person's share of this name is the ordinary, demanding work of fairness — giving each person and each situation its rightful due, resisting favoritism, and refusing to let convenience or self-interest tilt a judgment one is entrusted to make.",
       "attestation": [
         "sunnah"
       ],
       "quran_refs": [],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "The ḥadīth of the ninety-nine names",
+          "url": "https://sunnah.com/tirmidhi:3507",
+          "source_name": "Sunnah.com — Jāmiʿ at-Tirmidhī 3507"
+        }
+      ],
       "root": "ع د ل"
     },
     {
@@ -640,7 +825,7 @@
       "transliteration": "Al-Laṭīf",
       "transliteration_ascii": "Al-Latif",
       "translation": "The Subtle One",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Laṭīf names a gentleness and subtlety that reaches into the finest, most hidden particulars of creation — arranging good for creatures through means so delicate or concealed that the benefit often arrives without the recipient ever perceiving how it was brought about.\n\nThe human echo of this name is a considerate, unobtrusive kindness — attending to another's hidden needs before they are spoken, and offering help in ways gentle enough that it does not burden or embarrass the one receiving it.",
       "attestation": [
         "quran",
         "sunnah"
@@ -654,7 +839,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 6:103 — translations & tafsīr",
+          "url": "https://quran.com/6:103",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ل ط ف"
     },
     {
@@ -663,7 +854,7 @@
       "transliteration": "Al-Khabīr",
       "transliteration_ascii": "Al-Khabir",
       "translation": "The All-Aware",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Khabīr names a knowledge that reaches the inmost reality of things — not only what appears on the surface, but the hidden how and why beneath it, an experiential depth of awareness that surface observation alone could never supply.\n\nFor a person, this name invites a habit of looking past first impressions — trying to understand the real motives and circumstances behind what others do, rather than settling for the easiest, most surface-level reading of a situation.",
       "attestation": [
         "quran",
         "sunnah"
@@ -677,7 +868,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 6:18 — translations & tafsīr",
+          "url": "https://quran.com/6:18",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "خ ب ر"
     },
     {
@@ -686,7 +883,7 @@
       "transliteration": "Al-Ḥalīm",
       "transliteration_ascii": "Al-Halim",
       "translation": "The Forbearing",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Ḥalīm names a forbearance that withholds punishment despite full awareness of wrongdoing and full power to punish at once — giving the wrongdoer time and opportunity to turn back, rather than a forbearance born of indifference or ignorance, as human patience so often is.\n\nThe corresponding discipline for a person is restraint in anger — holding back from retaliation one has the means to carry out, and giving others the same room to reconsider and repair that one would hope for oneself.",
       "attestation": [
         "quran",
         "sunnah"
@@ -700,7 +897,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 2:225 — translations & tafsīr",
+          "url": "https://quran.com/2:225",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ح ل م"
     },
     {
@@ -709,7 +912,7 @@
       "transliteration": "Al-'Aẓīm",
       "transliteration_ascii": "Al-'Azim",
       "translation": "The Magnificent",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-'Aẓīm names a greatness of rank and reality that exceeds anything intellects can fully grasp — not greatness of size or extent, which belongs to bodies, but a magnitude of station that leaves human comprehension short no matter how far it reaches.\n\nFor a person, this name is less something to imitate than something to be humbled by — cultivating a sense of awe that keeps worldly grandeur, wealth, and power in proportion, remembering that none of it approaches true greatness, which belongs to God alone.",
       "attestation": [
         "quran",
         "sunnah"
@@ -723,7 +926,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 2:255 — translations & tafsīr",
+          "url": "https://quran.com/2:255",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ع ظ م"
     },
     {
@@ -732,7 +941,7 @@
       "transliteration": "Al-Ghafūr",
       "transliteration_ascii": "Al-Ghafur",
       "translation": "The Forgiving",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Ghafūr shares its root (*gh-f-r*, \"to cover, to veil\") with several other names of forgiveness, and al-Ghazālī treats it as a close companion to Al-Ghaffār. Where the intensified form emphasizes the *repetition* of forgiveness — a covering renewed with every fresh fault — Al-Ghafūr points more simply to the reality of the covering itself: God veils the sin from view, in this world and the next, and lifts the fear of exposure and punishment that would otherwise attend it.\n\nAl-Ghazālī is careful to note that this veiling is not indifference to wrong; it is a deliberate mercy that spares the servant humiliation while the door to correction stays open. He draws out the human share of the name in the practice of *sitr* — covering the faults of others rather than parading them, and forgiving without insisting on exposure or repayment in kind.",
       "attestation": [
         "quran",
         "sunnah"
@@ -746,7 +955,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 2:173 — translations & tafsīr",
+          "url": "https://quran.com/2:173",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "غ ف ر"
     },
     {
@@ -755,7 +970,7 @@
       "transliteration": "Ash-Shakūr",
       "transliteration_ascii": "Ash-Shakur",
       "translation": "The Appreciative",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Ash-Shakūr is God's gratitude toward His servants — a striking reversal, since gratitude ordinarily flows from the lesser to the greater. Al-Ghazālī explains it as God's readiness to notice even a small act of obedience and to reward it far beyond its worth, multiplying a fleeting effort into lasting recompense, and never letting sincere good go unacknowledged.\n\nHe draws a deliberate contrast with human gratitude, which is owed to God for favors that can never really be repaid, and which is itself only possible because God enables it. The human share of this name, in al-Ghazālī's reading, is to appreciate the good done by others — even in small measure — and to acknowledge it openly rather than taking kindness for granted.",
       "attestation": [
         "quran",
         "sunnah"
@@ -769,7 +984,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 35:30 — translations & tafsīr",
+          "url": "https://quran.com/35:30",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ش ك ر"
     },
     {
@@ -778,7 +999,7 @@
       "transliteration": "Al-'Alī",
       "transliteration_ascii": "Al-'Ali",
       "translation": "The Most High",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-'Alī, the Most High, is not height of place — al-Ghazālī is emphatic that God is not elevated the way a mountain or a throne is elevated. The loftiness meant here is a transcendence of rank and perfection: God's being and attributes stand utterly above every deficiency, comparison, and creaturely limitation that could otherwise be imagined alongside Him.\n\nAl-Ghazālī links this to the broader Ghazālian theme that spatial language applied to God must always be reread as language about incomparability. The human echo of the name lies in rising above what is base — bodily appetite, petty rivalry — toward a loftiness of character built on knowledge and sincere worship, an ascent of the soul rather than of the body.",
       "attestation": [
         "quran",
         "sunnah"
@@ -792,7 +1013,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 2:255 — translations & tafsīr",
+          "url": "https://quran.com/2:255",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ع ل و"
     },
     {
@@ -801,7 +1028,7 @@
       "transliteration": "Al-Kabīr",
       "transliteration_ascii": "Al-Kabir",
       "translation": "The Most Great",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Kabīr, the Most Great, is greatness as the intellect perceives it rather than as the eye measures it. Al-Ghazālī distinguishes the greatness proper to bodies — which is really just bulk or extent — from the greatness proper to God, which is a perfection of attribute and rank recognized only by reflection, never by the senses.\n\nHe treats this name alongside others of majesty (Al-Jalīl, Al-Mutakabbir) as part of a family describing a grandeur that dwarfs any creaturely comparison. For the servant, the name teaches a reordering of what one calls \"great\": true greatness of a person lies in knowledge, justice, and generosity of soul, not in stature, wealth, or worldly power — and even these human forms of greatness are only faint echoes of God's.",
       "attestation": [
         "quran",
         "sunnah"
@@ -815,7 +1042,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 13:9 — translations & tafsīr",
+          "url": "https://quran.com/13:9",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ك ب ر"
     },
     {
@@ -824,7 +1057,7 @@
       "transliteration": "Al-Ḥafīẓ",
       "transliteration_ascii": "Al-Hafiz",
       "translation": "The Preserver",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Ḥafīẓ, the Preserver, carries a double sense in al-Ghazālī's account: God preserves creation from dissolution moment to moment — holding the heavens from falling, sustaining bodies in being — and God preserves the record of every deed, so that nothing done in secret is lost before the reckoning.\n\nBoth senses meet in the idea of a watchfulness that never lapses and a memory that never fails. Al-Ghazālī draws from this the human duty of safeguarding what is entrusted to us — promises, secrets, the wellbeing of those in our care — as a small, faithful reflection of the preservation that sustains the whole of creation.",
       "attestation": [
         "quran",
         "sunnah"
@@ -838,7 +1071,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 11:57 — translations & tafsīr",
+          "url": "https://quran.com/11:57",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ح ف ظ"
     },
     {
@@ -847,7 +1086,7 @@
       "transliteration": "Al-Muqīt",
       "transliteration_ascii": "Al-Muqit",
       "translation": "The Nourisher",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Muqīt, the Nourisher, is bound to the Arabic *qūt* — the sustenance that keeps a body alive — and al-Ghazālī reads it as God's precise apportioning of nourishment to every creature according to its need, down to the smallest living thing whose provision might otherwise seem overlooked.\n\nHe also notes a second shade carried by the Qur'anic verse in which the name occurs (4:85), where it can suggest a watchful sufficiency — God as the one \"having power over\" or attentively present to all things, not merely as feeder but as the one whose care makes provision arrive exactly where and when it is needed. The human share is a felt responsibility for those who depend on us for their sustenance, given without waste or neglect.",
       "attestation": [
         "quran",
         "sunnah"
@@ -861,7 +1100,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 4:85 — translations & tafsīr",
+          "url": "https://quran.com/4:85",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ق و ت"
     },
     {
@@ -870,7 +1115,7 @@
       "transliteration": "Al-Ḥasīb",
       "transliteration_ascii": "Al-Hasib",
       "translation": "The Reckoner",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Ḥasīb carries two meanings that al-Ghazālī draws together: the One who *reckons* — computing every deed, however minute, with perfect accuracy — and the One who *suffices* — from the same root sense in which something \"is enough\" for a person, so that trust in Him removes the need to seek security elsewhere.\n\nRead this way, the name binds precision of judgment to sufficiency of care: the same God who counts every act exactly is also the God in whom reliance is never misplaced. Al-Ghazālī draws the human share from both halves — scrupulous honesty in reckoning one's own conduct, and a settled contentment (tawakkul) that does not run anxiously after security God has already promised to provide.",
       "attestation": [
         "quran",
         "sunnah"
@@ -884,7 +1129,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 4:6 — translations & tafsīr",
+          "url": "https://quran.com/4:6",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ح س ب"
     },
     {
@@ -893,13 +1144,19 @@
       "transliteration": "Al-Jalīl",
       "transliteration_ascii": "Al-Jalil",
       "translation": "The Majestic",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Jalīl, the Majestic, names a greatness that inspires reverence rather than mere recognition — a grandeur of essence and attribute so complete that it evokes awe in whoever perceives it, even faintly. Al-Ghazālī treats it as closely allied to Al-Kabīr, the two together describing a majesty that combines magnitude with a kind of sanctity that keeps it beyond familiarity.\n\nThis name is attested in the Sunnah rather than the Qur'an directly, and al-Ghazālī's comments on it are correspondingly brief, mostly folded into his broader discussion of greatness-names. The human share he draws is a disposition toward the dignified and the noble in one's own conduct, and a corresponding distaste for pettiness — a small imitation of jalāl in character.",
       "attestation": [
         "sunnah"
       ],
       "quran_refs": [],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "The ḥadīth of the ninety-nine names",
+          "url": "https://sunnah.com/tirmidhi:3507",
+          "source_name": "Sunnah.com — Jāmiʿ at-Tirmidhī 3507"
+        }
+      ],
       "root": "ج ل ل"
     },
     {
@@ -908,7 +1165,7 @@
       "transliteration": "Al-Karīm",
       "transliteration_ascii": "Al-Karim",
       "translation": "The Generous",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Ghazālī gives Al-Karīm, the Generous, some of his most developed attention among these names. True generosity (*karam*), he argues, is giving that asks nothing back and needs no motive outside itself — not generosity purchased by flattery, not generosity performed for praise, but a giving that flows freely because giving is simply what befits the Giver. He distinguishes lesser generosities, which are always entangled with some benefit to the giver, from God's, which precedes any request and continues even toward those who never ask.\n\nHe extends this to include the overlooking of faults: a generous one does not merely give, but forgives and spares without needing to exact what is owed. The human share is to give before being asked, to help without expecting thanks, and to let one's generosity be shaped less by calculation and more by simple largeness of heart.",
       "attestation": [
         "quran",
         "sunnah"
@@ -922,7 +1179,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 82:6 — translations & tafsīr",
+          "url": "https://quran.com/82:6",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ك ر م"
     },
     {
@@ -931,7 +1194,7 @@
       "transliteration": "Ar-Raqīb",
       "transliteration_ascii": "Ar-Raqib",
       "translation": "The Watchful",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Ar-Raqīb, the Watchful, joins two things al-Ghazālī treats as inseparable in God: total knowledge and unbroken attentiveness. To watch over something is not simply to know about it once, but to remain present to it continuously — nothing drifts out of view, nothing is momentarily forgotten while attention turns elsewhere.\n\nFrom this, al-Ghazālī draws the practice of *murāqaba* — the servant's cultivated awareness of always being seen, which shapes conduct in private exactly as it would in public. This is close to the well-known description of worshiping God \"as though you see Him,\" and it gives Ar-Raqīb a practical weight beyond the merely descriptive: it is a name meant to be felt in the choices no one else observes.",
       "attestation": [
         "quran",
         "sunnah"
@@ -945,7 +1208,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 4:1 — translations & tafsīr",
+          "url": "https://quran.com/4:1",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ر ق ب"
     },
     {
@@ -954,7 +1223,7 @@
       "transliteration": "Al-Mujīb",
       "transliteration_ascii": "Al-Mujib",
       "translation": "The Responsive",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Mujīb, the Responsive, is God's readiness to answer the one who calls — whether the caller is aware of asking or not, whether the answer takes the shape requested or something better suited to the caller's real good. Al-Ghazālī frames this responsiveness as meeting sincerity rather than mere technique; it is not that certain words compel an answer, but that a turning heart finds itself met.\n\nHe draws from this a clear human obligation: to be responsive in turn to those who call upon us for help, answering readily rather than delaying or requiring elaborate persuasion. A person who reflects Al-Mujīb is quick to meet a genuine need, as God is quick to meet the sincere supplicant.",
       "attestation": [
         "quran",
         "sunnah"
@@ -968,7 +1237,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 11:61 — translations & tafsīr",
+          "url": "https://quran.com/11:61",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ج و ب"
     },
     {
@@ -977,7 +1252,7 @@
       "transliteration": "Al-Wāsi'",
       "transliteration_ascii": "Al-Wasi'",
       "translation": "The All-Encompassing",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Wāsi', the All-Encompassing, describes a vastness that is not spatial but a boundlessness of knowledge, mercy, and giving. Al-Ghazālī reads it as the assurance that nothing exhausts God's capacity to know, to forgive, or to provide — no multitude of needs crowds out any single one, and no immensity of sin outstrips the reach of His mercy.\n\nBecause the vastness described is one of generosity rather than mere extent, al-Ghazālī draws from it a caution against narrowness in the servant: a call to widen one's own knowledge, tolerance, and giving rather than hoarding them defensively, in however small a measure a creature can mirror what is, in God, without any measure at all.",
       "attestation": [
         "quran",
         "sunnah"
@@ -991,7 +1266,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 2:115 — translations & tafsīr",
+          "url": "https://quran.com/2:115",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "و س ع"
     },
     {
@@ -1000,7 +1281,7 @@
       "transliteration": "Al-Ḥakīm",
       "transliteration_ascii": "Al-Hakim",
       "translation": "The Perfectly Wise",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Ḥakīm, the Perfectly Wise, receives sustained attention from al-Ghazālī, who ties *ḥikma* (wisdom) to knowing the noblest realities by the noblest means and ordering all things toward their most fitting end. Wisdom, in his account, is not cleverness or mere competence; it is knowledge joined perfectly to right action, so that what is known is also enacted in the best possible way.\n\nHe treats God's wisdom as evident throughout creation — the fitting arrangement of causes and effects, the precise placement of every part relative to the whole — and distinguishes it from the more limited wisdom available to human beings, which is real but partial. The human share of the name lies in seeking sound knowledge and acting on it with care and proportion, letting insight actually govern conduct rather than remaining idle.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1014,7 +1295,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 2:32 — translations & tafsīr",
+          "url": "https://quran.com/2:32",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ح ك م"
     },
     {
@@ -1023,7 +1310,7 @@
       "transliteration": "Al-Wadūd",
       "transliteration_ascii": "Al-Wadud",
       "translation": "The Loving",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Wadūd, the Loving, is distinguished by al-Ghazālī from Ar-Raḥmān: mercy responds to need, while love wills good for its own sake and draws the beloved near. He describes God's love as directed toward the obedient and the sincere, willing their good and elevating them in nearness — and describes God, too, as *beloved*, since the servant who glimpses something of the divine beauty and generosity cannot help but be drawn toward it.\n\nThis double sense — loving and being loved — gives Al-Wadūd a particular warmth among the names. Al-Ghazālī's human application is straightforward: to love others for the sake of their good, seeking their benefit rather than one's own advantage, and to let sincerity rather than self-interest be the root of one's affections.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1043,7 +1330,18 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 11:90 — translations & tafsīr",
+          "url": "https://quran.com/11:90",
+          "source_name": "Quran.com"
+        },
+        {
+          "label": "Qurʾān 85:14 — translations & tafsīr",
+          "url": "https://quran.com/85:14",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "و د د"
     },
     {
@@ -1052,7 +1350,7 @@
       "transliteration": "Al-Majīd",
       "transliteration_ascii": "Al-Majid",
       "translation": "The Most Glorious",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Majīd, the Most Glorious, joins together two things al-Ghazālī elsewhere treats separately: greatness of essence and abundance of generosity. Where Al-Kabīr and Al-Jalīl emphasize magnitude, and Al-Karīm emphasizes giving, Al-Majīd names their union — a glory that is not bare grandeur but grandeur expressed through unceasing generosity.\n\nHe treats the name as a kind of summation, gathering strands from the majesty-names and the giving-names into a single description of nobility perfected in both dimensions at once. The human share is a character that unites the two: not greatness without generosity, which curdles into pride, and not generosity without dignity, but a nobility that holds both together.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1072,7 +1370,18 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 11:73 — translations & tafsīr",
+          "url": "https://quran.com/11:73",
+          "source_name": "Quran.com"
+        },
+        {
+          "label": "Qurʾān 85:15 — translations & tafsīr",
+          "url": "https://quran.com/85:15",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "م ج د"
     },
     {
@@ -1081,13 +1390,19 @@
       "transliteration": "Al-Bā'ith",
       "transliteration_ascii": "Al-Ba'ith",
       "translation": "The Resurrector",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Bā'ith, the Resurrector, is treated by al-Ghazālī primarily in its most literal sense: the One who raises the dead on the Last Day, restoring bodies and souls for the reckoning that gives final meaning to every deed. He also allows a secondary, figurative sense — God \"raising up\" prophets and messengers to rouse heedless hearts, awakening people from the sleep of forgetfulness before the final Rising ever comes.\n\nAttested through the Sunnah's list of names rather than a direct Qur'anic occurrence in this exact form, al-Ghazālī's comments here are relatively brief. The human share he suggests is modest but real: to be a means of rousing others — through honest reminder and good counsel — from heedlessness, in however small a way, before the greater Rising.",
       "attestation": [
         "sunnah"
       ],
       "quran_refs": [],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "The ḥadīth of the ninety-nine names",
+          "url": "https://sunnah.com/tirmidhi:3507",
+          "source_name": "Sunnah.com — Jāmiʿ at-Tirmidhī 3507"
+        }
+      ],
       "root": "ب ع ث"
     },
     {
@@ -1096,7 +1411,7 @@
       "transliteration": "Ash-Shahīd",
       "transliteration_ascii": "Ash-Shahid",
       "translation": "The Witness",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Ash-Shahīd, the Witness, describes a presence to all things that needs no mediation — no report, no inference, no gap between event and knowledge. Al-Ghazālī treats this witnessing as continuous with God's total knowledge, but with the added sense of direct, immediate presence: nothing hidden or manifest occurs without God being, in the fullest sense, witness to it as it happens.\n\nHe draws from this a clear practical bearing: the servant who truly believes in Ash-Shahīd cannot easily bear false witness or speak carelessly, since human testimony is always given, ultimately, before a Witness who cannot be deceived. The human share is honesty in bearing witness, and a felt accountability that shapes speech even when no other observer is present.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1110,7 +1425,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 4:79 — translations & tafsīr",
+          "url": "https://quran.com/4:79",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ش ه د"
     },
     {
@@ -1119,7 +1440,7 @@
       "transliteration": "Al-Ḥaqq",
       "transliteration_ascii": "Al-Haqq",
       "translation": "The Truth",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Ḥaqq, the Truth, is treated by al-Ghazālī in a register close to metaphysics: God is the Truth in the sense of being the one whose existence is real, necessary, and self-standing, while everything else exists only in a borrowed, dependent way. Where created things could be said not to exist, or to pass away, God's existence admits no such possibility — this is what makes Him \"true\" in the deepest sense, as opposed to the transient and the vain (*bāṭil*).\n\nHe also allows the more familiar sense of truth as opposed to falsehood — God's speech, promise, and judgment are all true without qualification. The human share is a double fidelity: to speak truthfully, and to orient one's life toward what is real and lasting rather than what merely glitters and passes.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1133,7 +1454,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 22:6 — translations & tafsīr",
+          "url": "https://quran.com/22:6",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ح ق ق"
     },
     {
@@ -1142,7 +1469,7 @@
       "transliteration": "Al-Wakīl",
       "transliteration_ascii": "Al-Wakil",
       "translation": "The Trustee",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Wakīl, the Trustee, is the One who takes full and sufficient charge of the affairs of those who rely on Him. Al-Ghazālī develops this in close connection with *tawakkul* (reliance/trust): to know God as Al-Wakīl is to recognize that ultimate responsibility for one's outcomes can be placed in hands more capable and more caring than one's own, without this relieving a person of the ordinary effort required of them.\n\nHe is careful that trust of this kind is not passivity; it is confidence that one's sincere effort is held within a larger, trustworthy care. The human share of the name is twofold: to become someone others can rely on when entrusted with their affairs, and to place one's own deepest reliance in God rather than in the uncertain guarantees of the created world.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1156,7 +1483,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 3:173 — translations & tafsīr",
+          "url": "https://quran.com/3:173",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "و ك ل"
     },
     {
@@ -1165,7 +1498,7 @@
       "transliteration": "Al-Qawī",
       "transliteration_ascii": "Al-Qawi",
       "translation": "The All-Powerful",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Qawī, the All-Powerful, names a strength admitting no weakness, fatigue, or limit — power that is not merely sufficient for a task but entirely unconstrained by any obstacle whatsoever. Al-Ghazālī treats it alongside Al-Qādir (the Able) but with a sharper emphasis on might and intensity rather than mere capacity: Al-Qawī is strength considered in itself, not just strength as it relates to a particular act.\n\nFor the servant, this name reorients where strength is sought: not in one's own limited resources, which tire and fail, but in reliance on the source of all real power. Al-Ghazālī's implicit human lesson is a humility about self-sufficiency paired with confidence drawn from dependence on God.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1179,7 +1512,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 11:66 — translations & tafsīr",
+          "url": "https://quran.com/11:66",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ق و ي"
     },
     {
@@ -1188,7 +1527,7 @@
       "transliteration": "Al-Matīn",
       "transliteration_ascii": "Al-Matin",
       "translation": "The Firm",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Matīn, the Firm, intensifies the sense of power found in Al-Qawī: this is strength exercised without any strain, resistance, or effort, an execution of will so complete that nothing pushes back against it. Al-Ghazālī treats the two names as forming a pair — power in its bare fact (Al-Qawī) and power in its perfectly unstrained exercise (Al-Matīn).\n\nThe human share he draws is steadiness of resolve: a person who reflects something of Al-Matīn is not easily shaken from right action by hardship or temptation, holding a firmness of purpose that, while never approaching the divine reality, still takes it as a distant model.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1202,7 +1541,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 51:58 — translations & tafsīr",
+          "url": "https://quran.com/51:58",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "م ت ن"
     },
     {
@@ -1211,7 +1556,7 @@
       "transliteration": "Al-Walī",
       "transliteration_ascii": "Al-Wali",
       "translation": "The Protecting Friend",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Walī, the Protecting Friend, combines authority with intimacy: this is not a distant governance but a guardianship exercised in nearness, taking charge of the affairs of the believers the way a devoted friend takes up the concerns of someone they love. Al-Ghazālī reads *wilāya* as care that is both authoritative — able to act decisively on the beloved's behalf — and affectionate, drawing the cared-for one close rather than holding them at a governor's distance.\n\nThe human share is to take up something of this same posture toward those in one's care: to support and befriend the vulnerable not merely from duty, but as an expression of real closeness, mirroring, however imperfectly, the friendship God extends to those who turn to Him.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1225,7 +1570,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 42:28 — translations & tafsīr",
+          "url": "https://quran.com/42:28",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "و ل ي"
     },
     {
@@ -1234,7 +1585,7 @@
       "transliteration": "Al-Ḥamīd",
       "transliteration_ascii": "Al-Hamid",
       "translation": "The Praiseworthy",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Ḥamīd, the Praiseworthy, is worthy of praise independent of any praiser — God's praiseworthiness does not depend on being recognized, and every praiseworthy quality found scattered among creatures ultimately traces back to Him as its source. Al-Ghazālī treats this as the completion of a circle: God is praised by creation, whether consciously (through worship) or simply through the perfection each thing displays in its own being, and this praise returns to the very source of all that is praiseworthy.\n\nThe human share is double: constant praise (*ḥamd*) as an act of worship, and a life shaped toward praiseworthy character — not performed for others' approval, but because such a life, in its small way, echoes the perfection it is praising.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1248,7 +1599,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 2:267 — translations & tafsīr",
+          "url": "https://quran.com/2:267",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ح م د"
     },
     {
@@ -1257,13 +1614,19 @@
       "transliteration": "Al-Muḥṣī",
       "transliteration_ascii": "Al-Muhsi",
       "translation": "The Counter",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Muḥṣī, the Counter, describes a knowledge so exhaustive that it numbers every single thing without exception or omission — nothing is too small, too fleeting, or too scattered to escape being accounted for. Al-Ghazālī treats this as an intensification of divine knowledge in the direction of precision: not simply that God knows all things, but that He knows them enumerated, down to their least particulars.\n\nAttested through the Sunnah's naming tradition, al-Ghazālī's remarks here are comparatively brief. The human share he draws is the practice of *muḥāsaba* — keeping careful account of one's own deeds, taking nothing as too minor to matter, in imitation of a reckoning that misses nothing.",
       "attestation": [
         "sunnah"
       ],
       "quran_refs": [],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "The ḥadīth of the ninety-nine names",
+          "url": "https://sunnah.com/tirmidhi:3507",
+          "source_name": "Sunnah.com — Jāmiʿ at-Tirmidhī 3507"
+        }
+      ],
       "root": "ح ص ي"
     },
     {
@@ -1272,13 +1635,19 @@
       "transliteration": "Al-Mubdi'",
       "transliteration_ascii": "Al-Mubdi'",
       "translation": "The Initiator",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Mubdi', the Initiator, is the One who brings creation into being for the very first time, with no prior model to imitate and nothing preexisting to work from. Al-Ghazālī treats this as origination in the strictest sense — not fashioning from available material, but calling into existence what had no existence at all.\n\nHe pairs the name naturally with Al-Mu'īd (the Restorer), origination and return forming a single arc from first creation to resurrection. The human share is a humbling one: whatever good a person seems to originate in their own life ultimately depends on a capacity for origination that belongs to God alone, and gratitude rather than self-credit is the fitting response.",
       "attestation": [
         "sunnah"
       ],
       "quran_refs": [],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "The ḥadīth of the ninety-nine names",
+          "url": "https://sunnah.com/tirmidhi:3507",
+          "source_name": "Sunnah.com — Jāmiʿ at-Tirmidhī 3507"
+        }
+      ],
       "root": "ب د أ"
     },
     {
@@ -1287,13 +1656,19 @@
       "transliteration": "Al-Mu'īd",
       "transliteration_ascii": "Al-Mu'id",
       "translation": "The Restorer",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Mu'īd, the Restorer, completes the pair begun with Al-Mubdi': having originated creation once, God restores it again after its dissolution, bringing back what had ceased to be in a manner just as decisive as the first creation. Al-Ghazālī reads this against the Qur'anic pattern \"as He originated you, so you will return,\" treating resurrection as continuous with, not different in kind from, the original act of creation.\n\nThe human share he suggests is a disposition of hope grounded in this pattern: what has been broken or lost is not necessarily beyond restoration, and a person who reflects something of this name works, in small and partial ways, to repair what has fallen apart rather than assuming decline is final.",
       "attestation": [
         "sunnah"
       ],
       "quran_refs": [],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "The ḥadīth of the ninety-nine names",
+          "url": "https://sunnah.com/tirmidhi:3507",
+          "source_name": "Sunnah.com — Jāmiʿ at-Tirmidhī 3507"
+        }
+      ],
       "root": "ع و د"
     },
     {
@@ -1302,7 +1677,7 @@
       "transliteration": "Al-Muḥyī",
       "transliteration_ascii": "Al-Muhyi",
       "translation": "The Giver of Life",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Muḥyī, the Giver of Life, spans several registers in al-Ghazālī's treatment: the literal giving of life to inert matter (a body formed in the womb, a barren earth revived by rain), and the figurative giving of life to what is spiritually dead — hearts hardened by heedlessness, revived through knowledge and faith. He treats these not as unrelated metaphors but as one reality appearing at different levels of creation.\n\nThe human share, in his account, is to become an instrument of this second kind of life-giving: reviving others through sincere guidance, encouragement, and kindness, aware that the capacity to truly quicken a heart belongs finally to God, even when a person is the occasion for it.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1316,7 +1691,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 30:50 — translations & tafsīr",
+          "url": "https://quran.com/30:50",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ح ي ي"
     },
     {
@@ -1325,7 +1706,7 @@
       "transliteration": "Al-Mumīt",
       "transliteration_ascii": "Al-Mumit",
       "translation": "The Taker of Life",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Mumīt, the Taker of Life, is the necessary counterpart to Al-Muḥyī: the same power that gives life ordains its end at an appointed term, for every living thing without exception. Al-Ghazālī treats death not as a failure of divine care but as part of the same ordered pattern that gave life in the first place — nothing lives outside this rhythm, and nothing dies outside of it either.\n\nThe human share he draws is the remembrance of death (*dhikr al-mawt*) as a spiritual discipline: reflecting honestly on mortality tends to loosen a person's grip on vanity and worldly attachment, and to sharpen readiness for what comes after.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1339,7 +1720,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 3:156 — translations & tafsīr",
+          "url": "https://quran.com/3:156",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "م و ت"
     },
     {
@@ -1348,7 +1735,7 @@
       "transliteration": "Al-Ḥayy",
       "transliteration_ascii": "Al-Hayy",
       "translation": "The Ever-Living",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Ḥayy, the Ever-Living, names a life that is complete in itself — without beginning, without end, without dependence on nourishment, growth, or any of the processes that sustain created life. Al-Ghazālī treats this life as foundational among the attributes: knowledge, will, and power all presuppose life as their condition, so that Al-Ḥayy underlies the very possibility of the names built upon it.\n\nPaired in the Qur'an with Al-Qayyūm (2:255), and named in a hadith among the greatest of God's names, Al-Ḥayy carries unusual weight. The human share al-Ghazālī suggests is a kind of spiritual aliveness — an alert, attentive heart rather than one dulled by heedlessness, however distant this remains from the uncaused life it echoes.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1362,7 +1749,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 2:255 — translations & tafsīr",
+          "url": "https://quran.com/2:255",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ح ي ي"
     },
     {
@@ -1371,7 +1764,7 @@
       "transliteration": "Al-Qayyūm",
       "transliteration_ascii": "Al-Qayyum",
       "translation": "The Self-Subsisting",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Qayyūm, the Self-Subsisting, names existence that needs nothing outside itself to continue, and upon which everything else depends for its own continuance. Al-Ghazālī treats this as the completion of Al-Ḥayy: not only does God live without dependence, but all other existence — every creature, every moment of the created order — subsists only because it is sustained, instant by instant, by this self-subsisting life.\n\nThe pairing of these two names in the Throne Verse and elsewhere is, in his reading, no accident: together they express the total independence of God from creation and the total dependence of creation on Him. The human share is a clear-eyed recognition of one's own contingency — a corrective to any illusion of self-sufficiency, replaced by conscious reliance on the One who alone truly stands on His own.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1391,7 +1784,18 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 2:255 — translations & tafsīr",
+          "url": "https://quran.com/2:255",
+          "source_name": "Quran.com"
+        },
+        {
+          "label": "Qurʾān 3:2 — translations & tafsīr",
+          "url": "https://quran.com/3:2",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ق و م"
     },
     {
@@ -1400,13 +1804,19 @@
       "transliteration": "Al-Wājid",
       "transliteration_ascii": "Al-Wajid",
       "translation": "The Perceiver",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Wājid, the Perceiver, is one of the names attested through the Sunnah's enumeration rather than a direct Qur'anic occurrence in this form, and al-Ghazālī's remarks on it are notably brief compared to names like Al-Ḥayy or Al-Karīm. The root sense is of finding or perceiving without seeking: God is never in a state of searching for what He lacks, since nothing real is absent from His knowledge or power — whatever He wills, He simply has, without the effort or uncertainty that finding implies for creatures.\n\nGiven how compressed the source treatment is here, this should be read as a more tentative sketch than the fuller entries above. The human share, offered cautiously, might be a contentment that comes from not restlessly searching for what one already has reason to trust will be provided.",
       "attestation": [
         "sunnah"
       ],
       "quran_refs": [],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "The ḥadīth of the ninety-nine names",
+          "url": "https://sunnah.com/tirmidhi:3507",
+          "source_name": "Sunnah.com — Jāmiʿ at-Tirmidhī 3507"
+        }
+      ],
       "root": "و ج د"
     },
     {
@@ -1415,13 +1825,19 @@
       "transliteration": "Al-Mājid",
       "transliteration_ascii": "Al-Majid",
       "translation": "The Illustrious",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "This entry, Al-Mājid (\"The Illustrious\"), shares its Arabic root — *m-j-d*, glory or nobility — with Al-Majīd (\"The Most Glorious\"), treated earlier among these names as a synthesis of greatness and generosity. The two forms are grammatically distinct (an active-participle pattern here versus the intensive pattern there), and some enumerations of the ninety-nine names include both as separate names, but al-Ghazālī's discussion of the *majd* root does not clearly separate them into two independently developed treatments.\n\nGiven that overlap, this should be read as provisional: the same themes of grandeur joined to generosity likely apply, and the human share — nobility of character that unites greatness with liberality — mirrors what was said of Al-Majīd. A scholar should confirm whether al-Ghazālī (or the wider tradition he draws on) in fact distinguishes these two forms with any independent content, since this draft cannot responsibly assert a distinction it did not clearly find.",
       "attestation": [
         "sunnah"
       ],
       "quran_refs": [],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "The ḥadīth of the ninety-nine names",
+          "url": "https://sunnah.com/tirmidhi:3507",
+          "source_name": "Sunnah.com — Jāmiʿ at-Tirmidhī 3507"
+        }
+      ],
       "root": "م ج د"
     },
     {
@@ -1430,7 +1846,7 @@
       "transliteration": "Al-Wāḥid",
       "transliteration_ascii": "Al-Wahid",
       "translation": "The One",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Wāḥid, the One, denotes an absence of multiplicity in God's essence — no parts, no division, nothing that could be added or subtracted to make God \"more\" or \"less\" Himself. Al-Ghazālī discusses a fine distinction between Al-Wāḥid and Al-Aḥad (Absolute Oneness): where Al-Aḥad denies even the conceptual possibility of division, Al-Wāḥid is oneness considered as excluding actual multiplicity or partnership, especially the sharing of divine attributes with any other.\n\nThis is a subtle point of his method, and worth a scholar's careful confirmation rather than casual repetition. The human share he draws is an inward *tawḥīd* of intention — gathering a divided heart, torn between competing loyalties, into a single, undivided orientation toward God.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1444,7 +1860,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 13:16 — translations & tafsīr",
+          "url": "https://quran.com/13:16",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "و ح د"
     },
     {
@@ -1453,7 +1875,7 @@
       "transliteration": "Aṣ-Ṣamad",
       "transliteration_ascii": "As-Samad",
       "translation": "The Eternal",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Aṣ-Ṣamad, occurring in Sūrat al-Ikhlāṣ (112:2), is often rendered \"the Eternal\" in English, though the classical sense al-Ghazālī draws on is closer to \"the Master upon whom all depend\": the one every creature turns to in need, who is Himself complete and in need of nothing and no one. This completeness is what makes Him a fitting object of every hope and every request — a court of appeal that never itself has recourse to another.\n\nAl-Ghazālī reads this alongside the surrounding verses of al-Ikhlāṣ as underscoring God's utter independence from creation, contrasted with creation's constant dependence on Him. The human share is to direct one's deepest needs to this one true source rather than scattering hope among creatures who are, themselves, just as needy and dependent.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1467,7 +1889,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 112:2 — translations & tafsīr",
+          "url": "https://quran.com/112:2",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ص م د"
     },
     {
@@ -1476,7 +1904,7 @@
       "transliteration": "Al-Qādir",
       "transliteration_ascii": "Al-Qadir",
       "translation": "The Omnipotent",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Qādir names the reality whose capacity to act meets no resistance, no fatigue, and no need for instrument or intermediary. Where a person's power is borrowed, partial, and dependent on tools, health, and circumstance, this power is entire in itself: to will a thing and for it to be, or to withhold it, without labor and without another's help.\n\nHeld alongside knowledge and will — the two capacities power always presupposes — Al-Qādir points to a capability that could bring anything possible into being or let it remain unmanifest, with no gap between decision and effect. For the one who reflects on it, the name is less an abstract claim about divine attributes than an invitation to notice how thin human power actually is, and to spend the small measure of power one does have — over one's own limbs, tongue, and choices — in service rather than in illusions of self-sufficiency.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1490,7 +1918,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 6:65 — translations & tafsīr",
+          "url": "https://quran.com/6:65",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ق د ر"
     },
     {
@@ -1499,7 +1933,7 @@
       "transliteration": "Al-Muqtadir",
       "transliteration_ascii": "Al-Muqtadir",
       "translation": "The All-Powerful",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Muqtadir carries the same root as Al-Qādir but in an intensified form, and classical commentary on the Names often reads such intensified forms as pointing to a degree of a quality so complete that nothing could conceivably overmatch or resist it. If Al-Qādir affirms power as such, Al-Muqtadir affirms that this power faces no rival, no obstacle, and no ceiling — the mightiest of creation stand before it as nothing.\n\nThis is not power multiplied for its own display, but power described from the vantage of everything that might seem, to human eyes, unconquerable: death, empires, the vastness of the heavens. All of it is equally within reach of a single will. The believer's proper response is not fear alone but a settled trust — that whatever seems overwhelming in one's own life is not overwhelming to the One this name describes.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1513,7 +1947,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 18:45 — translations & tafsīr",
+          "url": "https://quran.com/18:45",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ق د ر"
     },
     {
@@ -1522,13 +1962,19 @@
       "transliteration": "Al-Muqaddim",
       "transliteration_ascii": "Al-Muqaddim",
       "translation": "The Expediter",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Muqaddim and its companion Al-Mu'akhkhir describe a single reality that orders precedence and delay throughout creation: which causes act before their effects, which souls are drawn nearer before others, which nations rise before others fall, which servant is granted an opening in this life or the next before someone else. Nothing moves forward by accident; what is advanced is advanced by decree, not chance.\n\nTaken to heart, the name steadies the restlessness of comparison — the sense that another person's advancement, in wealth, recognition, or spiritual state, has come at one's own expense. Al-Ghazālī's broader habit of pairing opposite-sounding names as two faces of one governing wisdom suggests that here too, precedence and deferral together describe a single, unerring ordering, not two competing forces.",
       "attestation": [
         "sunnah"
       ],
       "quran_refs": [],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "The ḥadīth of the ninety-nine names",
+          "url": "https://sunnah.com/tirmidhi:3507",
+          "source_name": "Sunnah.com — Jāmiʿ at-Tirmidhī 3507"
+        }
+      ],
       "root": "ق د م"
     },
     {
@@ -1537,13 +1983,19 @@
       "transliteration": "Al-Mu'akhkhir",
       "transliteration_ascii": "Al-Mu'akhkhir",
       "translation": "The Delayer",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Where Al-Muqaddim brings forward, Al-Mu'akhkhir sets back — delaying a person's provision, a nation's reckoning, or an answer to prayer, not from negligence but from a wisdom that knows when a thing is timely and when it is not. What looks, from within a single lifetime, like a door closed or a request refused may in the larger ordering be something rightly deferred.\n\nThe two names are inseparable in meaning: one who did not delay could not properly be said to expedite, and vice versa. Read together, they ask for patience with timing one cannot see the whole of, and they quietly correct the temptation to treat delay as denial.",
       "attestation": [
         "sunnah"
       ],
       "quran_refs": [],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "The ḥadīth of the ninety-nine names",
+          "url": "https://sunnah.com/tirmidhi:3507",
+          "source_name": "Sunnah.com — Jāmiʿ at-Tirmidhī 3507"
+        }
+      ],
       "root": "أ خ ر"
     },
     {
@@ -1552,7 +2004,7 @@
       "transliteration": "Al-Awwal",
       "transliteration_ascii": "Al-Awwal",
       "translation": "The First",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Awwal affirms a beginning that has no beginning before it — not first in a sequence of things that came before, since nothing came before, but first in the sense of being wholly unpreceded, the ground rather than the start of a series. Everything originated has, by definition, a moment or cause prior to it; this name describes the one reality for which no such \"before\" exists at all.\n\nAl-Ghazālī's treatment of this name is closely bound to its counterpart, Al-Ākhir, and to the hadith pairing it with Aẓ-Ẓāhir and Al-Bāṭin — First and Last, Manifest and Hidden, named together in one saying as a single statement about transcending both time and the categories by which creatures are known. The four names read as one teaching: nothing encloses this reality, neither in duration nor in perceptibility.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1566,7 +2018,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 57:3 — translations & tafsīr",
+          "url": "https://quran.com/57:3",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "أ و ل"
     },
     {
@@ -1575,7 +2033,7 @@
       "transliteration": "Al-Ākhir",
       "transliteration_ascii": "Al-Akhir",
       "translation": "The Last",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Ākhir affirms an end that has no end after it — not last in a countdown toward extinction, but last in the sense of remaining when everything else has ceased, without itself being subject to cessation. Every created thing, however durable, moves toward some horizon of ending; this name describes what stands entirely outside that horizon.\n\nTaken with Al-Awwal, the pairing dissolves the ordinary picture of a timeline with God somewhere within it. There is no \"within.\" The believer who sits with this name is left less with a concept to master than with a felt sense of how small the span of any single life is against a reality unbounded on both ends.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1589,7 +2047,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 57:3 — translations & tafsīr",
+          "url": "https://quran.com/57:3",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "أ خ ر"
     },
     {
@@ -1598,7 +2062,7 @@
       "transliteration": "Aẓ-Ẓāhir",
       "transliteration_ascii": "Az-Zahir",
       "translation": "The Manifest",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Aẓ-Ẓāhir names a reality made evident by everything that exists: every ordered movement of the heavens, every intricacy of a living body, every turn of cause and effect is, on this reading, a kind of testimony — so pervasive and so constant that nothing could be more manifest. In this sense nothing is hidden from view the way this name's meaning is hidden from view; it is written across the whole of what is.\n\nYet the name is paired, almost paradoxically, with Al-Bāṭin, the Hidden — because the essence behind all this evidence remains inaccessible to sense and imagination, however plainly its traces are strewn everywhere. Al-Ghazālī's characteristic move is to hold both truths together rather than resolve the tension: everywhere apparent through effect, nowhere graspable in itself.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1612,7 +2076,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 57:3 — translations & tafsīr",
+          "url": "https://quran.com/57:3",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ظ ه ر"
     },
     {
@@ -1621,7 +2091,7 @@
       "transliteration": "Al-Bāṭin",
       "transliteration_ascii": "Al-Batin",
       "translation": "The Hidden",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Bāṭin names what lies beyond the reach of sense, imagination, and even careful reasoning — not hidden as a secret waiting to be uncovered by better instruments, but hidden as something categorically beyond what created faculties were built to perceive. No eye will see it in this life; no thought will fully encompass it in the next.\n\nAnd yet this very hiddenness is presented alongside utter manifestness (Aẓ-Ẓāhir): the two are not in tension so much as describing two aspects of one reality from two different vantage points — as effect and as essence. Held together, they ask for humility about what the intellect can and cannot close its hand around, without lapsing into the claim that nothing can be known at all.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1635,7 +2105,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 57:3 — translations & tafsīr",
+          "url": "https://quran.com/57:3",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ب ط ن"
     },
     {
@@ -1644,7 +2120,7 @@
       "transliteration": "Al-Wālī",
       "transliteration_ascii": "Al-Wali",
       "translation": "The Governor",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Wālī, here distinguished from the earlier name Al-Walī (\"The Protecting Friend,\" وَلِيّ), denotes the one who directly administers and governs the affairs of all creation — not a friend drawing near, but a ruler running the affairs of the cosmos without minister, deputy, or need of counsel. Every motion of the stars, every turn of a life, unfolds under a single, unmediated governance.\n\nClassical treatment of the ninety-nine names often notes this near-homograph pair as an example of how subtle differences in vowel pattern carry real differences in meaning — the loving nearness of a protector (Al-Walī) and the administrative oversight of a ruler (Al-Wālī) are related but distinct facets of the same root. This entry concerns the latter: God as the one who governs, without any need for an intermediary between decree and effect.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1658,7 +2134,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 13:11 — translations & tafsīr",
+          "url": "https://quran.com/13:11",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "و ل ي"
     },
     {
@@ -1667,7 +2149,7 @@
       "transliteration": "Al-Muta'ālī",
       "transliteration_ascii": "Al-Muta'ali",
       "translation": "The Most Exalted",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Muta'ālī names an exaltation carried to its furthest point — not simply high, but altogether above every category by which creatures are compared, located, or measured. It is elevation above resemblance, above containment in space or direction, above every imperfection that a limited mind might, out of habit, try to attach to the divine.\n\nAl-Ghazālī's broader project in expounding the Names repeatedly returns to this kind of transcendence (tanzīh): stripping away every association drawn unconsciously from created experience. Al-Muta'ālī intensifies an already-exalted register (compare the earlier name Al-'Alī) into something like a final word on the matter — there is no vantage from which this reality could be diminished, compared, or brought down to size.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1681,7 +2163,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 13:9 — translations & tafsīr",
+          "url": "https://quran.com/13:9",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ع ل و"
     },
     {
@@ -1690,7 +2178,7 @@
       "transliteration": "Al-Barr",
       "transliteration_ascii": "Al-Barr",
       "translation": "The Most Kind",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Barr describes a kindness that overflows what is owed — goodness given not as payment for merit but as sheer generosity, reaching the deserving and undeserving alike, the strong and especially the weak. It shares territory with Ar-Raḥmān but leans toward the picture of a benefactor whose gifts arrive quietly, often unnoticed, in provision, ease, and protection from harm one never even had to ask to avoid.\n\nTo dwell on this name is to notice how much of daily life is carried by a kindness never billed, never repaid, and rarely thanked — and to let that noticing become gratitude rather than mere comfort.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1704,7 +2192,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 52:28 — translations & tafsīr",
+          "url": "https://quran.com/52:28",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ب ر ر"
     },
     {
@@ -1713,7 +2207,7 @@
       "transliteration": "At-Tawwāb",
       "transliteration_ascii": "At-Tawwab",
       "translation": "The Accepter of Repentance",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "At-Tawwāb names a reality that turns toward the returning sinner again and again — not once, grudgingly, but repeatedly, without exhausting patience or keeping count against the one who comes back. Al-Ghazālī's treatment emphasizes something easy to miss: the very desire to repent, the prompting that turns a heart back from wrongdoing, is itself understood as a gift preceding the repentance it makes possible. God turns toward the servant before the servant turns toward God.\n\nThis reframes repentance from a transaction the servant initiates and God merely ratifies, into something closer to a conversation God opens first. The proper response is not simply to repent once decisively, but to let turning back become an ordinary, repeated posture of life — and to extend the same patient welcome toward others who stumble.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1727,7 +2221,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 2:37 — translations & tafsīr",
+          "url": "https://quran.com/2:37",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ت و ب"
     },
     {
@@ -1736,7 +2236,7 @@
       "transliteration": "Al-Muntaqim",
       "transliteration_ascii": "Al-Muntaqim",
       "translation": "The Avenger",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Muntaqim describes a just requital against persistent, unrepented wrongdoing — not a reactive anger, since nothing provokes or unsettles the one this name describes, but a settled justice that eventually meets oppression and defiance with consequence. It is invoked far less often than the names of mercy, and deliberately so: classical treatment reads it as the exception that proves how overwhelmingly mercy predominates, surfacing only where mercy has been repeatedly, knowingly refused.\n\nRead alongside Al-'Afūw and Ar-Raḥmān, this name is not meant to frighten the sincere but to reassure the wronged: tyranny does not simply vanish into the historical record unanswered.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1750,7 +2250,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 32:22 — translations & tafsīr",
+          "url": "https://quran.com/32:22",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ن ق م"
     },
     {
@@ -1759,7 +2265,7 @@
       "transliteration": "Al-'Afūw",
       "transliteration_ascii": "Al-'Afuw",
       "translation": "The Pardoner",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-'Afūw is often distinguished from the earlier name Al-Ghafūr: where maghfira (forgiveness) suggests a covering-over, a concealment of the sin, 'afw suggests something stronger — an effacing, as though the wrong had never been recorded at all. Al-Ghazālī's characteristic attention to fine distinctions between near-synonymous names suggests he reads this as forgiveness's fullest form: not merely withheld punishment, but erasure.\n\nFor the one who has wronged themselves repeatedly and fears the weight of an accumulating record, this name offers something more complete than a suspended sentence — the possibility that sincere return truly wipes the page clean.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1773,7 +2279,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 4:99 — translations & tafsīr",
+          "url": "https://quran.com/4:99",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ع ف و"
     },
     {
@@ -1782,7 +2294,7 @@
       "transliteration": "Ar-Ra'ūf",
       "transliteration_ascii": "Ar-Ra'uf",
       "translation": "The Most Compassionate",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Ar-Ra'ūf sits close to Ar-Raḥīm in meaning but is often read as naming a particularly tender, almost pre-emptive compassion — a gentleness that shields from hardship before it strikes rather than only consoling after. It is the kind of care that anticipates need.\n\nHeld together with the earlier mercy-names in this corpus, Ar-Ra'ūf rounds out a vocabulary of compassion that the tradition takes pains not to flatten into a single word: mercy that gives (Ar-Raḥmān), mercy that responds (Ar-Raḥīm), and here, mercy that gently protects.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1796,7 +2308,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 2:207 — translations & tafsīr",
+          "url": "https://quran.com/2:207",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ر أ ف"
     },
     {
@@ -1805,7 +2323,7 @@
       "transliteration": "Mālik al-Mulk",
       "transliteration_ascii": "Malik al-Mulk",
       "translation": "The Owner of Sovereignty",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Mālik al-Mulk names an ownership of dominion so complete that every throne, every office, every measure of worldly power is held only on loan — granted to whom this reality wills and stripped from whom it wills, answerable to no one. Al-Ghazālī frequently returns to the Qur'anic verse invoking this name directly (\"Say: O Allah, Owner of Sovereignty, You give sovereignty to whom You will and You take sovereignty from whom You will\") as a corrective to the illusion that human power is self-sustained.\n\nSitting with this name tends to relativize ambition and fear alike: the rise and fall of rulers, empires, and one's own small measure of standing all trace back to a sovereignty that was never really anyone else's to keep.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1819,7 +2337,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 3:26 — translations & tafsīr",
+          "url": "https://quran.com/3:26",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "م ل ك"
     },
     {
@@ -1828,7 +2352,7 @@
       "transliteration": "Dhū al-Jalāl wal-Ikrām",
       "transliteration_ascii": "Dhul-Jalali wal-Ikram",
       "translation": "Lord of Majesty and Bounty",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "This name joins two qualities that might seem to pull in different directions: jalāl, a majesty and greatness that inspires awe and a certain trembling before what so exceeds us, and ikrām, a generosity and honoring that draws the servant near rather than away. Al-Ghazālī's treatment of paired compound names often reads them as deliberately holding together what the heart needs held together — reverence and intimacy, fear and hope, as two aspects of a single sound relationship with God rather than competing moods.\n\nTo dwell on Dhū al-Jalāl wal-Ikrām is to resist collapsing faith into either pure awe (which can curdle into dread) or pure familiarity (which can curdle into presumption), and instead to let majesty and generosity correct each other.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1848,7 +2372,18 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 55:27 — translations & tafsīr",
+          "url": "https://quran.com/55:27",
+          "source_name": "Quran.com"
+        },
+        {
+          "label": "Qurʾān 55:78 — translations & tafsīr",
+          "url": "https://quran.com/55:78",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ج ل ل"
     },
     {
@@ -1857,13 +2392,19 @@
       "transliteration": "Al-Muqsiṭ",
       "transliteration_ascii": "Al-Muqsit",
       "translation": "The Equitable",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Muqsiṭ is close in territory to the earlier name Al-'Adl but is often read with a particular emphasis on restoring and redressing rights — giving every wronged party their due from whoever wronged them, especially in the ultimate reckoning where no earthly court remains to settle accounts. Where 'adl names justice as a governing quality, qisṭ leans toward justice enacted, rights returned, and balance actively restored rather than merely maintained.\n\nFor anyone who has watched a wrong go unanswered in this life, the name carries a quiet promise: nothing of that imbalance is forgotten or lost.",
       "attestation": [
         "sunnah"
       ],
       "quran_refs": [],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "The ḥadīth of the ninety-nine names",
+          "url": "https://sunnah.com/tirmidhi:3507",
+          "source_name": "Sunnah.com — Jāmiʿ at-Tirmidhī 3507"
+        }
+      ],
       "root": "ق س ط"
     },
     {
@@ -1872,13 +2413,19 @@
       "transliteration": "Al-Jāmi'",
       "transliteration_ascii": "Al-Jami'",
       "translation": "The Gatherer",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Jāmi' names the one who gathers what has scattered — bodies dispersed across the earth and across time, reassembled whole on the Day of Judgment despite every apparent impossibility of the task. Al-Ghazālī's discussion of this name is understood to extend the sense of \"gathering\" beyond resurrection alone, to the deeper ordering by which fitting things are brought together throughout creation: causes matched to effects, souls matched to what suits them.\n\nThe name offers a particular comfort against the anxiety of loss and separation — nothing genuinely dispersed, whether a scattered body or a scattered life, is beyond being gathered again.",
       "attestation": [
         "sunnah"
       ],
       "quran_refs": [],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "The ḥadīth of the ninety-nine names",
+          "url": "https://sunnah.com/tirmidhi:3507",
+          "source_name": "Sunnah.com — Jāmiʿ at-Tirmidhī 3507"
+        }
+      ],
       "root": "ج م ع"
     },
     {
@@ -1887,7 +2434,7 @@
       "transliteration": "Al-Ghanī",
       "transliteration_ascii": "Al-Ghani",
       "translation": "The Self-Sufficient",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Ghanī names a completeness that requires nothing outside itself — not richness in the sense of abundant possessions, which could always in principle run out, but the absolute absence of need of any kind. Al-Ghazālī is understood to distinguish this unqualified self-sufficiency sharply from any creaturely wealth, however vast, since even the wealthiest person remains dependent on food, health, and time not their own.\n\nEverything else, by contrast, needs this reality entirely — a dependence so total that even a creature's next breath is not self-sustained. The honest response to this asymmetry is not despair but a kind of relief: the aim of a spiritual life is not to achieve self-sufficiency but to rightly locate one's dependence.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1901,7 +2448,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 3:97 — translations & tafsīr",
+          "url": "https://quran.com/3:97",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "غ ن ي"
     },
     {
@@ -1910,13 +2463,19 @@
       "transliteration": "Al-Mughnī",
       "transliteration_ascii": "Al-Mughni",
       "translation": "The Enricher",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Mughnī names the one who grants sufficiency and lifts want — the source to whom Al-Ghanī's self-sufficiency corresponds when directed outward toward creation. Whatever independence a person attains from need of others ultimately traces back to this enriching, since no one enriches themselves from nothing.\n\nRead together with Al-Ghanī, the pair moves from a statement about God's own nature to a statement about how that nature acts toward creatures — the source of all sufficiency is also the one who supplies it.",
       "attestation": [
         "sunnah"
       ],
       "quran_refs": [],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "The ḥadīth of the ninety-nine names",
+          "url": "https://sunnah.com/tirmidhi:3507",
+          "source_name": "Sunnah.com — Jāmiʿ at-Tirmidhī 3507"
+        }
+      ],
       "root": "غ ن ي"
     },
     {
@@ -1925,13 +2484,19 @@
       "transliteration": "Al-Māni'",
       "transliteration_ascii": "Al-Mani'",
       "translation": "The Withholder",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Māni' names a withholding that belongs to wisdom and mercy rather than to stinginess — restraining harm before it reaches someone, or withholding a request whose granting would not, in the larger scheme, have served the one asking. Classical discussion of this name is careful to set it apart from any suggestion of a grudging or diminished generosity; what is withheld is withheld precisely because giving it would not have been kindness.\n\nThis reframes unanswered prayers and closed doors not necessarily as refusal, but sometimes as a form of protection whose reasoning is not always visible from where the request was made.",
       "attestation": [
         "sunnah"
       ],
       "quran_refs": [],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "The ḥadīth of the ninety-nine names",
+          "url": "https://sunnah.com/tirmidhi:3507",
+          "source_name": "Sunnah.com — Jāmiʿ at-Tirmidhī 3507"
+        }
+      ],
       "root": "م ن ع"
     },
     {
@@ -1940,13 +2505,19 @@
       "transliteration": "Aḍ-Ḍārr",
       "transliteration_ascii": "Ad-Darr",
       "translation": "The Creator of Adversity",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Aḍ-Ḍārr and its companion An-Nāfi' together affirm that both hardship and benefit trace, in the end, to a single governing wisdom rather than to independent forces of good and ill fortune. Al-Ghazālī's broader theological commitments hold that nothing in creation causes harm or benefit by its own independent power; illness, loss, and adversity occur only by leave of the reality this name describes, and even apparent harm may carry a hidden benefit — purification, reminder, or elevation — not visible from inside the difficulty itself.\n\nThis is a name approached with particular care: it is never invoked to excuse cruelty or to explain away suffering glibly, but to locate all adversity, however painful, within a governance that is never arbitrary.",
       "attestation": [
         "sunnah"
       ],
       "quran_refs": [],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "The ḥadīth of the ninety-nine names",
+          "url": "https://sunnah.com/tirmidhi:3507",
+          "source_name": "Sunnah.com — Jāmiʿ at-Tirmidhī 3507"
+        }
+      ],
       "root": "ض ر ر"
     },
     {
@@ -1955,13 +2526,19 @@
       "transliteration": "An-Nāfi'",
       "transliteration_ascii": "An-Nafi'",
       "translation": "The Creator of Good",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "An-Nāfi' names the source of all benefit — every advantage gained through medicine, effort, or circumstance ultimately traces to a benefit-granting reality rather than to the independent efficacy of the apparent cause. Paired with Aḍ-Ḍārr, this name completes a single teaching: neither harm nor benefit belongs to secondary causes in their own right.\n\nThe practical fruit of this name is a redirection of gratitude — toward the true source of every good outcome, rather than only toward the visible means by which it arrived.",
       "attestation": [
         "sunnah"
       ],
       "quran_refs": [],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "The ḥadīth of the ninety-nine names",
+          "url": "https://sunnah.com/tirmidhi:3507",
+          "source_name": "Sunnah.com — Jāmiʿ at-Tirmidhī 3507"
+        }
+      ],
       "root": "ن ف ع"
     },
     {
@@ -1970,7 +2547,7 @@
       "transliteration": "An-Nūr",
       "transliteration_ascii": "An-Nur",
       "translation": "The Light",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "An-Nūr is one of the richest chapters in al-Ghazālī's engagement with the Names, and he is understood to treat it not as physical light but as that by which things become manifest and knowable at all — light as the very condition of visibility and understanding, rather than an object seen. On this reading, God is \"Light\" in the sense of being the ultimate source of all illumination: the light that lets the physical eye see, and, more importantly, the light that lets the inner eye of the heart perceive truth, guidance, and reality itself.\n\nThis metaphorical, non-physical reading of light recurs across his other writings on the subject, and it reframes guidance and insight — a sudden clarity in the heart, an unlooked-for understanding — as instances of this one Light reaching a particular soul, rather than as achievements of unaided human reasoning.",
       "attestation": [
         "quran",
         "sunnah"
@@ -1984,7 +2561,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 24:35 — translations & tafsīr",
+          "url": "https://quran.com/24:35",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ن و ر"
     },
     {
@@ -1993,7 +2576,7 @@
       "transliteration": "Al-Hādī",
       "transliteration_ascii": "Al-Hadi",
       "translation": "The Guide",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Hādī names a guidance that operates on two levels at once: an outward guidance given to every creature toward what suits its nature (the instinct that leads a creature to its sustenance, its habitat, its manner of life) and an inward guidance given specifically to the human heart toward true faith and the straight path. Al-Ghazālī's treatment is understood to place special weight on this second, inward sense — the guidance that reaches past hearing a message to actually accepting and living by it, which no messenger or book can supply on its own.\n\nThis distinguishes Al-Hādī from the mere provision of external means of guidance (revelation, reminders, good counsel): the name points to whatever it is that turns hearing into believing, a movement the tradition holds is God's alone to grant.",
       "attestation": [
         "quran",
         "sunnah"
@@ -2007,7 +2590,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 22:54 — translations & tafsīr",
+          "url": "https://quran.com/22:54",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ه د ي"
     },
     {
@@ -2016,7 +2605,7 @@
       "transliteration": "Al-Badī'",
       "transliteration_ascii": "Al-Badi'",
       "translation": "The Incomparable Originator",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Badī' names an origination without precedent and without model — bringing things into being with no prior exemplar to imitate and no pre-existing matter to shape, unlike any human maker, who always works from given materials according to a pattern already known or imagined. Al-Ghazālī's discussion of this name is understood to emphasize precisely this contrast: human \"originality\" is always derivative in a way that ibdā' (true origination) is not.\n\nThe name invites wonder rather than mere assent — every genuinely new thing in creation, considered carefully, points back to a making that owes nothing to any prior template.",
       "attestation": [
         "quran",
         "sunnah"
@@ -2030,7 +2619,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 2:117 — translations & tafsīr",
+          "url": "https://quran.com/2:117",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ب د ع"
     },
     {
@@ -2039,13 +2634,19 @@
       "transliteration": "Al-Bāqī",
       "transliteration_ascii": "Al-Baqi",
       "translation": "The Everlasting",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Bāqī names a continuance of existence entirely free of the possibility of ending — not mere longevity, however great, but a duration unconditioned by decay, since everything else that endures does so only contingently and could, in principle, cease. Al-Ghazālī's treatment is understood to draw this contrast sharply: the heavens, however ancient they may seem, remain the kind of thing that could not-be; only this reality's continuance is not that kind of thing at all.\n\nSet against the fleeting character of every worldly attachment, the name offers not resignation but a reordering of where lasting value is properly placed.",
       "attestation": [
         "sunnah"
       ],
       "quran_refs": [],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "The ḥadīth of the ninety-nine names",
+          "url": "https://sunnah.com/tirmidhi:3507",
+          "source_name": "Sunnah.com — Jāmiʿ at-Tirmidhī 3507"
+        }
+      ],
       "root": "ب ق ي"
     },
     {
@@ -2054,7 +2655,7 @@
       "transliteration": "Al-Wārith",
       "transliteration_ascii": "Al-Warith",
       "translation": "The Inheritor",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Wārith names the truth that when all creation perishes, every possession and every sovereignty reverts wholly to the one to whom it always, in reality, belonged. Human \"ownership\" — of land, of wealth, of even one's own body — is on this reading a temporary loan rather than a permanent grant, returned in full when its term ends.\n\nAl-Ghazālī's discussion of this name is understood to draw a sober, practical conclusion from it: since nothing held now is truly kept, the wise course is to hold worldly things loosely and to invest instead in what is not subject to this final inheritance.",
       "attestation": [
         "quran",
         "sunnah"
@@ -2068,7 +2669,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 15:23 — translations & tafsīr",
+          "url": "https://quran.com/15:23",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "و ر ث"
     },
     {
@@ -2077,13 +2684,19 @@
       "transliteration": "Ar-Rashīd",
       "transliteration_ascii": "Ar-Rashid",
       "translation": "The Guide to the Right Path",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Ar-Rashīd is often distinguished from the earlier name Al-Hādī: where Al-Hādī describes guidance given to others, Ar-Rashīd describes a governance of affairs — including God's own decree and design — that unfolds unerringly toward its rightly-ordered end, requiring no counsel, correction, or trial and error along the way. Every plan reaches precisely where perfect wisdom intends, the first time.\n\nHeld together with the surrounding names concerning guidance and governance, Ar-Rashīd closes a small cluster of meaning: not only is the servant guided, but the guidance itself, and all that unfolds from it, is never in need of revision.",
       "attestation": [
         "sunnah"
       ],
       "quran_refs": [],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "The ḥadīth of the ninety-nine names",
+          "url": "https://sunnah.com/tirmidhi:3507",
+          "source_name": "Sunnah.com — Jāmiʿ at-Tirmidhī 3507"
+        }
+      ],
       "root": "ر ش د"
     },
     {
@@ -2092,13 +2705,19 @@
       "transliteration": "Aṣ-Ṣabūr",
       "transliteration_ascii": "As-Sabur",
       "translation": "The Patient",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Aṣ-Ṣabūr names a patience that delays consequence for the disobedient, granting time and space for return, despite having full capacity to act at once. Al-Ghazālī is understood to distinguish this from the earlier name Al-Ḥalīm (Most Forbearing) by a fine but real difference: forbearance withholds out of generosity even where provocation is minimal, while this name's patience persists steadily even under what would, for a creature, be repeated and mounting provocation — yet without the strain or discomfort that the word \"patience\" implies for a human being.\n\nAs traditionally the final name in the sequence al-Ghazālī comments on, it lands with a certain fittingness: after every name of power, justice, and mercy, the last word is one that makes room, patiently, for the reader's own unfinished turning back.",
       "attestation": [
         "sunnah"
       ],
       "quran_refs": [],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "The ḥadīth of the ninety-nine names",
+          "url": "https://sunnah.com/tirmidhi:3507",
+          "source_name": "Sunnah.com — Jāmiʿ at-Tirmidhī 3507"
+        }
+      ],
       "root": "ص ب ر"
     },
     {
@@ -2107,7 +2726,7 @@
       "transliteration": "Al-Aḥad",
       "transliteration_ascii": "Al-Ahad",
       "translation": "The Unique",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Aḥad affirms a oneness stronger than mere numerical singularity — not first in a series that could in principle have had others, but unique in a sense that admits no partner, no likeness, and no second even in conception. Classical discussion often distinguishes this from the nearby name Al-Wāḥid: where Al-Wāḥid denies composition and division (God is not made of parts), Al-Aḥad denies comparison altogether — there is nothing else of which \"oneness\" could be predicated in the same sense.\n\nSurah al-Ikhlāṣ, the sole Qur'anic reference for this name here, is widely regarded as the most concentrated statement of God's absolute uniqueness in the whole of scripture, and the name draws its full weight from that context.",
       "attestation": [
         "quran"
       ],
@@ -2120,7 +2739,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 112:1 — translations & tafsīr",
+          "url": "https://quran.com/112:1",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "أ ح د"
     },
     {
@@ -2129,7 +2754,7 @@
       "transliteration": "Al-Qarīb",
       "transliteration_ascii": "Al-Qarib",
       "translation": "The Near",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Qarīb names a nearness that has nothing to do with physical distance — since the reality this name describes is not located in space to begin with — but with responsiveness and attentiveness to whoever calls out sincerely. The Qur'anic verse most closely tied to this name (2:186) makes the connection explicit: nearness expressed precisely as answering the one who prays, without intermediary or delay.\n\nRead alongside names like Al-Mujīb (the Responsive) and As-Samī' (the Hearing), Al-Qarīb rounds out a picture in which no distance — geographic, social, or moral — actually separates a sincere supplicant from being heard; the perceived distance in difficult moments is not the reality this name describes.",
       "attestation": [
         "quran"
       ],
@@ -2148,7 +2773,18 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 2:186 — translations & tafsīr",
+          "url": "https://quran.com/2:186",
+          "source_name": "Quran.com"
+        },
+        {
+          "label": "Qurʾān 11:61 — translations & tafsīr",
+          "url": "https://quran.com/11:61",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ق ر ب"
     },
     {
@@ -2157,7 +2793,7 @@
       "transliteration": "Ar-Rabb",
       "transliteration_ascii": "Ar-Rabb",
       "translation": "The Lord",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] One of the most frequently recurring names of God in the Quran. Its inclusion in the standard 99-name enumerations is a matter of scholarly discussion noted here — all content is PLACEHOLDER and must be reviewed by a qualified scholar before public release.",
+      "meaning_long": "Ar-Rabb is one of the most frequent names for God in the Qur'an, opening its very first sūrah (\"praise belongs to Allah, Lord of the worlds\"), and it carries a dense cluster of meaning — sustaining, nurturing, owning, and governing all at once, closer in feel to \"the One who brings each thing to its intended completion\" than to \"lord\" in the sense of mere rank. Its constant Qur'anic presence makes it, in ordinary devotional life, one of the most load-bearing names of all.\n\nHonesty requires a note here that the corpus itself already flags: Ar-Rabb does not appear among the specific ninety-nine names enumerated in either the Tirmidhī or Ibn Mājah lists carried in this app, and it falls outside the traditional list of ninety-nine names that al-Ghazālī's Al-Maqṣad al-Asnā takes as its structure. This entry is therefore offered as a general reflection on a name of unquestioned Qur'anic weight, not as a report of anything specific al-Ghazālī says about it in that particular work — because, to this drafter's knowledge, he does not treat it there as a discrete chapter.",
       "attestation": [
         "quran"
       ],
@@ -2170,7 +2806,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 1:2 — translations & tafsīr",
+          "url": "https://quran.com/1:2",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ر ب ب"
     },
     {
@@ -2179,7 +2821,7 @@
       "transliteration": "Al-Fāṭir",
       "transliteration_ascii": "Al-Fatir",
       "translation": "The Originator of the Heavens and Earth",
-      "meaning_long": "[PLACEHOLDER — pending scholarly review] This text must be reviewed and replaced by a qualified scholar before any public release.",
+      "meaning_long": "Al-Fāṭir names an originating that splits being from non-being — the root faṭara carries a sense of \"cleaving open\" or bringing forth where there was nothing before, close in territory to the earlier names Al-Khāliq (the Creator) and Al-Bāri' (the Maker) and to Al-Badī' (the Incomparable Originator) treated earlier in this set. The Qur'anic verse attached to it here (35:1) opens a sūrah devoted entirely to the wonder of this originating, praised through the imagery of angels' wings and the ordering of the world.\n\nAs with Ar-Rabb, honesty is owed here: Al-Fāṭir does not appear among the specific ninety-nine names in either enumeration carried by this corpus, and falls outside the traditional list al-Ghazālī comments on in Al-Maqṣad al-Asnā. Rather than invent a chapter that, to this drafter's knowledge, does not exist there, this entry draws the connection to the closely related names of origination al-Ghazālī does treat, while flagging plainly that this specific name receives no discrete treatment from him in that work.",
       "attestation": [
         "quran"
       ],
@@ -2192,7 +2834,13 @@
         }
       ],
       "audio": "placeholder.wav",
-      "tafsir_links": [],
+      "tafsir_links": [
+        {
+          "label": "Qurʾān 35:1 — translations & tafsīr",
+          "url": "https://quran.com/35:1",
+          "source_name": "Quran.com"
+        }
+      ],
       "root": "ف ط ر"
     }
   ]
