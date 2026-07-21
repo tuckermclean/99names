@@ -117,9 +117,15 @@ No accounts/login, social/sharing feeds, notifications/streaks/gamification, qui
 
 ---
 
-## Working in this repo — using a subagent swarm
+## Working in this repo — execution contract (non-negotiable)
 
-**Spawning specialist agents in parallel is encouraged.** This project has clear, separable concerns; a well-aimed swarm will move faster than a single generalist agent working serially. Good divisions:
+**All work is done by subagents. The lead agent does not.** This is a hard rule, not a preference:
+
+- **Subagents run as Sonnet and do all execution** — every code edit, file write, shell command, and build step. Farm work out and run subagents **in parallel** to keep throughput high; keep busy rather than working serially.
+- **The lead agent (Fable / Opus) does only two things: planning and final review.** It never writes code itself and never babysits a shell. If the lead is tempted to make an edit or run a command, that is a signal to spawn a subagent instead.
+- **A recurring check-in loop (every 20–30 min) is in effect.** It exists so the lead returns periodically to check on farmed-out work and to **resume automatically after any session-limit interruption**. Hitting a session limit is expected and fine — come back and start again; do not treat it as failure.
+
+**Spawning specialist agents in parallel is the default.** This project has clear, separable concerns; a well-aimed swarm moves faster than a single generalist working serially. Good divisions:
 
 | Work area | Suggested specialist |
 |---|---|
