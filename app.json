@@ -23,6 +23,9 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
+    "experiments": {
+      "baseUrl": "/99names"
+    },
     "plugins": [
       [
         "expo-splash-screen",
